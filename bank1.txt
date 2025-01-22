@@ -38,9 +38,8 @@ Euro Radio                Bank 1 Stacja 39  https://stream.laut.fm/euroradio
 Radio Musicfactoryoristan Bank 1 Stacja 40  https://stream.laut.fm/musicfactoryoristano
 Radio Panorama 80         Bank 1 Stacja 41  https://stream.laut.fm/panorama80
 Radio Fama                Bank 1 Stacja 44  http://stream2.nadaje.com:8076/
-Radio Cdis                Bank 1 Stacja 45  https://stream.laut.fm/radiocdis
+Tok FM                    Bank 1 Stacja 45  http://22593.live.streamtheworld.com/RADIO_TOKFM.mp3
 Radio R.SA Italo Disco    Bank 1 Stacja 46  https://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-192-8734471
-Muzyczne Radio Best       Bank 1 Stacja 47  http://stream3.nadaje.com:8600
 Radio Atlantic 80s        Bank 1 Stacja 48  https://chasbo1978.radioca.st/stream 
 Meloradio FM              Bank 1 Stacja 49  https://redir.atmcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
 Mega Radio                Bank 1 Stacja 50  https://n33a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABlEgG_J8AxEBEs4vWd9HCxA
@@ -65,20 +64,11 @@ Radio Heart 80s           Bank 1 Stacja 68  https://ice-sov.musicradio.com/Heart
 Unsung 80s Radio          Bank 1 Stacja 69  https://unsung80s.out.airtime.pro:8000/unsung80s_a
 Radio Mega 80s            Bank 1 Stacja 70  https://stream3.radiodienst.de/proxy/mega80s/80s
 Radio Love 80's           Bank 1 Stacja 71  https://playoutonestreaming.com/proxy/love80s2?mp=/;
-Radio Oldies FM           Bank 1 Stacja 72  https://hit-1.nty.uy/stream
-Radio 80s80s Love         Bank 1 Stacja 79  https://streams.80s80s.de/love/mp3-192/streams 
+Radio Oldies FM           Bank 1 Stacja 72  https://hit-1.nty.uy/stream 
 Radio Italo Disco         Bank 1 Stacja 80  https://broadcast.miami/proxy/italodisco?mp=/stream2/;
 Radio Vinyl Maxi FM       Bank 1 Stacja 81  https://stream.laut.fm/vinyl-maxi-fm
 Radio Disco               Bank 1 Stacja 85  https://stream.rcs.revma.com/cvswvmyewzzuv
 Intense Radio Dance       Bank 1 Stacja 86  http://secure.live-streams.nl/flac.ogg
-Soma FM Grove Salad       Bank 1 Stacja 87  https://somafm.com/groovesalad256.pls
-Soma FM Drone Zone        Bank 1 Stacja 88  https://somafm.com/dronezone256.pls
-Soma FM Undergroun 80     Bank 1 Stacja 89  https://somafm.com/u80s256.pls
-Radio Mediehuset 3 FM     Bank 1 Stacja 90  http://uk1.internet-radio.com:8150/live
-Radio Energy 106 Belfast  Bank 1 Stacja 91  http://192.111.140.6:9633/stream
-Radio The Zone Dublin     Bank 1 Stacja 92  http://uk1.internet-radio.com:8355/
-Radio Pirata TGR          Bank 1 Stacja 93  http://us1.internet-radio.com:8140/live
-Radio Classic Rock Planet Bank 1 Stacja 94  http://us5.internet-radio.com:8279/
 Radio The Big 80s Station Bank 1 Stacja 95  http://178.32.62.167:8545/stream
 Soundtracks Radio         Bank 1 Stacja 96  http://uk5.internet-radio.com:8256/
 The Hit Man Radio         Bank 1 Stacja 97  http://uk2.internet-radio.com:8121/

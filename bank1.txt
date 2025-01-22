@@ -11,18 +11,16 @@ Radio 7                   Bank 1 Stacja 10  http://stream.radio7.pl:8000
 RMF Classic               Bank 1 Stacja 11  http://31.192.216.3/rmf_classic
 Radio 357                 Bank 1 Stacja 12  https://stream.rcs.revma.com/an1ugyygzk8uv
 Radio Nowy Swiat          Bank 1 Stacja 13  http://stream.rcs.revma.com/ypqt40u0x1zuv.mp3
-Eska Slask                Bank 1 Stacja 14  https://waw.ic.smcdn.pl/2220-1.mp3
+Eska Bydgoszcz            Bank 1 Stacja 14  http://ic2.smcdn.pl:80/2030-1.mp3
 Mega Radio                Bank 1 Stacja 15  https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
 PR-1 Polskiego Radia      Bank 1 Stacja 16  http://stream3.polskieradio.pl:8950
 PR-2 Polskiego Radia      Bank 1 Stacja 17  http://stream3.polskieradio.pl:8952
 PR-3 Polskiego Radia      Bank 1 Stacja 18  http://stream3.polskieradio.pl:8954
 PR-4 Polskiego Radia      Bank 1 Stacja 19  http://stream3.polskieradio.pl:8906
-Meloradio Katowice        Bank 1 Stacja 20  https://ml.cdn.eurozet.pl/mel-ktw.mp3
-181.fm Country 80's       Bank 1 Stacja 21  http://listen.181fm.com:8134
-181.fm Country 90's       Bank 1 Stacja 22  http://listen.181fm.com/181-90scountry_128k.mp3?noPreRoll=true#181.FM
-181.fm - Highway 181      Bank 1 Stacja 23  https://listen.181fm.com/181-highway_128k.mp3
+PR24 Polskie Radio        Bank 1 Stacja 84  http://mp3.polskieradio.pl:8080/;
+Meloradio                 Bank 1 Stacja 20  http://ml.cdn.eurozet.pl/mel-trn.mp3
 TOK FM                    Bank 1 Stacja 24  http://radiostream.pl/tuba10-1.mp3
-Vox FM                    Bank 1 Stacja 25  https://waw.ic.smcdn.pl/3990-1.mp3
+Vox FM                    Bank 1 Stacja 25  http://waw.ic.smcdn.pl/3990-1.mp3
 Radio Chilli ZET FM       Bank 1 Stacja 26  https://ch01.cdn.eurozet.pl/chi-net.mp3
 Antyradio Classic Hits    Bank 1 Stacja 27  https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
 Rock Radio Polska         Bank 1 Stacja 28  https://radiostream.pl/tuba9006-1.mp3
@@ -39,8 +37,6 @@ Radio 80s Mix Radio       Bank 1 Stacja 38  https://stream.laut.fm/80s-mix-radio
 Euro Radio                Bank 1 Stacja 39  https://stream.laut.fm/euroradio
 Radio Musicfactoryoristan Bank 1 Stacja 40  https://stream.laut.fm/musicfactoryoristano
 Radio Panorama 80         Bank 1 Stacja 41  https://stream.laut.fm/panorama80
-Radiodillo                Bank 1 Stacja 42  https://stream.laut.fm/radiodillo
-Sunbeatsradio             Bank 1 Stacja 43  https://stream.laut.fm/sunbeatsradio
 Radio Fama                Bank 1 Stacja 44  http://stream2.nadaje.com:8076/
 Radio Cdis                Bank 1 Stacja 45  https://stream.laut.fm/radiocdis
 Radio R.SA Italo Disco    Bank 1 Stacja 46  https://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-192-8734471
@@ -70,18 +66,9 @@ Unsung 80s Radio          Bank 1 Stacja 69  https://unsung80s.out.airtime.pro:80
 Radio Mega 80s            Bank 1 Stacja 70  https://stream3.radiodienst.de/proxy/mega80s/80s
 Radio Love 80's           Bank 1 Stacja 71  https://playoutonestreaming.com/proxy/love80s2?mp=/;
 Radio Oldies FM           Bank 1 Stacja 72  https://hit-1.nty.uy/stream
-0N 80s on Radio           Bank 1 Stacja 73  http://0n-70s.radionetz.de:8000/0n-80s.mp3
-Radio 1.FM All Euro 80s   Bank 1 Stacja 74  https://strm112.1.fm/80s_90s_mobile_mp3
-Radio 113.fm Awesome 80s  Bank 1 Stacja 75  https://113fm-atunwadigital.streamguys1.com/1003
-Radio 113.fm Electrolux   Bank 1 Stacja 76  https://113fm-edge1.cdnstream.com/1787_128
-Radio 80s Forever Radio   Bank 1 Stacja 77  https://premium.shoutcastsolutions.com/radio/8050/64AAC+.mp3
-Radio 80s80s Italo Disco  Bank 1 Stacja 78  https://streams.80s80s.de/italohits/mp3-192
 Radio 80s80s Love         Bank 1 Stacja 79  https://streams.80s80s.de/love/mp3-192/streams 
 Radio Italo Disco         Bank 1 Stacja 80  https://broadcast.miami/proxy/italodisco?mp=/stream2/;
 Radio Vinyl Maxi FM       Bank 1 Stacja 81  https://stream.laut.fm/vinyl-maxi-fm
-Radio PR1 Polskie Radio   Bank 1 Stacja 82  http://stream3.polskieradio.pl:8900/;
-Radio PR2 Polskie Radio   Bank 1 Stacja 83  http://mp3.polskieradio.pl:8902/;
-Radio PR24 Polskie Radio  Bank 1 Stacja 84  http://mp3.polskieradio.pl:8080/;
 Radio Disco               Bank 1 Stacja 85  https://stream.rcs.revma.com/cvswvmyewzzuv
 Intense Radio Dance       Bank 1 Stacja 86  http://secure.live-streams.nl/flac.ogg
 Soma FM Grove Salad       Bank 1 Stacja 87  https://somafm.com/groovesalad256.pls

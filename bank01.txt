@@ -28,14 +28,14 @@ RMF Chillout              Bank 1 Stacja 27  http://195.150.20.7/rmf_chillout
 RMF PRL                   Bank 1 Stacja 28  http://195.150.20.7/rmf_prl
 RMF Maxxx                 Bank 1 Stacja 29  https://rs6-krk2.rmfstream.pl/rmf_maxxx
 Chilli Zet                Bank 1 Stacja 30  https://ch01.cdn.eurozet.pl/chi-net.mp3
-Jazz 24 - HQ              Bank 1 Stacja 31  https://live.amperwave.net/direct/ppm-jazz24aac256-ibc1
-Jazz24                    Bank 1 Stacja 32  https://live.amperwave.net/direct/ppm-jazz24mp3-ibc1
+Radio Express             Bank 1 Stacja 31  http://www.radioexpress.pl/stream1
+RMF24.pl                  Bank 1 Stacja 32  http://rmfstream1.interia.pl:80/rmf_24
 Radio Vox Disco 90        Bank 1 Stacja 33  https://waw.ic.smcdn.pl/6170-1.mp3
 Radiofonia                Bank 1 Stacja 34  http://195.150.20.7/radiofonia
 Radio Dance Wave          Bank 1 Stacja 35  https://dancewave.online/dance.flac.ogg.m3u
 Radio 80s Mix Radio       Bank 1 Stacja 36  https://stream.laut.fm/80s-mix-radio
 Euro Radio                Bank 1 Stacja 37  https://stream.laut.fm/euroradio
-Radio Musicfactoryoristan Bank 1 Stacja 38  https://stream.laut.fm/musicfactoryoristano
+Radio Kujawy              Bank 1 Stacja 38  http://radio.kujawy.info:9940/;
 Radio Panorama 80         Bank 1 Stacja 39  https://stream.laut.fm/panorama80
 Radio Fama                Bank 1 Stacja 40  http://stream2.nadaje.com:8076/
 Tok FM                    Bank 1 Stacja 41  http://22593.live.streamtheworld.com/RADIO_TOKFM.mp3

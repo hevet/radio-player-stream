@@ -33,7 +33,7 @@ RMF24.pl                  Bank 1 Stacja 32  http://rmfstream1.interia.pl:80/rmf_
 RADIO KOLOR               Bank 1 Stacja 33  http://stream.rcs.revma.com/nrfscb49xd3vv
 Radio Wnet                Bank 1 Stacja 34  http://media.wnet.fm:80/wnet.fm
 ESKA ROCK                 Bank 1 Stacja 35  http://ic1.smcdn.pl/5380-1.mp3
-Radio 80s Mix Radio       Bank 1 Stacja 36  https://stream.laut.fm/80s-mix-radio
+Radio Bielsko             Bank 1 Stacja 36  http://n04a-eu.rcs.revma.com/062uq3z3kwzuv
 Euro Radio                Bank 1 Stacja 37  https://stream.laut.fm/euroradio
 Radio Kujawy              Bank 1 Stacja 38  http://radio.kujawy.info:9940/;
 Radio Panorama 80         Bank 1 Stacja 39  https://stream.laut.fm/panorama80

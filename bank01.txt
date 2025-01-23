@@ -1,9 +1,9 @@
 Antyradio                 Bank 1 Stacja 1   https://an01.cdn.eurozet.pl/ant-kat.mp3
 Radio Zlote Przeboje      Bank 1 Stacja 2   https://radiostream.pl/tuba8920-1.mp3
 RMF FM                    Bank 1 Stacja 3   http://195.150.20.7/rmf_fm
-Radio Italo 4 You         Bank 1 Stacja 4   http://s0.radiohost.pl:8018/stream
+RMF Maxx Bydgoszcz        Bank 1 Stacja 4   http://rmfstream1.interia.pl:80/rmf_maxxx_byd
 Radio ZET                 Bank 1 Stacja 5   https://zt04.cdn.eurozet.pl/ZETPAR.mp3?redirected=04
-Smoothjazz.com.pl         Bank 1 Stacja 6   http://bcast.vigormultimedia.com:8888/sjcompl192aac
+Eska2                     Bank 1 Stacja 6   http://ic2.smcdn.pl:80/1380-1.mp3
 Radio 90                  Bank 1 Stacja 7   http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
 Radio Plus                Bank 1 Stacja 8   https://ic2.smcdn.pl/4270-1.mp3
 Radio Pogoda              Bank 1 Stacja 9   http://stream10.radioagora.pl:80/tuba144-1.mp3
@@ -75,3 +75,4 @@ The Hit Man Radio         Bank 1 Stacja 74  http://uk2.internet-radio.com:8121/
 Radiofonia                Bank 1 Stacja 75  http://195.150.20.7/radiofonia
 DiscoParty.pl - Club Mix  Bank 1 Stacja 76  https://s3.slotex.pl/shoutcast/7354/stream
 DiscoParty.pl - Disco 1   Bank 1 Stacja 77  https://s1.slotex.pl/shoutcast/7432/stream
+Tok FM Muzyka             Bank 1 Stacja 78  http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3

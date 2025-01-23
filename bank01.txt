@@ -31,8 +31,8 @@ Chilli Zet                Bank 1 Stacja 30  https://ch01.cdn.eurozet.pl/chi-net.
 Radio Express             Bank 1 Stacja 31  http://www.radioexpress.pl/stream1
 RMF24.pl                  Bank 1 Stacja 32  http://rmfstream1.interia.pl:80/rmf_24
 Radio Vox Disco 90        Bank 1 Stacja 33  https://waw.ic.smcdn.pl/6170-1.mp3
-Radiofonia                Bank 1 Stacja 34  http://195.150.20.7/radiofonia
-Radio Dance Wave          Bank 1 Stacja 35  https://dancewave.online/dance.flac.ogg.m3u
+Radio Wnet                Bank 1 Stacja 34  http://media.wnet.fm:80/wnet.fm
+ESKA ROCK                 Bank 1 Stacja 35  http://ic1.smcdn.pl/5380-1.mp3
 Radio 80s Mix Radio       Bank 1 Stacja 36  https://stream.laut.fm/80s-mix-radio
 Euro Radio                Bank 1 Stacja 37  https://stream.laut.fm/euroradio
 Radio Kujawy              Bank 1 Stacja 38  http://radio.kujawy.info:9940/;

@@ -6,7 +6,7 @@ Radio ZET                 Bank 1 Stacja 5   https://zt04.cdn.eurozet.pl/ZETPAR.m
 Eska2                     Bank 1 Stacja 6   http://ic2.smcdn.pl:80/1380-1.mp3
 Radio 90                  Bank 1 Stacja 7   http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
 Radio Plus                Bank 1 Stacja 8   https://ic2.smcdn.pl/4270-1.mp3
-Radio Pogoda              Bank 1 Stacja 9   http://stream10.radioagora.pl:80/tuba144-1.mp3
+Radio Pogoda Bydgoszcz    Bank 1 Stacja 9   http://radiostream.pl/tuba143-1.mp3
 Radio 7                   Bank 1 Stacja 10  http://stream.radio7.pl:8000
 RMF Classic               Bank 1 Stacja 11  http://31.192.216.3/rmf_classic
 Radio 357                 Bank 1 Stacja 12  https://stream.rcs.revma.com/an1ugyygzk8uv
@@ -22,7 +22,7 @@ Meloradio                 Bank 1 Stacja 21  http://ml.cdn.eurozet.pl/mel-trn.mp3
 TOK FM                    Bank 1 Stacja 22  http://radiostream.pl/tuba10-1.mp3
 Vox FM                    Bank 1 Stacja 23  http://waw.ic.smcdn.pl/3990-1.mp3
 Radio Chilli ZET FM       Bank 1 Stacja 24  https://ch01.cdn.eurozet.pl/chi-net.mp3
-RADIO POGODA BYDGOSZCZ    Bank 1 Stacja 25  http://radiostream.pl/tuba143-1.mp3
+Radio Vanessa             Bank 1 Stacja 25  http://s1.slotex.pl:7358/;
 Rock Radio Polska         Bank 1 Stacja 26  https://radiostream.pl/tuba9006-1.mp3
 RMF Chillout              Bank 1 Stacja 27  http://195.150.20.7/rmf_chillout
 RMF PRL                   Bank 1 Stacja 28  http://195.150.20.7/rmf_prl
@@ -40,7 +40,7 @@ Radio Panorama 80         Bank 1 Stacja 39  https://stream.laut.fm/panorama80
 Radio Fama                Bank 1 Stacja 40  http://stream2.nadaje.com:8076/
 Tok FM                    Bank 1 Stacja 41  http://22593.live.streamtheworld.com/RADIO_TOKFM.mp3
 Muzyczne Radio            Bank 1 Stacja 42  https://stream1.dabcom.pl/mr_flac
-Radio Atlantic 80s        Bank 1 Stacja 43  https://chasbo1978.radioca.st/stream 
+Radio Toruń               Bank 1 Stacja 43  https://ssl-1.radiohost.pl:11512/stream 
 Meloradio FM              Bank 1 Stacja 44  https://redir.atmcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
 Mega Radio                Bank 1 Stacja 45  https://n33a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABlEgG_J8AxEBEs4vWd9HCxA
 Radio Disco               Bank 1 Stacja 46  https://stream.rcs.revma.com/cvswvmyewzzuv
@@ -59,3 +59,4 @@ Radio Classic Rock        Bank 1 Stacja 58  http://mp3.polskieradio.pl:8460
 Radio Przeboje PRL        Bank 1 Stacja 59  http://mp3.polskieradio.pl:8466
 Radio GRA Torun           Bank 1 Stacja 60  http://217.74.72.12/radio_gra
 Tok FM Muzyka             Bank 1 Stacja 61  http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3
+Radio Yanosik             Bank 1 Stacja 62  https://stream.rcs.revma.com/7vhveccrnquvv

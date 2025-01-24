@@ -21,27 +21,26 @@ WASZE RADIO               Bank 1 Stacja 19  https://sluchaj.link:5443/wasze
 WNET                      Bank 1 Stacja 20  http://media.wnet.fm:80/wnet.fm
 Radio Nuta                Bank 1 Stacja 21  http://stream.rcs.revma.com:80/0004tehdxzzuv
 Radio Disco               Bank 1 Stacja 22  http://stream.rcs.revma.com:80/cvswvmyewzzuv
-Vox FM                    Bank 1 Stacja 23  http://waw.ic.smcdn.pl/3990-1.mp3
-Radio Chilli ZET FM       Bank 1 Stacja 24  https://ch01.cdn.eurozet.pl/chi-net.mp3
-Radio Vanessa             Bank 1 Stacja 25  http://s1.slotex.pl:7358/;
-Rock Radio Polska         Bank 1 Stacja 26  https://radiostream.pl/tuba9006-1.mp3
-RMF Chillout              Bank 1 Stacja 27  http://195.150.20.7/rmf_chillout
-RMF PRL                   Bank 1 Stacja 28  http://195.150.20.7/rmf_prl
-RMF Maxxx                 Bank 1 Stacja 29  https://rs6-krk2.rmfstream.pl/rmf_maxxx
-Chilli Zet                Bank 1 Stacja 30  https://ch01.cdn.eurozet.pl/chi-net.mp3
-Radio Express             Bank 1 Stacja 31  http://www.radioexpress.pl/stream1
-RMF24.pl                  Bank 1 Stacja 32  http://rmfstream1.interia.pl:80/rmf_24
-RADIO KOLOR               Bank 1 Stacja 33  http://stream.rcs.revma.com/nrfscb49xd3vv
-Radio Wnet                Bank 1 Stacja 34  http://media.wnet.fm:80/wnet.fm
-ESKA ROCK                 Bank 1 Stacja 35  http://ic1.smcdn.pl/5380-1.mp3
-Radio Bielsko             Bank 1 Stacja 36  http://n04a-eu.rcs.revma.com/062uq3z3kwzuv
-Euro Radio                Bank 1 Stacja 37  https://stream.laut.fm/euroradio
-Radio Kujawy              Bank 1 Stacja 38  http://radio.kujawy.info:9940/;
-Radio Panorama 80         Bank 1 Stacja 39  https://stream.laut.fm/panorama80
+PR1	                      Bank 1 Stacja 23  http://stream3.polskieradio.pl:8900/
+PR2	                      Bank 1 Stacja 24  http://stream3.polskieradio.pl:8902/
+PR3	                      Bank 1 Stacja 25  http://stream3.polskieradio.pl:8954/
+PR4	                      Bank 1 Stacja 26  http://stream3.polskieradio.pl:8956/
+PR24	                    Bank 1 Stacja 27  http://stream3.polskieradio.pl:8080/
+PR DZIECIOM	              Bank 1 Stacja 28  http://stream3.polskieradio.pl:8966/
+PR Chopin	                Bank 1 Stacja 29  http://stream3.polskieradio.pl:8910/
+RADIO PIK	                Bank 1 Stacja 30  http://stream.radiopik.pl:9004/
+RDC	                      Bank 1 Stacja 31  http://stream2.nadaje.com:11140/rdc
+ANTYRADIO	                Bank 1 Stacja 32  http://an.cdn.eurozet.pl/ant-waw.mp3
+Radio Vanessa             Bank 1 Stacja 33  http://s1.slotex.pl:7358/;
+Radio Express             Bank 1 Stacja 34  http://www.radioexpress.pl/stream1
+RMF24.pl                  Bank 1 Stacja 35  http://rmfstream1.interia.pl:80/rmf_24
+RADIO KOLOR               Bank 1 Stacja 36  http://stream.rcs.revma.com/nrfscb49xd3vv
+Radio Bielsko             Bank 1 Stacja 37  http://n04a-eu.rcs.revma.com/062uq3z3kwzuv
+Euro Radio                Bank 1 Stacja 38  https://stream.laut.fm/euroradio
+Radio Kujawy              Bank 1 Stacja 39  http://radio.kujawy.info:9940/;
 Radio Fama                Bank 1 Stacja 40  http://stream2.nadaje.com:8076/
-Tok FM                    Bank 1 Stacja 41  http://22593.live.streamtheworld.com/RADIO_TOKFM.mp3
 Muzyczne Radio            Bank 1 Stacja 42  https://stream1.dabcom.pl/mr_flac
-Radio Toruń               Bank 1 Stacja 43  https://ssl-1.radiohost.pl:11512/stream 
+Radio Torun               Bank 1 Stacja 43  https://ssl-1.radiohost.pl:11512/stream 
 Meloradio FM              Bank 1 Stacja 44  https://redir.atmcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
 Mega Radio                Bank 1 Stacja 45  https://n33a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABlEgG_J8AxEBEs4vWd9HCxA
 Radio Disco               Bank 1 Stacja 46  https://stream.rcs.revma.com/cvswvmyewzzuv

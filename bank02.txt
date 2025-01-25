@@ -21,7 +21,7 @@ WASZE RADIO               Bank 1 Stacja 20  https://sluchaj.link:5443/wasze
 WNET                      Bank 1 Stacja 21  http://media.wnet.fm:80/wnet.fm
 Radio Nuta                Bank 1 Stacja 22  http://stream.rcs.revma.com:80/0004tehdxzzuv
 Radio Disco               Bank 1 Stacja 23  http://stream.rcs.revma.com:80/cvswvmyewzzuv
-PR1	                      Bank 1 Stacja 24  http://stream3.polskieradio.pl:8900/
+PR1                       Bank 1 Stacja 24  http://stream3.polskieradio.pl:8900/
 PR2	                      Bank 1 Stacja 25  http://stream3.polskieradio.pl:8902/
 PR3	                      Bank 1 Stacja 26  http://stream3.polskieradio.pl:8954/
 PR4	                      Bank 1 Stacja 27  http://stream3.polskieradio.pl:8956/

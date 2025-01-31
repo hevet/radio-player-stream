@@ -57,3 +57,4 @@ Radio Express             Bank 1 Stacja 56  http://www.radioexpress.pl/stream1
 RMF24.pl                  Bank 1 Stacja 57  http://rmfstream1.interia.pl:80/rmf_24
 VibeFM                    Bank 1 Stacja 58  http://ic2.smcdn.pl:80/6490-1.mp3
 Eska Rock HLS             Bank 1 Stacja 59  https://radio.stream.smcdn.pl/timeradio-p/5980-1.aac/playlist.m3u8
+Radio Zak                 Bank 1 Stacja 60  http://lodz.radio.pionier.net.pl:8000/radiozak.ogg

@@ -50,7 +50,7 @@ Radio Znin                Bank 1 Stacja 49  http://stream4.nadaje.com:8052
 Radio EL-Stacja           Bank 1 Stacja 50  http://radio.el-stacja.pl:8000/elstacja320mp3
 Radio Classic Rock        Bank 1 Stacja 51  http://mp3.polskieradio.pl:8460
 Radio Przeboje PRL        Bank 1 Stacja 52  http://mp3.polskieradio.pl:8466
-Tok FM Muzyka             Bank 1 Stacja 53  http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3
+Tok Plus Muzyka           Bank 1 Stacja 53  http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3
 Radio Yanosik             Bank 1 Stacja 54  https://stream.rcs.revma.com/7vhveccrnquvv
 Radio Vanessa             Bank 1 Stacja 55  http://s1.slotex.pl:7358/;
 Radio Express             Bank 1 Stacja 56  http://www.radioexpress.pl/stream1
@@ -59,3 +59,8 @@ VibeFM                    Bank 1 Stacja 58  http://ic2.smcdn.pl:80/6490-1.mp3
 Eska Rock HLS             Bank 1 Stacja 59  https://radio.stream.smcdn.pl/timeradio-p/5980-1.aac/playlist.m3u8
 Radio Zak                 Bank 1 Stacja 60  http://lodz.radio.pionier.net.pl:8000/radiozak.ogg
 PR Lodz                   Bank 1 Stacja 61  https://stream.radiolodz.toya.cloud/RadioLodz-1-HQ.ogg
+Wloclawek po polsku       Bank 1 Stacja 62  http://radio.kujawy.info:10140/1
+Radio RAM Wroclaw         Bank 1 Stacja 63  http://stream4.nadaje.com:9220/ram
+Radio 357                 Bank 1 Stacja 64  http://n25a-eu.rcs.revma.com:80/an1ugyygzk8uv
+Radio Nowy Swiat          Bank 1 Stacja 65  http://stream.nowyswiat.online/mp3
+BBC ONE                   bANK 1 Stacja 66  http://lstn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=128000

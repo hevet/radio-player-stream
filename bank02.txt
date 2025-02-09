@@ -4,7 +4,7 @@ RMF Classic               Bank 1 Stacja 3   http://31.192.216.3/rmf_classic
 RADIO GRA TORUN           Bank 1 Stacja 4   http://217.74.72.6:80/radio_gra
 Radio ZET                 Bank 1 Stacja 5   http://22353.live.streamtheworld.com/RADIO_ZET_SC
 Chilizet                  Bank 1 Stacja 6   http://ch01.cdn.eurozet.pl:80/chi-net.mp3
-MELORADIO                 Bank 1 Stacja 7   http://27793.live.streamtheworld.com/MELORADIOAAC.aac?dist=zet
+MELORADIO                 Bank 1 Stacja 7   http://ml01.cdn.eurozet.pl/mel-trn.mp3
 RADIO HIT Wloclawek       Bank 1 Stacja 8   http://46.170.199.85:8000/;
 MEGA RADIO                Bank 1 Stacja 9   http://stream.rcs.revma.com:80/q18ty3qhwzzuv
 VOX FM                    Bank 1 Stacja 10  http://ic2.smcdn.pl:80/3990-1.mp3

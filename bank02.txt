@@ -56,7 +56,7 @@ Radio Vanessa             Bank 1 Stacja 55  http://s1.slotex.pl:7358/;
 Radio Express             Bank 1 Stacja 56  http://www.radioexpress.pl/stream1
 RMF24.pl                  Bank 1 Stacja 57  http://rmfstream1.interia.pl:80/rmf_24
 VibeFM                    Bank 1 Stacja 58  http://ic2.smcdn.pl:80/6490-1.mp3
-Eska Rock HLS             Bank 1 Stacja 59  https://radio.stream.smcdn.pl/timeradio-p/5980-1.aac/playlist.m3u8
+Radio Wroclaw             Bank 1 Stacja 59  http://stream.prw.pl:8000/prwmp3
 Radio Zak                 Bank 1 Stacja 60  http://lodz.radio.pionier.net.pl:8000/radiozak.ogg
 PR Lodz                   Bank 1 Stacja 61  https://stream.radiolodz.toya.cloud/RadioLodz-1-HQ.ogg
 Wloclawek po polsku       Bank 1 Stacja 62  http://radio.kujawy.info:10140/1
@@ -71,4 +71,5 @@ BBC - Radio 3             Bank 1 Stacja 70  http://as-hls-ww-live.akamaized.net/
 BBC - Radio 4             Bank 1 Stacja 71  http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
 BBC - Radio 5 live        Bank 1 Stacja 72  http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8
 BBC - Radio 6 Music       Bank 1 Stacja 73  http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
-Radio Gorzów              Bank 1 Stacja 74  http://stream02.zachod.pl:10121/rg-20kbps.aac
+Radio Gorzow              Bank 1 Stacja 74  http://stream02.zachod.pl:10121/rg-20kbps.aac
+Radio Zielona Gora        Bank 1 Stacja 75  http://stream02.zachod.pl:10121/rzg-20kbps.aac

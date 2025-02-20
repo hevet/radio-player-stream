@@ -51,7 +51,7 @@ Radio EL-Stacja           Bank 2 Stacja 50  http://radio.el-stacja.pl:8000/elsta
 Radio Classic Rock        Bank 2 Stacja 51  http://mp3.polskieradio.pl:8460
 Radio Przeboje PRL        Bank 2 Stacja 52  http://mp3.polskieradio.pl:8466
 Tok Plus Muzyka           Bank 2 Stacja 53  http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3
-Radio Yanosik             Bank 2 Stacja 54  https://stream.rcs.revma.com/7vhveccrnquvv
+Radio Yanosik             Bank 2 Stacja 54  http://n25a-eu.rcs.revma.com:80/sn11544ebhuvv
 Radio Vanessa             Bank 2 Stacja 55  http://s1.slotex.pl:7358/;
 Radio Express             Bank 2 Stacja 56  http://www.radioexpress.pl/stream1
 RMF24.pl                  Bank 2 Stacja 57  http://rmfstream1.interia.pl:80/rmf_24

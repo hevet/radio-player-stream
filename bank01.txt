@@ -64,3 +64,4 @@ Easy Radio                Bank 1 Stacja 63  http://easyradio.bg/m3u/easyradio.bg
 Radio Paradise Mellow     Bank 1 Stacja 64  http://stream.radioparadise.com/mellow-flac
 VOLOSATOE RADIO           Bank 1 Stacja 65  http://volosatoff.ru:8008/euro.opus
 R2 Rock                   Bank 1 Stacja 66  http://icecast.err.ee/r2rock.opus
+Classic Vinyl HD          Bank 1 Stacja 67  http://icecast.walmradio.com:8000/classic_opus

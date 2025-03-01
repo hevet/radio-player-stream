@@ -25,7 +25,7 @@ Flacall Radio – Radio AnnuBank 16 Stacja 24  http://flacradio.ru:1090/stream
 Flacall Radio – Radio SummBank 16 Stacja 25  http://flacradio.ru:1110/stream
 ForEver La Radio – ArcachoBank 16 Stacja 26  http://stream.sweetfm.fr:8000/flac-forever-arc
 ForEver La Radio – BordeauBank 16 Stacja 27  http://stream.sweetfm.fr:8000/flac-forever-bdx
-Free Music Radio          Bank 16 Stacja 28  http://stream.freemusicradio.nl:8100/stream.oga
+
 Fréquence 3               Bank 16 Stacja 29  https://frequence3.net-radio.fr/frequence3.flac
 Fréquence 3 – Loir-et-CherBank 16 Stacja 30  https://frequence3.net-radio.fr/frequence3-fm41.flac
 Fréquence 3 – Touraine    Bank 16 Stacja 31  https://frequence3.net-radio.fr/frequence3-fm37.flac

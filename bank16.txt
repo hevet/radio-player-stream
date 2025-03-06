@@ -66,6 +66,5 @@ Sanctuary Radio – Club MixBank 16 Stacja 65  http://66.94.113.88:8000/clubmix_
 Sanctuary Radio – Dark EleBank 16 Stacja 66  http://66.94.113.88:8000/ultra_hq
 Skylegend Radio           Bank 16 Stacja 67  http://173.212.250.212:8200/flac
 Special Sound Radio       Bank 16 Stacja 68  http://c01.lexycast.de:3420/stream
-
-TrancePulse               Bank 16 Stacja 76  http://stream.trance.ie:8000/tpmixes
+TrancePulse               Bank 16 Stacja 69  http://stream.trance.ie:8000/tpmixes
 

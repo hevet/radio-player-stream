@@ -85,3 +85,4 @@ Radio Jackie Finesse      Bank 15 Stacja 84  http://www.radiojackie.com:5873/;
 KRUI 89.7FM               Bank 15 Stacja 85  http://krui.student-services.uiowa.edu:8000/listen
 WGUC                      Bank 15 Stacja 86  http://cpr.streamguys1.com:80/noads-wguc
 Organlive.com             Bank 15 Stacja 87  https://play.organlive.com:7010/320
+Radio Paradise Rock Mix   Bank 15 Stacja 88  http://stream.radioparadise.com/rock-flacm

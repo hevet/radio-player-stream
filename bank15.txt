@@ -7,10 +7,10 @@ NME1                      Bank 15 Stacja 6   http://listen-nme.sharp-stream.com/
 NME2                      Bank 15 Stacja 7   http://listen-nme.sharp-stream.com/nme2high.mp3
 Radio Caroline            Bank 15 Stacja 8   http://78.129.202.200:8030/;
 JB Radio                  Bank 15 Stacja 9   https://maggie.torontocast.com:8076/flac
-SuperStereo 1             Bank 15 Stacja 10  http://198.204.228.202:8160/flac
-San Francisco's 70s       Bank 15 Stacja 11  https://s9.voscast.com:8917/listen.mp3
-Timewarp                  Bank 15 Stacja 12  http://stream1.themediasite.co.uk/8050/stream
-Hi Online                 Bank 15 Stacja 13  http://mscp2.live-streams.nl:8100/flac.flac
+SuperStereo 1             Bank15 Stacja 10  http://198.204.228.202:8160/flac
+San Francisco's 70s       Bank15 Stacja 11  https://s9.voscast.com:8917/listen.mp3
+Timewarp                  Bank15 Stacja 12  http://stream1.themediasite.co.uk/8050/stream
+Hi Online                 Bank15 Stacja 13  http://mscp2.live-streams.nl:8100/flac.flac
 SuperStereo 2             Bank 15 Stacja 14  http://198.204.228.202:8157/flac
 SuperStereo 3             Bank 15 Stacja 15  http://198.204.228.202:8539/flac
 SuperStereo 4             Bank 15 Stacja 16  http://198.204.228.202:8030/flac

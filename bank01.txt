@@ -67,4 +67,4 @@ R2 Rock                   Bank 1 Stacja 66  http://icecast.err.ee/r2rock.opus
 Classic Vinyl HD          Bank 1 Stacja 67  http://icecast.walmradio.com:8000/classic_opus
 SuperStereo 1             Bank 1 Stacja 68  http://icecast.centaury.cl:7550/SuperStereo1
 SuperStereo 3             Bank 1 Stacja 69  http://icecast.centaury.cl:7550/SuperStereo3
-SuperStereo 1 (flac)      Bank 1 Stacja 70  http://icecast.centaury.cl:7570/SuperStereoHiRes1
+Radio Paradise Rock Mix   Bank 1 Stacja 70  http://stream.radioparadise.com/rock-flacm

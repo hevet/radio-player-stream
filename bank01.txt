@@ -55,7 +55,7 @@ Radio Hit                 Bank 1 Stacja 54  http://46.170.199.85:8000
 Radio Afera               Bank 1 Stacja 55  http://poznan5-3.radio.pionier.net.pl:8000/afera.mp3
 Radio Znin                Bank 1 Stacja 56  http://stream4.nadaje.com:8052
 Radio EL-Stacja           Bank 1 Stacja 57  http://radio.el-stacja.pl:8000/elstacja320mp3
-Radio Classic Rock        Bank 1 Stacja 58  http://mp3.polskieradio.pl:8460
+Opensky                   Bank 1 Stacja 58  https://audio.opensky.radio:8082/flac
 Radio Przeboje PRL        Bank 1 Stacja 59  http://mp3.polskieradio.pl:8466
 Radio GRA Torun           Bank 1 Stacja 60  http://217.74.72.12/radio_gra
 Tok FM Muzyka             Bank 1 Stacja 61  http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3

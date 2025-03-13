@@ -26,7 +26,7 @@ PR2                       Bank 2 Stacja 25  https://stream12.polskieradio.pl/pr2
 PR3                       Bank 2 Stacja 26  https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
 PR4                       Bank 2 Stacja 27  https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
 PR24                      Bank 2 Stacja 28  https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
-PR DZIECIOM               Bank 2 Stacja 29  http://stream3.polskieradio.pl:8966/
+PR DZIECIOM               Bank 2 Stacja 29  https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
 PR Chopin                 Bank 2 Stacja 30  http://stream3.polskieradio.pl:8910/
 RADIO PIK                 Bank 2 Stacja 31  http://stream.radiopik.pl:9004/
 RDC                       Bank 2 Stacja 32  http://stream2.nadaje.com:11140/rdc

@@ -69,4 +69,5 @@ SuperStereo 1             Bank 1 Stacja 68  http://icecast.centaury.cl:7550/Supe
 SuperStereo 2             Bank 1 Stacja 69  http://icecast.centaury.cl:7550/SuperStereo2
 SuperStereo 3             Bank 1 Stacja 70  http://icecast.centaury.cl:7550/SuperStereo3
 Radio Paradise Rock Mix   Bank 1 Stacja 71  http://stream.radioparadise.com/rock-flacm
-Eska Bydgoszcz            Bank 1 Stacja 72  http://ic2.smcdn.pl:80/2030-1.aac
+Eska Bydgoszcz AAC        Bank 1 Stacja 72  http://ic2.smcdn.pl:80/2030-1.aac
+Eska Bydgoszcz HLS        Bank 1 Stacja 73  https://radio.stream.smcdn.pl/timeradio-p/2030-2.aac/playlist.m3u8

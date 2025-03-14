@@ -7,52 +7,52 @@ Polskie Radio Chopin      Bank 7 Stacja 6   https://stream85.polskieradio.pl/liv
 Polskie Radio Dzieciom    Bank 7 Stacja 7   https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
 Polskie Radio Kierowcow   Bank 7 Stacja 8   https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
 Polskie Radio Archeologi  Bank 7 Stacja 9   https://stream85.polskieradio.pl/omniaaxe/k62.stream/playlist.m3u8
-Bohaterowie lektur        Bank 7 Stacja 10  https://stream85.polskieradio.pl/omniaaxe/k53.stream/playlist.m3u8
+Bohaterowie naszych lekt. Bank 7 Stacja 10  https://stream85.polskieradio.pl/omniaaxe/k53.stream/playlist.m3u8
 Cafe Fogg                 Bank 7 Stacja 11  https://stream85.polskieradio.pl/omniaaxe/k20.stream/playlist.m3u8
 Ciechowski Non Stop       Bank 7 Stacja 12  https://stream85.polskieradio.pl/omniaaxe/k17.stream/playlist.m3u8
 Polskie Radio Genesis     Bank 7 Stacja 13  https://stream85.polskieradio.pl/omniaaxe/k98.stream/playlist.m3u8
-Historia najnowsza Pol.   Bank 7 Stacja 14  http://stream3.polskieradio.pl:8482
-Historia ZSRR             Bank 7 Stacja 15  http://stream3.polskieradio.pl:8512
-Jan Pawel II w Radiach    Bank 7 Stacja 16  http://stream3.polskieradio.pl:8580
-Koncerty w Trojce         Bank 7 Stacja 17  http://stream3.polskieradio.pl:8410
-Konkurs Chopinowski       Bank 7 Stacja 18  http://stream3.polskieradio.pl:8422
+Historia najnowsza Pol.   Bank 7 Stacja 14  https://stream85.polskieradio.pl/omniaaxe/k52.stream/playlist.m3u8
+Historia ZSRR             Bank 7 Stacja 15  https://stream85.polskieradio.pl/omniaaxe/k67.stream/playlist.m3u8
+Jan Pawel II w Radiach    Bank 7 Stacja 16  https://stream85.polskieradio.pl/omniaaxe/k101.stream/playlist.m3u8
+Koncerty w Trojce         Bank 7 Stacja 17  https://stream85.polskieradio.pl/omniaaxe/k16.stream/playlist.m3u8
+Konkurs Chopinowski       Bank 7 Stacja 18  https://stream85.polskieradio.pl/omniaaxe/k22.stream/playlist.m3u8
 Polskie Radio Kosmos      Bank 7 Stacja 19  https://stream85.polskieradio.pl/omniaaxe/k15.stream/playlist.m3u8
-Polskie Radio Las         Bank 7 Stacja 20  http://stream3.polskieradio.pl:8528
-Polskie Radio Minimax     Bank 7 Stacja 21  http://stream3.polskieradio.pl:8446
-Muzyka zrodel             Bank 7 Stacja 22  http://stream3.polskieradio.pl:8558
-Najpiekniejsze polskie    Bank 7 Stacja 23  http://stream3.polskieradio.pl:8420
-Polskie Radio Nostalgia   Bank 7 Stacja 24  http://stream3.polskieradio.pl:8518
-Krzysztof Krawczyk        Bank 7 Stacja 25  http://stream3.polskieradio.pl:8534
-Przeboje Lata z Radiem    Bank 7 Stacja 26  http://stream3.polskieradio.pl:8426
-Przezyjmy to jeszcze raz  Bank 7 Stacja 27  http://stream3.polskieradio.pl:8506
-Radio Freud               Bank 7 Stacja 28  http://stream3.polskieradio.pl:8404
-Radio Norwid              Bank 7 Stacja 29  http://stream3.polskieradio.pl:8416
+Polskie Radio Las         Bank 7 Stacja 20  https://stream85.polskieradio.pl/omniaaxe/k75.stream/playlist.m3u8
+Polskie Radio Minimax     Bank 7 Stacja 21  https://stream85.polskieradio.pl/omniaaxe/k34.stream/playlist.m3u8
+Muzyka zrodel             Bank 7 Stacja 22  https://stream85.polskieradio.pl/omniaaxe/k90.stream/playlist.m3u8
+Najpiekniejsze polskie p. Bank 7 Stacja 23  https://stream85.polskieradio.pl/omniaaxe/k21.stream/playlist.m3u8
+Polskie Radio Nostalgia   Bank 7 Stacja 24  https://stream85.polskieradio.pl/omniaaxe/k70.stream/playlist.m3u8
+Abba Non Stop             Bank 7 Stacja 25  https://stream85.polskieradio.pl/omniaaxe/k99.stream/playlist.m3u8
+Przeboje Lata z Radiem    Bank 7 Stacja 26  https://stream85.polskieradio.pl/omniaaxe/k24.stream/playlist.m3u8
+Przezyjmy to jeszcze raz  Bank 7 Stacja 27  https://stream85.polskieradio.pl/omniaaxe/k64.stream/playlist.m3u8
+Radio Freud               Bank 7 Stacja 28  https://stream85.polskieradio.pl/omniaaxe/k13.stream/playlist.m3u8
+Radio Norwid              Bank 7 Stacja 29  https://stream85.polskieradio.pl/omniaaxe/k19.stream/playlist.m3u8
 Polskie Radio Rytm        Bank 7 Stacja 30  https://stream85.polskieradio.pl/omniaaxe/k51.stream/playlist.m3u8
-Rozrywka na wygnaniu      Bank 7 Stacja 31  http://stream3.polskieradio.pl:8526
-Spotkanie z mistrzem      Bank 7 Stacja 32  http://stream3.polskieradio.pl:8504
-Studio Reportazu          Bank 7 Stacja 33  http://stream3.polskieradio.pl:8508
-Szanty                    Bank 7 Stacja 34  http://stream3.polskieradio.pl:8520
-W jazzowym klimacie       Bank 7 Stacja 35  http://stream3.polskieradio.pl:8424
+Rozrywka na wygnaniu      Bank 7 Stacja 31  https://stream85.polskieradio.pl/omniaaxe/k74.stream/playlist.m3u8
+Spotkanie z mistrzem      Bank 7 Stacja 32  https://stream85.polskieradio.pl/omniaaxe/k63.stream/playlist.m3u8
+Studio Reportazu          Bank 7 Stacja 33  https://stream85.polskieradio.pl/omniaaxe/k65.stream/playlist.m3u8
+Szanty                    Bank 7 Stacja 34  https://stream85.polskieradio.pl/omniaaxe/k71.stream/playlist.m3u8
+W jazzowym klimacie       Bank 7 Stacja 35  https://stream85.polskieradio.pl/omniaaxe/k23.stream/playlist.m3u8
 Wieczor odkrywcow         Bank 7 Stacja 36  https://stream85.polskieradio.pl/omniaaxe/k62.stream/playlist.m3u8
-Z archiwum Radia RWE      Bank 7 Stacja 37  http://stream3.polskieradio.pl:8488
-Z dziejow Armii Krajowej  Bank 7 Stacja 38  http://stream3.polskieradio.pl:8454
-Za kulisami bezpieki      Bank 7 Stacja 39  http://stream3.polskieradio.pl:8492
-Zabawy z jezykiem         Bank 7 Stacja 40  http://stream3.polskieradio.pl:8400
-Zapiski ze wspolczesnosc  Bank 7 Stacja 41  http://stream3.polskieradio.pl:8406
-Polski.FM Chicago Live    Bank 7 Stacja 42  http://198.27.127.246/proxy/live?mp=/1  
-Polski.FM Chicago Live2   Bank 7 Stacja 43  https://stream.rcs.revma.com/43sksm6hrc9uv  
-Radio Polski.FM Chicago   Bank 7 Stacja 44  http://198.27.127.246:5120  
-Radio Polski.FM Chicago   Bank 7 Stacja 45  http://198.27.127.246:5663  
-Radio Polski.FM Chicago   Bank 7 Stacja 46  http://198.27.127.246:6082  
-Radio Polski.FM Chicago   Bank 7 Stacja 47  http://198.27.127.246:5441  
-Radio Polski.FM Chicago   Bank 7 Stacja 48  http://198.27.127.246:5473  
-Radio Polski.FM Chicago   Bank 7 Stacja 49  http://198.27.127.246:5424  
-Radio Polski.FM Chicago   Bank 7 Stacja 50  http://198.27.127.246:5479  
-Radio Polski.FM Chicago   Bank 7 Stacja 51  http://198.27.127.246:5096  
-Radio Polski.FM Chicago   Bank 7 Stacja 52  http://198.27.127.246:5491  
-Radio Polski.FM Chicago   Bank 7 Stacja 53  http://198.27.127.246:5705  
-Radio Polski.FM Chicago   Bank 7 Stacja 54  http://198.27.127.246:5717  
-Radio Polski.FM Chicago   Bank 7 Stacja 55  http://198.27.127.246:5970  
+Z archiwum Radia RWE      Bank 7 Stacja 37  https://stream85.polskieradio.pl/omniaaxe/k55.stream/playlist.m3u8
+Z dziejow Armii Krajowej  Bank 7 Stacja 38  https://stream85.polskieradio.pl/omniaaxe/k38.stream/playlist.m3u8
+Za kulisami bezpieki      Bank 7 Stacja 39  https://stream85.polskieradio.pl/omniaaxe/k57.stream/playlist.m3u8
+Zabawy z jezykiem         Bank 7 Stacja 40  https://stream85.polskieradio.pl/omniaaxe/k11.stream/playlist.m3u8
+Zapiski ze wspolczesnosci Bank 7 Stacja 41  https://stream85.polskieradio.pl/omniaaxe/k14.stream/playlist.m3u8
+PR dla zagranicy          Bank 7 Stacja 42  https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8  
+PR Poland                 Bank 7 Stacja 43  https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8  
+Ballady                   Bank 7 Stacja 44  https://stream85.polskieradio.pl/omniaaxe/k48.stream/playlist.m3u8  
+Classic Rock              Bank 7 Stacja 45  https://stream85.polskieradio.pl/omniaaxe/k41.stream/playlist.m3u8  
+Led Zeppelin              Bank 7 Stacja 46  https://stream85.polskieradio.pl/omniaaxe/k45.stream/playlist.m3u8 
+Niezly Jazz               Bank 7 Stacja 47  https://stream85.polskieradio.pl/omniaaxe/k103.stream/playlist.m3u8  
+Nowa Tradycja             Bank 7 Stacja 48  https://stream85.polskieradio.pl/omniaaxe/k84.stream/playlist.m3u8  
+Pink Floyd                Bank 7 Stacja 49  https://stream85.polskieradio.pl/omniaaxe/k46.stream/playlist.m3u8  
+Piosenki Niezaleznych     Bank 7 Stacja 50  https://stream85.polskieradio.pl/omniaaxe/k100.stream/playlist.m3u8  
+Prog Rock                 Bank 7 Stacja 51  https://stream85.polskieradio.pl/omniaaxe/k42.stream/playlist.m3u8  
+Baczynski                 Bank 7 Stacja 52  https://stream85.polskieradio.pl/omniaaxe/k89.stream/playlist.m3u8  
+Klenczon                  Bank 7 Stacja 53  https://stream85.polskieradio.pl/omniaaxe/k94.stream/playlist.m3u8  
+Mlynarski                 Bank 7 Stacja 54  https://stream85.polskieradio.pl/omniaaxe/k78.stream/playlist.m3u8  
+Radio Przybora            Bank 7 Stacja 55  https://stream85.polskieradio.pl/omniaaxe/k37.stream/playlist.m3u8  
 Radio Polski.FM Chicago   Bank 7 Stacja 56  http://198.27.127.246:5751  
 Radio Pogoda              Bank 7 Stacja 57  http://stream10.radioagora.pl:80/tuba38-1.mp3  
 Radio Pogoda Bydgoszcz    Bank 7 Stacja 58  https://pl-play.adtonos.com/8102/radio-pogoda-bydgoszcz  

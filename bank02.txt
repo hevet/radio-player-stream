@@ -27,7 +27,7 @@ PR3                       Bank 2 Stacja 26  https://stream13.polskieradio.pl/pr3
 PR4                       Bank 2 Stacja 27  https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
 PR24                      Bank 2 Stacja 28  https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
 PR DZIECIOM               Bank 2 Stacja 29  https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
-PR Chopin                 Bank 2 Stacja 30  https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
+PR Chopin                 Bank 2 Stacja 30  http://mp3.polskieradio.pl:8194/;
 RADIO PIK                 Bank 2 Stacja 31  http://stream.radiopik.pl:9004/
 RDC                       Bank 2 Stacja 32  http://stream2.nadaje.com:11140/rdc
 ANTYRADIO                 Bank 2 Stacja 33  http://an.cdn.eurozet.pl/ant-waw.mp3
@@ -84,5 +84,5 @@ Trendy Radio              Bank 2 Stacja 83  http://stream.trendyradio.pl:8000/h
 Radio Wielkopolska        Bank 2 Stacja 84  http://217.182.76.63:8000/webstream
 PR Kierowcow              Bank 2 Stacja 85  http://mp3.polskieradio.pl:8918/;
 PR Rytm                   Bank 2 Stacja 86  http://stream3.polskieradio.pl:8194/;
-PR Classic Rock           Bank 2 Stacja 87  https://stream85.polskieradio.pl/omniaaxe/k41.stream/playlist.m3u8
+PR Classic Rock           Bank 2 Stacja 87  http://mp3.polskieradio.pl:8060/;
 Akadem. Radio Centrum     Bank 2 Stacja 88  https://radio.centrum.fm/live

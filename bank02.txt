@@ -82,6 +82,7 @@ Twoje Radio               Bank 2 Stacja 81  http://51.77.59.65:8000/stream.ogg
 Radio UWM FM              Bank 2 Stacja 82  http://213.184.18.156:8000/;
 Trendy Radio              Bank 2 Stacja 83  http://stream.trendyradio.pl:8000/h
 Radio Wielkopolska        Bank 2 Stacja 84  http://217.182.76.63:8000/webstream
-PR Kierowcow              Bank 2 Stacja 85  https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
-PR Rytm                   Bank 2 Stacja 86  https://stream85.polskieradio.pl/omniaaxe/k51.stream/playlist.m3u8
+PR Kierowcow              Bank 2 Stacja 85  http://mp3.polskieradio.pl:8918/;
+PR Rytm                   Bank 2 Stacja 86  http://stream3.polskieradio.pl:8194/;
 PR Classic Rock           Bank 2 Stacja 87  https://stream85.polskieradio.pl/omniaaxe/k41.stream/playlist.m3u8
+Akadem. Radio Centrum     Bank 2 Stacja 88  http://stream12.hosterion.pl/stream/akademickieradiocentrum

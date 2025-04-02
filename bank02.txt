@@ -2,9 +2,9 @@ RMF FM                    Bank 2 Stacja 1   http://195.150.20.7/rmf_fm
 RMF Maxx Bydgoszcz        Bank 2 Stacja 2   http://rmfstream1.interia.pl:80/rmf_maxxx_byd
 RMF Classic               Bank 2 Stacja 3   http://31.192.216.3/rmf_classic
 RADIO GRA TORUN           Bank 2 Stacja 4   http://217.74.72.6:80/radio_gra
-Radio ZET                 Bank 2 Stacja 5   https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ZET.mp3
+Radio ZET                 Bank 2 Stacja 5   http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ZET.mp3
 Chilizet                  Bank 2 Stacja 6   http://ch01.cdn.eurozet.pl:80/chi-net.mp3
-MELORADIO                 Bank 2 Stacja 7   https://playerservices.streamtheworld.com/api/livestream-redirect/MELORADIO.mp3
+MELORADIO                 Bank 2 Stacja 7   http://playerservices.streamtheworld.com/api/livestream-redirect/MELORADIO.mp3
 RADIO HIT Wloclawek       Bank 2 Stacja 8   http://46.170.199.85:8000/;
 MEGA RADIO                Bank 2 Stacja 9   http://stream.rcs.revma.com:80/q18ty3qhwzzuv
 VOX FM                    Bank 2 Stacja 10  http://ic2.smcdn.pl:80/3990-1.mp3
@@ -15,7 +15,7 @@ Radio Plus Bydgoszcz      Bank 2 Stacja 14  http://pl.cdn.eurozet.pl:80/plu-bdg.
 Radio Pogoda Bydgoszcz    Bank 2 Stacja 15  ​http://radiostream.pl/tuba143-1.mp3
 Zlote Przeboje Bydgoszcz  Bank 2 Stacja 16  ​http://radiostream.pl/tuba8902-1.mp3
 ROCK RADIO                Bank 2 Stacja 17  ​http://radiostream.pl/tuba9006-1.mp3
-TOK FM                    Bank 2 Stacja 18  https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_TOKFM.mp3
+TOK FM                    Bank 2 Stacja 18  http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_TOKFM.mp3
 Radio Weekend             Bank 2 Stacja 19  http://stream.weekendfm.pl:8000/weekendfm_256kbs.mp3
 WASZE RADIO               Bank 2 Stacja 20  https://sluchaj.link:5443/wasze
 WNET                      Bank 2 Stacja 21  http://media.wnet.fm:80/wnet.fm
@@ -30,7 +30,7 @@ PR DZIECIOM               Bank 2 Stacja 29  https://stream85.polskieradio.pl/liv
 PR Chopin                 Bank 2 Stacja 30  http://mp3.polskieradio.pl:8194/;
 RADIO PIK                 Bank 2 Stacja 31  http://stream.radiopik.pl:9004/
 RDC                       Bank 2 Stacja 32  http://stream2.nadaje.com:11140/rdc
-ANTYRADIO                 Bank 2 Stacja 33  http://an.cdn.eurozet.pl/ant-waw.mp3
+ANTYRADIO                 Bank 2 Stacja 33  http://playerservices.streamtheworld.com/api/livestream-redirect/ANTYRADIO.mp3
 Radio Emaus               Bank 2 Stacja 34  http://stream.radioemaus.pl:8000/mp3stream
 RADIO KOLOR               Bank 2 Stacja 35  http://stream.rcs.revma.com/nrfscb49xd3vv
 RADIO NAKLO               Bank 2 Stacja 36  http://sluchaj2.107i5.fm/;

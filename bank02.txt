@@ -15,7 +15,7 @@ Radio Plus Bydgoszcz      Bank 2 Stacja 14  http://pl.cdn.eurozet.pl:80/plu-bdg.
 Radio Pogoda Bydgoszcz    Bank 2 Stacja 15  ​http://radiostream.pl/tuba143-1.mp3
 Zlote Przeboje Bydgoszcz  Bank 2 Stacja 16  ​http://radiostream.pl/tuba8902-1.mp3
 ROCK RADIO                Bank 2 Stacja 17  ​http://radiostream.pl/tuba9006-1.mp3
-TOK FM                    Bank 2 Stacja 18  http://22593.live.streamtheworld.com/RADIO_TOKFM.mp3
+TOK FM                    Bank 2 Stacja 18  https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_TOKFM.mp3
 Radio Weekend             Bank 2 Stacja 19  http://stream.weekendfm.pl:8000/weekendfm_256kbs.mp3
 WASZE RADIO               Bank 2 Stacja 20  https://sluchaj.link:5443/wasze
 WNET                      Bank 2 Stacja 21  http://media.wnet.fm:80/wnet.fm

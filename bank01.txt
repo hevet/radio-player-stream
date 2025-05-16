@@ -1,5 +1,5 @@
 Antyradio                 Bank 1 Stacja 1   https://an01.cdn.eurozet.pl/ant-kat.mp3
-Radio Zlote Przeboje      Bank 1 Stacja 2   https://radiostream.pl/tuba8920-1.mp3
+Radio Złote Przeboje      Bank 1 Stacja 2   https://radiostream.pl/tuba8920-1.mp3
 RMF FM                    Bank 1 Stacja 3   http://195.150.20.7/rmf_fm
 RMF Maxx Bydgoszcz        Bank 1 Stacja 4   http://rmfstream1.interia.pl:80/rmf_maxxx_byd
 Radio ZET                 Bank 1 Stacja 5   https://zt04.cdn.eurozet.pl/ZETPAR.mp3?redirected=04
@@ -10,7 +10,7 @@ Radio Pogoda Bydgoszcz    Bank 1 Stacja 9   http://radiostream.pl/tuba143-1.mp3
 Radio 7                   Bank 1 Stacja 10  http://stream.radio7.pl:8000
 RMF Classic               Bank 1 Stacja 11  http://31.192.216.3/rmf_classic
 Radio 357                 Bank 1 Stacja 12  https://stream.rcs.revma.com/an1ugyygzk8uv
-Radio Nowy Swiat          Bank 1 Stacja 13  http://stream.rcs.revma.com/ypqt40u0x1zuv.mp3
+Radio Nowy Świat          Bank 1 Stacja 13  http://stream.rcs.revma.com/ypqt40u0x1zuv.mp3
 Eska Bydgoszcz            Bank 1 Stacja 14  http://ic2.smcdn.pl:80/2030-1.mp3
 Mega Radio                Bank 1 Stacja 15  https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
 PR-1 Polskiego Radia      Bank 1 Stacja 16  http://stream3.polskieradio.pl:8950

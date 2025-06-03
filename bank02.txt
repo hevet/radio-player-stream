@@ -74,7 +74,7 @@ BBC - Radio 6 Music       Bank 2 Stacja 73  http://as-hls-ww-live.akamaized.net/
 Radio Gorzow              Bank 2 Stacja 74  http://stream02.zachod.pl:10121/rg-20kbps.aac
 Radio Zielona Gora        Bank 2 Stacja 75  http://stream02.zachod.pl:10121/rzg-20kbps.aac
 Trendy Radio Chojnice     Bank 2 Stacja 76  http://stream.trendyradio.pl:8000/mi
-Radio bezpieczna podroz   Bank 2 Stacja 77  http://4stream.pl:18546/stream
+Radio bezpieczna podroz   Bank 2 Stacja 77  https://ssl-1.radiohost.pl:9162/;
 Radio Yanosik Rock        Bank 2 Stacja 78  http://stream.rcs.revma.com/yghk77gym5uvv
 Rock Serwis FM            Bank 2 Stacja 79  http://stream9.nadaje.com:8002/live
 Twoja Polska Stacja       Bank 2 Stacja 80  http://sluchaj.twojapolskastacja.pl:8068/

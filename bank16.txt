@@ -40,8 +40,7 @@ Radio Paradise Rock Mix  Bank 16 Stacja 39  http://stream.radioparadise.com/rock
 Radio Random             Bank 16 Stacja 40  http://radiorandom.org:8000/WBJM-FLAC
 Radio Sputnik            Bank 16 Stacja 41  https://radiosputnik.nl:8443/flac
 Roxy Radio               Bank 16 Stacja 42  https://s2.audiostream.hu/roxy_FLAC
-Sanctuary Radio-80's AlteBank 16 Stacja 43  http://66.94.113.88:8000/retro_ultra_hq
-Sweet FM                 Bank 16 Stacja 44  http://stream.sweetfm.fr:8000/dab-forever-lms
+Sweet FM                 Bank 16 Stacja 43  http://stream.sweetfm.fr:8000/dab-forever-lms
 
 
 

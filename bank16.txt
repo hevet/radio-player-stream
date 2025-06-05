@@ -1,5 +1,5 @@
-60North Radio            Bank 16 Stacja 1   http://r5.zetcast.net/flac
-BDPST Rock Radio         Bank 16 Stacja 2   https://s2.audiostream.hu/bdpstrock_FLAC
+60North Radio            Bank 16 Stacja 1  http://r5.zetcast.net/flac
+BDPST Rock Radio         Bank 16 Stacja 2  https://s2.audiostream.hu/bdpstrock_FLAC
 Club Retro Hits Radio    Bank 16 Stacja 3  http://v4.tustreaming.cl:18156/stream
 Dance Classics Radio     Bank 16 Stacja 4  http://vriezenet.nl:11051/dcflac
 Dance Wave               Bank 16 Stacja 5  http://dancewave.online/dance.flac.ogg
@@ -41,7 +41,7 @@ Radio Random             Bank 16 Stacja 40  http://radiorandom.org:8000/WBJM-FLA
 Radio Sputnik            Bank 16 Stacja 41  https://radiosputnik.nl:8443/flac
 Roxy Radio               Bank 16 Stacja 42  https://s2.audiostream.hu/roxy_FLAC
 Sweet FM                 Bank 16 Stacja 43  http://stream.sweetfm.fr:8000/dab-forever-lms
-
+Intense Radio            Bank 16 Stacja 44  http://secure.live-streams.nl/flac.ogg
 
 
 

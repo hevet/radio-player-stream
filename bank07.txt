@@ -1,0 +1,96 @@
+Polskie Radio Jedynka     Bank 7 Stacja 1   https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
+Polskie Radio Dwojka      Bank 7 Stacja 2   https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
+Polskie Radio Trojka      Bank 7 Stacja 3   https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
+Polskie Radio Czworka     Bank 7 Stacja 4   https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
+Polskie Radio 24          Bank 7 Stacja 5   https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
+Polskie Radio Chopin      Bank 7 Stacja 6   https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
+Polskie Radio Dzieciom    Bank 7 Stacja 7   https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
+Polskie Radio Kierowcow   Bank 7 Stacja 8   https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+Polskie Radio Archeologi  Bank 7 Stacja 9   https://stream85.polskieradio.pl/omniaaxe/k62.stream/playlist.m3u8
+Bohaterowie naszych lekt. Bank 7 Stacja 10  https://stream85.polskieradio.pl/omniaaxe/k53.stream/playlist.m3u8
+Cafe Fogg                 Bank 7 Stacja 11  https://stream85.polskieradio.pl/omniaaxe/k20.stream/playlist.m3u8
+Ciechowski Non Stop       Bank 7 Stacja 12  https://stream85.polskieradio.pl/omniaaxe/k17.stream/playlist.m3u8
+Polskie Radio Genesis     Bank 7 Stacja 13  https://stream85.polskieradio.pl/omniaaxe/k98.stream/playlist.m3u8
+Historia najnowsza Pol.   Bank 7 Stacja 14  https://stream85.polskieradio.pl/omniaaxe/k52.stream/playlist.m3u8
+Historia ZSRR             Bank 7 Stacja 15  https://stream85.polskieradio.pl/omniaaxe/k67.stream/playlist.m3u8
+Jan Pawel II w Radiach    Bank 7 Stacja 16  https://stream85.polskieradio.pl/omniaaxe/k101.stream/playlist.m3u8
+Koncerty w Trojce         Bank 7 Stacja 17  https://stream85.polskieradio.pl/omniaaxe/k16.stream/playlist.m3u8
+Konkurs Chopinowski       Bank 7 Stacja 18  https://stream85.polskieradio.pl/omniaaxe/k22.stream/playlist.m3u8
+Polskie Radio Kosmos      Bank 7 Stacja 19  https://stream85.polskieradio.pl/omniaaxe/k15.stream/playlist.m3u8
+Polskie Radio Las         Bank 7 Stacja 20  https://stream85.polskieradio.pl/omniaaxe/k75.stream/playlist.m3u8
+Polskie Radio Minimax     Bank 7 Stacja 21  https://stream85.polskieradio.pl/omniaaxe/k34.stream/playlist.m3u8
+Muzyka zrodel             Bank 7 Stacja 22  https://stream85.polskieradio.pl/omniaaxe/k90.stream/playlist.m3u8
+Najpiekniejsze polskie p. Bank 7 Stacja 23  https://stream85.polskieradio.pl/omniaaxe/k21.stream/playlist.m3u8
+Polskie Radio Nostalgia   Bank 7 Stacja 24  https://stream85.polskieradio.pl/omniaaxe/k70.stream/playlist.m3u8
+Abba Non Stop             Bank 7 Stacja 25  https://stream85.polskieradio.pl/omniaaxe/k99.stream/playlist.m3u8
+Przeboje Lata z Radiem    Bank 7 Stacja 26  https://stream85.polskieradio.pl/omniaaxe/k24.stream/playlist.m3u8
+Przezyjmy to jeszcze raz  Bank 7 Stacja 27  https://stream85.polskieradio.pl/omniaaxe/k64.stream/playlist.m3u8
+Radio Freud               Bank 7 Stacja 28  https://stream85.polskieradio.pl/omniaaxe/k13.stream/playlist.m3u8
+Radio Norwid              Bank 7 Stacja 29  https://stream85.polskieradio.pl/omniaaxe/k19.stream/playlist.m3u8
+Polskie Radio Rytm        Bank 7 Stacja 30  https://stream85.polskieradio.pl/omniaaxe/k51.stream/playlist.m3u8
+Rozrywka na wygnaniu      Bank 7 Stacja 31  https://stream85.polskieradio.pl/omniaaxe/k74.stream/playlist.m3u8
+Spotkanie z mistrzem      Bank 7 Stacja 32  https://stream85.polskieradio.pl/omniaaxe/k63.stream/playlist.m3u8
+Studio Reportazu          Bank 7 Stacja 33  https://stream85.polskieradio.pl/omniaaxe/k65.stream/playlist.m3u8
+Szanty                    Bank 7 Stacja 34  https://stream85.polskieradio.pl/omniaaxe/k71.stream/playlist.m3u8
+W jazzowym klimacie       Bank 7 Stacja 35  https://stream85.polskieradio.pl/omniaaxe/k23.stream/playlist.m3u8
+Wieczor odkrywcow         Bank 7 Stacja 36  https://stream85.polskieradio.pl/omniaaxe/k62.stream/playlist.m3u8
+Z archiwum Radia RWE      Bank 7 Stacja 37  https://stream85.polskieradio.pl/omniaaxe/k55.stream/playlist.m3u8
+Z dziejow Armii Krajowej  Bank 7 Stacja 38  https://stream85.polskieradio.pl/omniaaxe/k38.stream/playlist.m3u8
+Za kulisami bezpieki      Bank 7 Stacja 39  https://stream85.polskieradio.pl/omniaaxe/k57.stream/playlist.m3u8
+Zabawy z jezykiem         Bank 7 Stacja 40  https://stream85.polskieradio.pl/omniaaxe/k11.stream/playlist.m3u8
+Zapiski ze wspolczesnosci Bank 7 Stacja 41  https://stream85.polskieradio.pl/omniaaxe/k14.stream/playlist.m3u8
+PR dla zagranicy          Bank 7 Stacja 42  https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8  
+PR Poland                 Bank 7 Stacja 43  https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8  
+Ballady                   Bank 7 Stacja 44  https://stream85.polskieradio.pl/omniaaxe/k48.stream/playlist.m3u8  
+Classic Rock              Bank 7 Stacja 45  https://stream85.polskieradio.pl/omniaaxe/k41.stream/playlist.m3u8  
+Led Zeppelin              Bank 7 Stacja 46  https://stream85.polskieradio.pl/omniaaxe/k45.stream/playlist.m3u8 
+Niezly Jazz               Bank 7 Stacja 47  https://stream85.polskieradio.pl/omniaaxe/k103.stream/playlist.m3u8  
+Nowa Tradycja             Bank 7 Stacja 48  https://stream85.polskieradio.pl/omniaaxe/k84.stream/playlist.m3u8  
+Pink Floyd                Bank 7 Stacja 49  https://stream85.polskieradio.pl/omniaaxe/k46.stream/playlist.m3u8  
+Piosenki Niezaleznych     Bank 7 Stacja 50  https://stream85.polskieradio.pl/omniaaxe/k100.stream/playlist.m3u8  
+Prog Rock                 Bank 7 Stacja 51  https://stream85.polskieradio.pl/omniaaxe/k42.stream/playlist.m3u8  
+Baczynski                 Bank 7 Stacja 52  https://stream85.polskieradio.pl/omniaaxe/k89.stream/playlist.m3u8  
+Klenczon                  Bank 7 Stacja 53  https://stream85.polskieradio.pl/omniaaxe/k94.stream/playlist.m3u8  
+Mlynarski                 Bank 7 Stacja 54  https://stream85.polskieradio.pl/omniaaxe/k78.stream/playlist.m3u8  
+Radio Przybora            Bank 7 Stacja 55  https://stream85.polskieradio.pl/omniaaxe/k37.stream/playlist.m3u8  
+Radio Polski.FM Chicago   Bank 7 Stacja 56  http://198.27.127.246:5751  
+Radio Pogoda              Bank 7 Stacja 57  http://stream10.radioagora.pl:80/tuba38-1.mp3  
+Radio Pogoda Bydgoszcz    Bank 7 Stacja 58  https://pl-play.adtonos.com/8102/radio-pogoda-bydgoszcz  
+Radio Pogoda Gdansk       Bank 7 Stacja 59  https://pl-play.adtonos.com/8102/radio-pogoda-gdansk  
+Radio Pogoda Katowice     Bank 7 Stacja 60  https://pl-play.adtonos.com/8102/radio-pogoda-katowice  
+Radio Pogoda Krakow       Bank 7 Stacja 61  https://pl-play.adtonos.com/8102/radio-pogoda-krakw  
+Radio Pogoda Opole        Bank 7 Stacja 62  https://pl-play.adtonos.com/8102/radio-pogoda-opole  
+Radio Pogoda Poznan       Bank 7 Stacja 63  https://pl-play.adtonos.com/8102/radio-pogoda-pozna  
+Radio Pogoda Warszawa     Bank 7 Stacja 64  https://pl-play.adtonos.com/8102/radio-pogoda  
+Radio Pogoda Wroclaw      Bank 7 Stacja 65  https://pl-play.adtonos.com/8102/radio-pogoda-wrocaw  
+Radio Dla Ciebie          Bank 7 Stacja 66  http://stream2.nadaje.com:11140/rdc  
+Radio Dla Ciebie Plock    Bank 7 Stacja 67  http://stream4.nadaje.com:14006/plock  
+Radio Dla Ciebie Radom    Bank 7 Stacja 68  https://stream4.nadaje.com:14001/radom  
+Radio Dla Ciebie Siedlce  Bank 7 Stacja 69  https://stream4.nadaje.com:14005/siedlce  
+Hi On Line Radio Classic BBank 7 Stacja 70  http://mediaserv30.live-streams.nl:8088/live
+Linn Classical            Bank 7 Stacja 71  http://radio.linn.co.uk:8004/autodj
+New Classics              Bank 7 Stacja 72  http://stream.klassikradio.de/newclassics/mp3-192/www.klassikradio.de/
+Movie                     Bank 7 Stacja 73  http://stream.klassikradio.de/movie/mp3-192/www.klassikradio.de/
+Opera                     Bank 7 Stacja 74  http://stream.klassikradio.de/opera/mp3-192/www.klassikradio.de/
+Klassik Dreams            Bank 7 Stacja 75  http://stream.klassikradio.de/dreams/mp3-192/www.klassikradio.de/
+Movie                     Bank 7 Stacja 76  http://stream.klassikradio.de/movie/mp3-192/www.klassikradio.de/
+Classic FM                Bank 7 Stacja 77  http://icecast.thisisdax.com/ClassicFMMP3.m3u
+Radio Swiss Classic       Bank 7 Stacja 78  http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+P2 Musik                  Bank 7 Stacja 79  http://http-live.sr.se/p2musik-mp3-192
+Classical 102             Bank 7 Stacja 80  http://tuner.classical102.com:80/
+Radio Svizzera Classica   Bank 7 Stacja 81  http://stream.srg-ssr.ch/rsc_it/mp3_128.m3u
+Pure Verdi                Bank 7 Stacja 82  http://stream.klassikradio.de/verdi/mp3-192/www.klassikradio.de/
+Klassik Radio Live        Bank 7 Stacja 83  http://stream.klassikradio.de/live/mp3-192/www.klassikradio.de/
+Piano                     Bank 7 Stacja 84  http://stream.klassikradio.de/piano/mp3-192/www.klassikradio.de/
+Barock                    Bank 7 Stacja 85  http://stream.klassikradio.de/barock/mp3-192/www.klassikradio.de/
+Pure Bach                 Bank 7 Stacja 86  http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/
+Pure Beethoven            Bank 7 Stacja 87  http://stream.klassikradio.de/beethoven/mp3-192/www.klassikradio.de/
+Chor                      Bank 7 Stacja 88  http://stream.klassikradio.de/chor/mp3-192/www.klassikradio.de/
+Christmas                 Bank 7 Stacja 89  http://stream.klassikradio.de/christmas/mp3-192/www.klassikradio.de/
+Healing                   Bank 7 Stacja 90  http://stream.klassikradio.de/healing/mp3-192/www.klassikradio.de/
+Pure Mozart               Bank 7 Stacja 91  http://stream.klassikradio.de/mozart/mp3-192/www.klassikradio.de/
+Classic Vinyl HD          Bank 7 Stacja 92  https://icecast.walmradio.com:8443/classic
+MondoBongo                Bank 7 Stacja 93  http://5.63.151.52:7082/;stream/1.mp3
+Radio Kultura             Bank 7 Stacja 94  http://icecast.vgtrk.cdnvideo.ru/kulturafm
+RadiostART                Bank 7 Stacja 95  http://radio.dyne.org:80/liveradiostart
+Radio Toksyna FM Classic  Bank 7 Stacja 96  http://s01.toksyna.fm:8060  

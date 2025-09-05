@@ -1,0 +1,73 @@
+Antyradio                 Bank 1 Stacja 1   https://an01.cdn.eurozet.pl/ant-kat.mp3
+Radio Zlote Przeboje      Bank 1 Stacja 2   https://radiostream.pl/tuba8920-1.mp3
+RMF FM                    Bank 1 Stacja 3   http://195.150.20.7/rmf_fm
+RMF Maxx Bydgoszcz        Bank 1 Stacja 4   http://rmfstream1.interia.pl:80/rmf_maxxx_byd
+Radio ZET                 Bank 1 Stacja 5   https://zt04.cdn.eurozet.pl/ZETPAR.mp3?redirected=04
+Eska2                     Bank 1 Stacja 6   http://ic2.smcdn.pl:80/1380-1.mp3
+Radio 90                  Bank 1 Stacja 7   http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
+Radio Plus                Bank 1 Stacja 8   https://ic2.smcdn.pl/4270-1.mp3
+Radio Pogoda Bydgoszcz    Bank 1 Stacja 9   http://radiostream.pl/tuba143-1.mp3
+Radio 7                   Bank 1 Stacja 10  http://stream.radio7.pl:8000
+RMF Classic               Bank 1 Stacja 11  http://31.192.216.3/rmf_classic
+Radio 357                 Bank 1 Stacja 12  https://stream.rcs.revma.com/an1ugyygzk8uv
+Radio Nowy Swiat          Bank 1 Stacja 13  http://stream.rcs.revma.com/ypqt40u0x1zuv.mp3
+Eska Bydgoszcz            Bank 1 Stacja 14  http://ic2.smcdn.pl:80/2030-1.mp3
+Mega Radio                Bank 1 Stacja 15  https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
+PR-1 Polskiego Radia      Bank 1 Stacja 16  http://stream3.polskieradio.pl:8950
+PR-2 Polskiego Radia      Bank 1 Stacja 17  http://stream3.polskieradio.pl:8952
+PR-3 Polskiego Radia      Bank 1 Stacja 18  http://stream3.polskieradio.pl:8954
+PR-4 Polskiego Radia      Bank 1 Stacja 19  http://stream3.polskieradio.pl:8906
+PR24 Polskie Radio        Bank 1 Stacja 20  http://mp3.polskieradio.pl:8080/;
+Meloradio                 Bank 1 Stacja 21  http://ml.cdn.eurozet.pl/mel-trn.mp3
+TOK FM                    Bank 1 Stacja 22  http://radiostream.pl/tuba10-1.mp3
+Vox FM                    Bank 1 Stacja 23  http://waw.ic.smcdn.pl/3990-1.mp3
+Radio Chilli ZET FM       Bank 1 Stacja 24  https://ch01.cdn.eurozet.pl/chi-net.mp3
+Radio Vanessa             Bank 1 Stacja 25  http://s1.slotex.pl:7358/;
+Rock Radio Polska         Bank 1 Stacja 26  https://radiostream.pl/tuba9006-1.mp3
+RMF Chillout              Bank 1 Stacja 27  http://195.150.20.7/rmf_chillout
+RMF PRL                   Bank 1 Stacja 28  http://195.150.20.7/rmf_prl
+RMF Maxxx                 Bank 1 Stacja 29  https://rs6-krk2.rmfstream.pl/rmf_maxxx
+Chilli Zet                Bank 1 Stacja 30  https://ch01.cdn.eurozet.pl/chi-net.mp3
+Radio Express             Bank 1 Stacja 31  http://www.radioexpress.pl/stream1
+RMF24.pl                  Bank 1 Stacja 32  http://rmfstream1.interia.pl:80/rmf_24
+RADIO KOLOR               Bank 1 Stacja 33  http://stream.rcs.revma.com/nrfscb49xd3vv
+Radio Wnet                Bank 1 Stacja 34  http://media.wnet.fm:80/wnet.fm
+ESKA ROCK                 Bank 1 Stacja 35  http://ic1.smcdn.pl/5380-1.mp3
+Radio Bielsko             Bank 1 Stacja 36  http://n04a-eu.rcs.revma.com/062uq3z3kwzuv
+Euro Radio                Bank 1 Stacja 37  https://stream.laut.fm/euroradio
+Radio Kujawy              Bank 1 Stacja 38  http://radio.kujawy.info:9940/;
+Radio Panorama 80         Bank 1 Stacja 39  https://stream.laut.fm/panorama80
+Radio Fama                Bank 1 Stacja 40  http://stream2.nadaje.com:8076/
+Tok FM                    Bank 1 Stacja 41  http://22593.live.streamtheworld.com/RADIO_TOKFM.mp3
+Muzyczne Radio            Bank 1 Stacja 42  https://stream1.dabcom.pl/mr_flac
+Radio Torun               Bank 1 Stacja 43  https://ssl-1.radiohost.pl:11512/stream 
+Meloradio FM              Bank 1 Stacja 44  https://redir.atmcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
+Mega Radio                Bank 1 Stacja 45  https://n33a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABlEgG_J8AxEBEs4vWd9HCxA
+Radio Disco               Bank 1 Stacja 46  https://stream.rcs.revma.com/cvswvmyewzzuv
+Radio Nuta                Bank 1 Stacja 47  https://stream.rcs.revma.com/0004tehdxzzuv
+Radio Weekend FM          Bank 1 Stacja 48  http://stream.weekendfm.pl:8000/weekendfm_256kbs.mp3
+Radio Super FM            Bank 1 Stacja 49  http://stream.super.fm:8000/superfm.mp3
+Off Radio Krakow          Bank 1 Stacja 50  http://stream2.nadaje.com:13332/offradiokrakow
+Radio Konin FM            Bank 1 Stacja 51  https://stream2.technologicznie.net/konin.fm
+Twoje Radio               Bank 1 Stacja 52  http://51.77.59.65:8100/stream.mp3
+Radio Warszawa            Bank 1 Stacja 53  https://stream2.technologicznie.net/radio_warszawa.mp3
+Radio Hit                 Bank 1 Stacja 54  http://46.170.199.85:8000
+Radio Afera               Bank 1 Stacja 55  http://poznan5-3.radio.pionier.net.pl:8000/afera.mp3
+Radio Znin                Bank 1 Stacja 56  http://stream4.nadaje.com:8052
+Radio EL-Stacja           Bank 1 Stacja 57  http://radio.el-stacja.pl:8000/elstacja320mp3
+Opensky                   Bank 1 Stacja 58  https://audio.opensky.radio:8082/flac
+Radio Przeboje PRL        Bank 1 Stacja 59  http://mp3.polskieradio.pl:8466
+Radio GRA Torun           Bank 1 Stacja 60  http://217.74.72.12/radio_gra
+Tok FM Muzyka             Bank 1 Stacja 61  http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3
+Radio Yanosik             Bank 1 Stacja 62  http://stream.rcs.revma.com/7vhveccrnquvv
+Easy Radio                Bank 1 Stacja 63  http://easyradio.bg/m3u/easyradio.bg-aac.m3u
+Radio Paradise Mellow     Bank 1 Stacja 64  http://stream.radioparadise.com/mellow-flac
+VOLOSATOE RADIO           Bank 1 Stacja 65  http://volosatoff.ru:8008/euro.opus
+R2 Rock                   Bank 1 Stacja 66  http://icecast.err.ee/r2rock.opus
+Classic Vinyl HD          Bank 1 Stacja 67  http://icecast.walmradio.com:8000/classic_opus
+SuperStereo 1             Bank 1 Stacja 68  http://icecast.centaury.cl:7550/SuperStereo1
+SuperStereo 2             Bank 1 Stacja 69  http://icecast.centaury.cl:7550/SuperStereo2
+SuperStereo 3             Bank 1 Stacja 70  http://icecast.centaury.cl:7550/SuperStereo3
+Radio Paradise Rock Mix   Bank 1 Stacja 71  http://stream.radioparadise.com/rock-flacm
+Eska Bydgoszcz AAC        Bank 1 Stacja 72  http://ic2.smcdn.pl:80/2030-1.aac
+Radio Baobab              Bank 1 Stacja 73  http://stream.radiobaobab.pl:8000/radiobaobab.mp3

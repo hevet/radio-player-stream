@@ -78,7 +78,7 @@ Radio bezpieczna podroz   Bank 2 Stacja 77  https://ssl-1.radiohost.pl:9162/;
 Radio Yanosik Rock        Bank 2 Stacja 78  http://stream.rcs.revma.com/yghk77gym5uvv
 Rock Serwis FM            Bank 2 Stacja 79  http://stream9.nadaje.com:8002/live
 Twoja Polska Stacja       Bank 2 Stacja 80  http://sluchaj.twojapolskastacja.pl:8068/
-Twoje Radio               Bank 2 Stacja 81  http://51.77.59.65:8000/stream.ogg
+Twoje Radio               Bank 2 Stacja 81  http://51.77.59.65:8100/stream.mp3
 Radio UWM FM              Bank 2 Stacja 82  http://213.184.18.156:8000/;
 Trendy Radio              Bank 2 Stacja 83  http://stream.trendyradio.pl:8000/h
 Radio Wielkopolska        Bank 2 Stacja 84  http://217.182.76.63:8000/webstream

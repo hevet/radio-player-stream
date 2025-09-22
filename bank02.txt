@@ -17,7 +17,7 @@ Zlote Przeboje Bydgoszcz  Bank 2 Stacja 16  ​http://radiostream.pl/tuba8902-1.
 ROCK RADIO                Bank 2 Stacja 17  ​http://radiostream.pl/tuba9006-1.mp3
 TOK FM                    Bank 2 Stacja 18  http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_TOKFM.mp3
 Radio Weekend             Bank 2 Stacja 19  http://n14a-eu.rcs.revma.com/vw8w2zwpsy3vv
-WASZE RADIO               Bank 2 Stacja 20  http://sluchaj.link:8000/wrfm
+WASZE RADIO               Bank 2 Stacja 20  https://sluchaj.link:5443/wasze
 WNET                      Bank 2 Stacja 21  http://media.wnet.fm:80/wnet.fm
 Radio Nuta                Bank 2 Stacja 22  http://stream.rcs.revma.com:80/0004tehdxzzuv
 Radio Disco               Bank 2 Stacja 23  http://stream.rcs.revma.com:80/cvswvmyewzzuv

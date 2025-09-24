@@ -4,7 +4,7 @@ RMF FM                    Bank 1 Stacja 3   http://195.150.20.7/rmf_fm
 RMF Maxx Bydgoszcz        Bank 1 Stacja 4   http://rmfstream1.interia.pl:80/rmf_maxxx_byd
 Radio ZET                 Bank 1 Stacja 5   https://zt04.cdn.eurozet.pl/ZETPAR.mp3?redirected=04
 Eska2                     Bank 1 Stacja 6   http://ic2.smcdn.pl:80/1380-1.mp3
-Radio 90                  Bank 1 Stacja 7   http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
+Radio 90                  Bank 1 Stacja 7   http://srv1.streamradiowy.eu/radio90
 Radio Plus                Bank 1 Stacja 8   https://ic2.smcdn.pl/4270-1.mp3
 Radio Pogoda Bydgoszcz    Bank 1 Stacja 9   http://radiostream.pl/tuba143-1.mp3
 Radio 7                   Bank 1 Stacja 10  http://stream.radio7.pl:8000

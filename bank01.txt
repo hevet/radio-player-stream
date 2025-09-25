@@ -45,7 +45,7 @@ Meloradio FM              Bank 1 Stacja 44  https://redir.atmcdn.pl/sc/o2/Euroze
 Mega Radio                Bank 1 Stacja 45  https://n33a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABlEgG_J8AxEBEs4vWd9HCxA
 Radio Disco               Bank 1 Stacja 46  https://stream.rcs.revma.com/cvswvmyewzzuv
 Radio Nuta                Bank 1 Stacja 47  https://stream.rcs.revma.com/0004tehdxzzuv
-Radio Weekend FM          Bank 1 Stacja 48  http://stream.weekendfm.pl:8000/weekendfm_256kbs.mp3
+Radio Weekend FM          Bank 1 Stacja 48  http://stream.rcs.revma.com/vw8w2zwpsy3vv
 Radio Super FM            Bank 1 Stacja 49  http://stream.super.fm:8000/superfm.mp3
 Off Radio Krakow          Bank 1 Stacja 50  http://stream2.nadaje.com:13332/offradiokrakow
 Radio Konin FM            Bank 1 Stacja 51  https://stream2.technologicznie.net/konin.fm

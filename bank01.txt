@@ -65,9 +65,6 @@ Radio Paradise Mellow     Bank 1 Stacja 64  http://stream.radioparadise.com/mell
 VOLOSATOE RADIO           Bank 1 Stacja 65  http://volosatoff.ru:8008/euro.opus
 R2 Rock                   Bank 1 Stacja 66  http://icecast.err.ee/r2rock.opus
 Classic Vinyl HD          Bank 1 Stacja 67  http://icecast.walmradio.com:8000/classic_opus
-SuperStereo 1             Bank 1 Stacja 68  http://icecast.centaury.cl:7550/SuperStereo1
-SuperStereo 2             Bank 1 Stacja 69  http://icecast.centaury.cl:7550/SuperStereo2
-SuperStereo 3             Bank 1 Stacja 70  http://icecast.centaury.cl:7550/SuperStereo3
 Radio Paradise Rock Mix   Bank 1 Stacja 71  http://stream.radioparadise.com/rock-flacm
 Eska Bydgoszcz AAC        Bank 1 Stacja 72  http://ic2.smcdn.pl:80/2030-1.aac
 Radio Baobab              Bank 1 Stacja 73  http://stream.radiobaobab.pl:8000/radiobaobab.mp3

@@ -62,7 +62,7 @@ PR Lodz                   Bank 2 Stacja 61  https://stream.radiolodz.toya.cloud/
 Wloclawek po polsku       Bank 2 Stacja 62  http://radio.kujawy.info:10140/1
 Radio RAM Wroclaw         Bank 2 Stacja 63  http://stream4.nadaje.com:9220/ram
 Radio 357                 Bank 2 Stacja 64  http://n25a-eu.rcs.revma.com:80/an1ugyygzk8uv
-Radio Nowy Swiat          Bank 2 Stacja 65  http://stream.nowyswiat.online/mp3
+Radio Nowy Swiat          Bank 2 Stacja 65  http://stream.rcs.revma.com/ypqt40u0x1zuv
 BBC - Radio 1             Bank 2 Stacja 66  http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
 BBC - Radio 1Xtra         Bank 2 Stacja 67  http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8
 BBC - Radio 1Dance        Bank 2 Stacja 68  http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.norewind.m3u8

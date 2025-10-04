@@ -80,12 +80,12 @@ Life Radio Life Radio     Bank 4 Stacja 79  https://stream.liferadio.at/liferadi
 Life Radio Sommersongs    Bank 4 Stacja 80  https://stream.liferadio.at/sommer/mp3-192/app/
 Life Radio Testchannel    Bank 4 Stacja 81  https://liferadio.stream.vip/test/mp3-192/app/
 Life Radio Top500         Bank 4 Stacja 82  https://stream.liferadio.at/top500/mp3-192/app/
-Radio Toksyna FM          Bank 4 Stacja 83  http://s01.toksyna.fm:8000  
-Radio Toksyna FM DJ Chann Bank 4 Stacja 84  http://s01.toksyna.fm:8040  
-Radio Toksyna FM Elektron Bank 4 Stacja 85  http://s01.toksyna.fm:8010  
-Radio Toksyna FM New Roma Bank 4 Stacja 86  http://s01.toksyna.fm:8020  
-Radio Toksyna FM PsyTranc Bank 4 Stacja 87  http://s01.toksyna.fm:8030  
-Radio Toksyna FM Punk Roc Bank 4 Stacja 88  http://s01.toksyna.fm:8070  
+Toksyna FM                Bank 4 Stacja 83  http://s01.toksyna.fm:8000  
+Toksyna FM DJ Channel     Bank 4 Stacja 84  http://s01.toksyna.fm:8040  
+Toksyna FM Elektronika    Bank 4 Stacja 85  http://s01.toksyna.fm:8010  
+Toksyna FM New Roma       Bank 4 Stacja 86  http://s01.toksyna.fm:8020  
+Toksyna FM PsyTrance      Bank 4 Stacja 87  http://s01.toksyna.fm:8030  
+Toksyna FM Punk Rock      Bank 4 Stacja 88  http://s01.toksyna.fm:8070  
 PARTY VIBE-DRUM&BASS      Bank 4 Stacja 89  http://94.130.242.5:8004/stream
 PARTY VIBE-DUBSTEP        Bank 4 Stacja 90  http://94.130.242.5:8040/stream
 PARTY VIBE-POP            Bank 4 Stacja 91  http://94.130.242.5:8024/stream

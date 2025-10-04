@@ -79,7 +79,7 @@ Life Radio Home Office    Bank 4 Stacja 78  https://stream.liferadio.at/homeoffi
 Life Radio Life Radio     Bank 4 Stacja 79  https://stream.liferadio.at/liferadio/mp3-192/app/
 Life Radio Sommersongs    Bank 4 Stacja 80  https://stream.liferadio.at/sommer/mp3-192/app/
 Life Radio Testchannel    Bank 4 Stacja 81  https://liferadio.stream.vip/test/mp3-192/app/
-Life Radio Top500         Bank 4 Stacja 82  https://stream.liferadio.at/top500/mp3-192/app/
+Life Radio Classic Rock   Bank 4 Stacja 82  https://stream.liferadio.at/clrock/mp3-192
 Toksyna FM                Bank 4 Stacja 83  http://s01.toksyna.fm:8000  
 Toksyna FM DJ Channel     Bank 4 Stacja 84  http://s01.toksyna.fm:8040  
 Toksyna FM Elektronika    Bank 4 Stacja 85  http://s01.toksyna.fm:8010  

@@ -60,7 +60,7 @@ Radio Przeboje PRL        Bank 1 Stacja 59  http://mp3.polskieradio.pl:8466
 Radio GRA Torun           Bank 1 Stacja 60  http://217.74.72.12/radio_gra
 Tok FM Muzyka             Bank 1 Stacja 61  http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3
 Radio Yanosik             Bank 1 Stacja 62  http://stream.rcs.revma.com/7vhveccrnquvv
-Easy Radio                Bank 1 Stacja 63  http://easyradio.bg/m3u/easyradio.bg-aac.m3u
+Easy Radio                Bank 1 Stacja 63  https://live.easyradio.bg/aac
 Radio Paradise Mellow     Bank 1 Stacja 64  http://stream.radioparadise.com/mellow-flac
 VOLOSATOE RADIO           Bank 1 Stacja 65  http://volosatoff.ru:8008/euro.opus
 R2 Rock                   Bank 1 Stacja 66  http://icecast.err.ee/r2rock.opus

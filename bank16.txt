@@ -43,6 +43,8 @@ Roxy Radio               Bank 16 Stacja 42  https://s2.audiostream.hu/roxy_FLAC
 Sweet FM                 Bank 16 Stacja 43  http://stream.sweetfm.fr:8000/dab-forever-lms
 Intense Radio            Bank 16 Stacja 44  http://secure.live-streams.nl/flac.ogg
 Radio Club Retro         Bank 16 Stacja 45  https://stream.radioclub80.cl:8032/stream.euro80gg
+Radio 700                Bank 16 Stacja 46  https://streaming.radio700.eu/radio700.flac
+Pure Radio DJ R.I.P      Bank 16 Stacja 47  https://streamserver.pure-isp.eu/radio/8050/flac
 
 
 

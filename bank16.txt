@@ -5,7 +5,7 @@ Dance Classics Radio     Bank 16 Stacja 4  http://vriezenet.nl:11051/dcflac
 Dance Wave               Bank 16 Stacja 5  http://dancewave.online/dance.flac.ogg
 Dance Wave Retro!        Bank 16 Stacja 6  http://retro.dancewave.online/retrodance.flac.ogg
 Danubius Radio           Bank 16 Stacja 7  https://danubiusradio.hu/live_HiFi.mp3
-DHECTAR Dance            Bank 16 Stacja 8  http://manager.dhectar.fr:1080/stream
+Djam Radio               Bank 16 Stacja 8  https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
 DHECTAR Radio            Bank 16 Stacja 9  http://manager.dhectar.fr:1300/stream
 Djam Radio               Bank 16 Stacja 10  https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
 ForEver La Radio-ArcachonBank 16 Stacja 11  http://stream.sweetfm.fr:8000/flac-forever-arc

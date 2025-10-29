@@ -85,7 +85,7 @@ Czech Radio CRo Vltava   Bank 16 Stacja 84  http://amp.cesnet.cz:8000/cro3.flac
 RadioSEGA                Bank 16 Stacja 85  https://icecast.radiosega.net/rs-flac.ogg
 Smoothjazz.com.pl        Bank 16 Stacja 86  http://bcast.vigormultimedia.com:8888/sjcomplflac
 Czech Radio CRo Jazz     Bank 16 Stacja 87  http://amp.cesnet.cz:8000/cro-jazz.flac
-SUN – Le Son Unique      Bank 16 Stacja 88  https://diffusion.lafrap.fr/sun.flac
+SUN-Le Son Unique      Bank 16 Stacja 88  https://diffusion.lafrap.fr/sun.flac
 Radio Sing Sing          Bank 16 Stacja 89  http://stream.sing-sing-bis.org:8000/singsingFlac
 CRo Vltava               Bank 16 Stacja 91  http://amp.cesnet.cz:8000/cro3.flac
 CRo D-dur                Bank 16 Stacja 92  http://amp.cesnet.cz:8000/cro-d-dur.flac

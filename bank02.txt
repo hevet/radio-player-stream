@@ -85,5 +85,5 @@ Radio Wielkopolska        Bank 2 Stacja 84  http://217.182.76.63:8000/webstream
 Akadem. Radio Centrum     Bank 2 Stacja 85  http://radio.centrum.fm/live
 Radio Centrum             Bank 2 Stacja 86  https://streaming.inten.pl:8886/rcfm.mp3
 Rock FM Bydgoszcz         Bank 2 Stacja 87  http://217.182.76.63:8000/rfmweb
-ESKA ZAMOSC               Bank 2 Stacja 88  http://ic2.smcdn.pl:80/2230-1.mp3
+ESKA ZAMOŚĆ               Bank 2 Stacja 88  http://ic2.smcdn.pl:80/2230-1.mp3
 Radio 92.9                Bank 2 Stacja 89  http://radio.929.lu/mp3

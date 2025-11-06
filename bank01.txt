@@ -21,11 +21,11 @@ PR24 Polskie Radio        Bank 1 Stacja 20  http://mp3.polskieradio.pl:8080/;
 Meloradio                 Bank 1 Stacja 21  http://ml.cdn.eurozet.pl/mel-trn.mp3
 TOK FM                    Bank 1 Stacja 22  http://radiostream.pl/tuba10-1.mp3
 Vox FM                    Bank 1 Stacja 23  http://waw.ic.smcdn.pl/3990-1.mp3
-Radio Chilli ZET FM       Bank 1 Stacja 24  https://ch01.cdn.eurozet.pl/chi-net.mp3
+Radio Warta               Bank 1 Stacja 24  http://s1.slotex.pl:7446/listen.pls
 Radio Vanessa             Bank 1 Stacja 25  http://s1.slotex.pl:7358/;
 Rock Radio Polska         Bank 1 Stacja 26  https://radiostream.pl/tuba9006-1.mp3
-RMF Chillout              Bank 1 Stacja 27  http://195.150.20.7/rmf_chillout
-RMF PRL                   Bank 1 Stacja 28  http://195.150.20.7/rmf_prl
+Radio OKO                 Bank 1 Stacja 27  http://stream3.nadaje.com:8028/radiooko.m3u
+Radio Tczew               Bank 1 Stacja 28  http://195.191.180.5:8000/live.m3u
 RMF Maxxx                 Bank 1 Stacja 29  https://rs6-krk2.rmfstream.pl/rmf_maxxx
 Chilli Zet                Bank 1 Stacja 30  https://ch01.cdn.eurozet.pl/chi-net.mp3
 Radio Express             Bank 1 Stacja 31  http://www.radioexpress.pl/stream1

@@ -68,3 +68,4 @@ Classic Vinyl HD          Bank 1 Stacja 67  http://icecast.walmradio.com:8000/cl
 Radio Paradise Rock Mix   Bank 1 Stacja 71  http://stream.radioparadise.com/rock-flacm
 Eska Bydgoszcz AAC        Bank 1 Stacja 72  http://ic2.smcdn.pl:80/2030-1.aac
 Radio Baobab              Bank 1 Stacja 73  http://stream.radiobaobab.pl:8000/radiobaobab.mp3
+Radio 100                 Bank 1 Stacja 74  http://stream-176.zeno.fm/sgzg9sfq1zhvv

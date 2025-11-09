@@ -15,7 +15,7 @@ Smooth Jazz V 98.7       Bank 6 Stacja 14  https://login.webinternetradio.com:15
 Smooth Jazz 247          Bank 6 Stacja 15  https://jking.cdnstream1.com/b75154_128mp3
 Smooth Jazz CD New York  Bank 6 Stacja 16  http://server.webnetradio.net:5274/;
 Smooth Jazz Chill        Bank 6 Stacja 17  http://server.webnetradio.net:5226/;
-Smooth Jazz Deluxe       Bank 6 Stacja 18  https://az1.mediacp.eu/listen/asmoothjazzdeluxe/radio.mp3
+Smooth Jazz Deluxe       Bank 6 Stacja 18  https://cast1.torontocast.com:4490/;
 SmoothJazz Florida Class Bank 6 Stacja 19  https://streaming.shoutcast.com/smooth-jazz-florida-classics
 Smooth Jazz Hot 100      Bank 6 Stacja 20  http://server.webnetradio.net:5254/;
 Smooth Jazz Lounge HD    Bank 6 Stacja 21  https://fastcast4u.com/player/wsjfhd-airspectrum/?pl=winamp&c=0

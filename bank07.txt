@@ -1,11 +1,11 @@
-Polskie Radio Jedynka     Bank 7 Stacja 1   https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
-Polskie Radio Dwojka      Bank 7 Stacja 2   https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
-Polskie Radio Trojka      Bank 7 Stacja 3   https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
-Polskie Radio Czworka     Bank 7 Stacja 4   https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
-Polskie Radio 24          Bank 7 Stacja 5   https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
-Polskie Radio Chopin      Bank 7 Stacja 6   https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
-Polskie Radio Dzieciom    Bank 7 Stacja 7   https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
-Polskie Radio Kierowcow   Bank 7 Stacja 8   https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
-PR dla zagranicy          Bank 7 Stacja 9  https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8  
-PR Poland                 Bank 7 Stacja 10  https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8   
-Radio Toksyna FM Classic  Bank 7 Stacja 11  http://s01.toksyna.fm:8060
+Polskie Radio Jedynka     https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
+Polskie Radio Dwojka      https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
+Polskie Radio Trojka      https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
+Polskie Radio Czworka     https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
+Polskie Radio 24          https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
+Polskie Radio Chopin      https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
+Polskie Radio Dzieciom    https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
+Polskie Radio Kierowcow   https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+PR dla zagranicy          https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8  
+PR Poland                 https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8   
+Radio Toksyna FM Classic  http://s01.toksyna.fm:8060

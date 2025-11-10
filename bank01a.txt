@@ -1,0 +1,73 @@
+Antyradio                 https://an01.cdn.eurozet.pl/ant-kat.mp3
+Radio Zlote Przeboje      https://radiostream.pl/tuba8920-1.mp3
+RMF FM                    http://195.150.20.7/rmf_fm
+RMF Maxx Bydgoszcz        http://rmfstream1.interia.pl:80/rmf_maxxx_byd
+Radio ZET                 https://zt04.cdn.eurozet.pl/ZETPAR.mp3?redirected=04
+Eska2                     http://ic2.smcdn.pl:80/1380-1.mp3
+Radio 90                  http://srv1.streamradiowy.eu/radio90
+Radio Plus                https://ic2.smcdn.pl/4270-1.mp3
+Radio Pogoda Bydgoszcz    http://radiostream.pl/tuba143-1.mp3
+Radio 7                   http://stream.radio7.pl:8000
+RMF Classic               http://31.192.216.3/rmf_classic
+Radio 357                 https://stream.rcs.revma.com/an1ugyygzk8uv
+Radio Nowy Swiat          http://stream.rcs.revma.com/ypqt40u0x1zuv.mp3
+Eska Bydgoszcz            http://ic2.smcdn.pl:80/2030-1.mp3
+Mega Radio                https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
+PR-1 Polskiego Radia      http://stream3.polskieradio.pl:8950
+PR-2 Polskiego Radia      http://stream3.polskieradio.pl:8952
+PR-3 Polskiego Radia      http://stream3.polskieradio.pl:8954
+PR-4 Polskiego Radia      http://stream3.polskieradio.pl:8906
+PR24 Polskie Radio        http://mp3.polskieradio.pl:8080/;
+Meloradio                 http://ml.cdn.eurozet.pl/mel-trn.mp3
+TOK FM                    http://radiostream.pl/tuba10-1.mp3
+Vox FM                    http://waw.ic.smcdn.pl/3990-1.mp3
+Radio Warta               http://s1.slotex.pl:7446/listen.pls
+Radio Vanessa             http://s1.slotex.pl:7358/;
+Rock Radio Polska         https://radiostream.pl/tuba9006-1.mp3
+Radio OKO                 http://stream3.nadaje.com:8028/radiooko.m3u
+Radio Tczew               http://195.191.180.5:8000/live.m3u
+RMF Maxxx                 https://rs6-krk2.rmfstream.pl/rmf_maxxx
+Chilli Zet                https://ch01.cdn.eurozet.pl/chi-net.mp3
+Radio Express             http://www.radioexpress.pl/stream1
+RMF24.pl                  http://rmfstream1.interia.pl:80/rmf_24
+RADIO KOLOR               http://stream.rcs.revma.com/nrfscb49xd3vv
+Radio Wnet                http://media.wnet.fm:80/wnet.fm
+ESKA ROCK                 http://ic1.smcdn.pl/5380-1.mp3
+Radio Bielsko             http://n04a-eu.rcs.revma.com/062uq3z3kwzuv
+Euro Radio                https://stream.laut.fm/euroradio
+Radio Kujawy              http://radio.kujawy.info:9940/;
+Radio Panorama 80         https://stream.laut.fm/panorama80
+Radio Fama                http://stream2.nadaje.com:8076/
+Tok FM                    http://22593.live.streamtheworld.com/RADIO_TOKFM.mp3
+Muzyczne Radio            https://stream1.dabcom.pl/mr_flac
+Radio Torun               https://ssl-1.radiohost.pl:11512/stream 
+Meloradio FM              https://redir.atmcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
+Mega Radio                https://n33a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABlEgG_J8AxEBEs4vWd9HCxA
+Radio Disco               https://stream.rcs.revma.com/cvswvmyewzzuv
+Radio Nuta                https://stream.rcs.revma.com/0004tehdxzzuv
+Radio Weekend FM          http://stream.rcs.revma.com/vw8w2zwpsy3vv
+Radio Super FM            http://stream.super.fm:8000/superfm.mp3
+Off Radio Krakow          http://stream2.nadaje.com:13332/offradiokrakow
+Radio Konin FM            https://stream2.technologicznie.net/konin.fm
+Twoje Radio               http://51.77.59.65:8100/stream.mp3
+Radio Warszawa            https://stream2.technologicznie.net/radio_warszawa.mp3
+Radio Hit                 http://46.170.199.85:8000
+Radio Afera               http://poznan5-3.radio.pionier.net.pl:8000/afera.mp3
+Radio Znin                http://stream4.nadaje.com:8052
+Radio EL-Stacja           http://radio.el-stacja.pl:8000/elstacja320mp3
+Opensky                   https://audio.opensky.radio:8082/flac
+Radio Przeboje PRL        http://mp3.polskieradio.pl:8466
+Radio GRA Torun           http://217.74.72.12/radio_gra
+Tok FM Muzyka             http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3
+Radio Yanosik             http://stream.rcs.revma.com/7vhveccrnquvv
+Easy Radio                https://live.easyradio.bg/aac
+Radio Paradise Mellow     http://stream.radioparadise.com/mellow-flac
+VOLOSATOE RADIO           http://volosatoff.ru:8008/euro.opus
+R2 Rock                   http://icecast.err.ee/r2rock.opus
+Classic Vinyl HD          http://icecast.walmradio.com:8000/classic_opus
+Radio Paradise Rock Mix   http://stream.radioparadise.com/rock-flacm
+Eska Bydgoszcz AAC        http://ic2.smcdn.pl:80/2030-1.aac
+Radio Baobab              http://stream.radiobaobab.pl:8000/radiobaobab.mp3
+Radio 100                 http://stream-176.zeno.fm/sgzg9sfq1zhvv
+Radio na stoku            https://sluchaj.link:5443/nastoku
+Radio Maryja              https://radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/stream/1/

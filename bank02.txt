@@ -21,13 +21,13 @@ WASZE RADIO               Bank 2 Stacja 20  https://sluchaj.link:5443/wasze
 WNET                      Bank 2 Stacja 21  http://media.wnet.fm:80/wnet.fm
 Radio Nuta                Bank 2 Stacja 22  http://stream.rcs.revma.com:80/0004tehdxzzuv
 Radio Disco               Bank 2 Stacja 23  http://stream.rcs.revma.com:80/cvswvmyewzzuv
-PR1                       Bank 2 Stacja 24  http://mp3.polskieradio.pl:8900/;
-PR2                       Bank 2 Stacja 25  http://mp3.polskieradio.pl:8902/;
-PR3                       Bank 2 Stacja 26  http://mp3.polskieradio.pl:8904/;
-PR4                       Bank 2 Stacja 27  http://mp3.polskieradio.pl:8906/;
+PR1                       Bank 2 Stacja 24  http://mp3.polskieradio.pl:8950/;
+PR2                       Bank 2 Stacja 25  http://mp3.polskieradio.pl:8952/;
+PR3                       Bank 2 Stacja 26  http://mp3.polskieradio.pl:8954/;
+PR4                       Bank 2 Stacja 27  http://mp3.polskieradio.pl:8956/;
 PR24                      Bank 2 Stacja 28  https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
-PR DZIECIOM               Bank 2 Stacja 29  http://mp3.polskieradio.pl:8916/;
-PR Rytm                   Bank 2 Stacja 30  http://mp3.polskieradio.pl:8194/;
+PR DZIECIOM               Bank 2 Stacja 29  http://mp3.polskieradio.pl:8966/;
+PR Kierowców              Bank 2 Stacja 30  http://stream3.polskieradio.pl:8968/;
 RADIO PIK                 Bank 2 Stacja 31  http://stream.radiopik.pl:9004/
 RDC                       Bank 2 Stacja 32  http://stream2.nadaje.com:11140/rdc
 ANTYRADIO                 Bank 2 Stacja 33  http://playerservices.streamtheworld.com/api/livestream-redirect/ANTYRADIO.mp3

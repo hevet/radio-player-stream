@@ -80,7 +80,7 @@ TEKnival Radio            https://listen.teknivalradio.com/listen/teknivalradio/
 Magic Radio               https://mp3.magic-radio.net/flac
 Czech Radio CRo D-dur     http://amp.cesnet.cz:8000/cro-d-dur.flac
 Czech Radio CRo Jazz      http://amp.cesnet.cz:8000/cro-jazz.flac
-Czech Radio CRo RadioWave http://amp.cesnet.cz:8000/cro-radio-wave.flac
+Czech Radio CRo Wave      http://amp.cesnet.cz:8000/cro-radio-wave.flac
 Czech Radio CRo Vltava    http://amp.cesnet.cz:8000/cro3.flac
 RadioSEGA                 https://icecast.radiosega.net/rs-flac.ogg
 Smoothjazz.com.pl         http://bcast.vigormultimedia.com:8888/sjcomplflac

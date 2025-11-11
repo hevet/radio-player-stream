@@ -1,0 +1,37 @@
+Polskie Radio Jedynka     https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
+Polskie Radio Dwójka      https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
+Polskie Radio Trójka      https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
+Polskie Radio Czwórka     https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
+Polskie Radio 24          https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
+Polskie Radio Chopin      https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
+Polskie Radio Dzieciom    https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
+Polskie Radio Kierowców   https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+PR dla zagranicy          https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8
+PR Poland                 https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
+Hi On Line Radio Classic  http://mediaserv30.live-streams.nl:8088/live
+Linn Classical            http://radio.linn.co.uk:8004/autodj
+New Classics              http://stream.klassikradio.de/newclassics/mp3-192/www.klassikradio.de/
+Movie                     http://stream.klassikradio.de/movie/mp3-192/www.klassikradio.de/
+Opera                     http://stream.klassikradio.de/opera/mp3-192/www.klassikradio.de/
+Klassik Dreams            http://stream.klassikradio.de/dreams/mp3-192/www.klassikradio.de/
+Movie                     http://stream.klassikradio.de/movie/mp3-192/www.klassikradio.de/
+Classic FM                http://icecast.thisisdax.com/ClassicFMMP3.m3u
+Radio Swiss Classic       http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+P2 Musik                  http://http-live.sr.se/p2musik-mp3-192
+Classical 102             http://tuner.classical102.com:80/
+Radio Svizzera Classica   http://stream.srg-ssr.ch/rsc_it/mp3_128.m3u
+Pure Verdi                http://stream.klassikradio.de/verdi/mp3-192/www.klassikradio.de/
+Klassik Radio Live        http://stream.klassikradio.de/live/mp3-192/www.klassikradio.de/
+Piano                     http://stream.klassikradio.de/piano/mp3-192/www.klassikradio.de/
+Barock                    http://stream.klassikradio.de/barock/mp3-192/www.klassikradio.de/
+Pure Bach                 http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/
+Pure Beethoven            http://stream.klassikradio.de/beethoven/mp3-192/www.klassikradio.de/
+Chor                      http://stream.klassikradio.de/chor/mp3-192/www.klassikradio.de/
+Christmas                 http://stream.klassikradio.de/christmas/mp3-192/www.klassikradio.de/
+Healing                   http://stream.klassikradio.de/healing/mp3-192/www.klassikradio.de/
+Pure Mozart               http://stream.klassikradio.de/mozart/mp3-192/www.klassikradio.de/
+Classic Vinyl HD          https://icecast.walmradio.com:8443/classic
+MondoBongo                http://5.63.151.52:7082/;stream/1.mp3
+Radio Kultura             http://icecast.vgtrk.cdnvideo.ru/kulturafm
+RadiostART                http://radio.dyne.org:80/liveradiostart
+Radio Toksyna FM Classic  http://s01.toksyna.fm:8060

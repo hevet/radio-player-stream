@@ -1,0 +1,97 @@
+Round and Sound radio     http://stream.roundandsound.nl:80/;
+Smooth                    http://stream.klassikradio.de/smooth/mp3-192/www.klassikradio.de/
+Smoothjazz.com.pl         https://bcast.vigormultimedia.com:48888/sjcompl320mp3
+Smoothjazz.com.pl         http://bcast.vigormultimedia.com:8888/sjcompl320mp3
+BluesRadio Athens Greece  https://live.bluesradio.gr:8352/;
+Classic Vinyl             https://icecast.walmradio.com:8443/classic
+Smooth Jazz               https://bcast.vigormultimedia.com:48888/sjcompl320mp3
+Blues Wave                https://blueswave.radio:8100/hifiblues
+Radio Chillizet           https://ch01.cdn.eurozet.pl/chi-net.mp3
+Chillizet Jazz            https://ch02.cdn.eurozet.pl/CHIJAZ.mp3
+Chillizet Soul            https://zt02.cdn.eurozet.pl/CHISOU.mp3
+Chillizet World Jazz      https://ch.cdn.eurozet.pl/CHIWJZ.mp3
+Toksyna FM Chillout       http://s01.toksyna.fm:8050
+Smooth Jazz V 98.7        https://login.webinternetradio.com:1590/;
+Smooth Jazz 247           https://jking.cdnstream1.com/b75154_128mp3
+Smooth Jazz CD New York   http://server.webnetradio.net:5274/;
+Smooth Jazz Chill         http://server.webnetradio.net:5226/;
+Smooth Jazz Deluxe        https://cast1.torontocast.com:4490/;
+SmoothJazz Florida Class  https://streaming.shoutcast.com/smooth-jazz-florida-classics
+Smooth Jazz Hot 100       http://server.webnetradio.net:5254/;
+Smooth Jazz Lounge HD     https://fastcast4u.com/player/wsjfhd-airspectrum/?pl=winamp&c=0
+Smooth Jazz Planet        https://hestia2.cdnstream.com/1258_128
+Smoothjazz.com - Global   https://smoothjazz.cdnstream1.com/2585_128.mp3
+Smooth Jazz UK            https://hearme.fm:13190/online-radio-box
+SmoothJazz-Instrumental   https://stream.laut.fm/smooth-jazz
+Smooth Jazz and More      https://cast1.torontocast.com:1480/stream
+Smooth Jazz Portugal      https://stream-hls.bauermedia.pt/smojazz.aac/playlist.m3u8
+City Jazz                 https://stream.radiotechnikum.at/CITYJAZZ
+0N - Smooth Jazz          https://0n-2000s.radionetz.de/0n-smoothjazz.mp3
+Linn Jazz                 http://radio.linn.co.uk:8000/autodj
+Radio Nadaje-Chillout     http://panel.nadaje.com:9004
+Lounge-radio, Swiss made  http://live.streamhosting.ch:80
+181.FM                    http://listen.181fm.com:8700
+Lounge                    http://stream.klassikradio.de/lounge/mp3-192/www.klassikradio.de/
+Lounge Beat               http://stream.klassikradio.de/lounge-beat/mp3-192/www.klassikradio.de/
+Friends @ Home            http://stream.klassikradio.de/friendshome/mp3-192/www.klassikradio.de/
+Games                     http://stream.klassikradio.de/games/mp3-192/www.klassikradio.de/
+Hi On Line Radio Lounge   http://mediaserv33.live-streams.nl:8036/live
+Hi On Line Radio Jazz     http://mediaserv38.live-streams.nl:8006/live
+PARTY VIBE-AMBIENT        http://94.130.242.5:8056/stream
+Radio Pasja Chill         http://91.232.4.33:8108/stream2
+Radio Pasja Relaks        http://91.232.4.33:8102/stream2
+Blues Wave                https://blueswave.radio:8100/hifiblues
+Radio Jazz FM             https://radiojazz.out.airtime.pro/radiojazz_a
+113.fm - Alt Nation       https://113fm-atunwadigital.streamguys1.com/1001
+113.fm - Area 51          https://113fm-edge2.cdnstream.com/1774_128
+113.fm - Awesome 80s      https://113fm-atunwadigital.streamguys1.com/1003
+113.fm - Awesome 80s-1981 https://113fm-edge2.cdnstream.com/1742_128
+113.fm - Awesome 80s-1982 https://113fm-edge2.cdnstream.com/1750_128
+113.fm - Awesome 80s-1983 https://113fm-edge2.cdnstream.com/1753_128
+113.fm - Awesome 80s-1984 https://113fm-edge2.cdnstream.com/1745_128
+113.fm - Awesome 80s-1985 https://113fm-edge2.cdnstream.com/1747_128
+113.fm - Awesome 80s-1986 https://113fm-edge2.cdnstream.com/1751_128
+113.fm - Awesome 80s-1987 https://113fm-edge2.cdnstream.com/1761_128
+113.fm - Awesome 80s-1988 https://113fm-edge2.cdnstream.com/1760_128
+113.fm - Awesome 80s-1989 https://streaming.live365.com/a75607
+113.fm - BigKickinCountry https://113fm-atunwadigital.streamguys1.com/1004
+113.fm - Bluesville       https://113fm-edge2.cdnstream.com/1816_128
+113.fm - BPM              https://113fm-edge1.cdnstream.com/1736_128
+113.fm - Chill Zone       https://113fm-atunwadigital.streamguys1.com/1007
+113.fm - Classic One      https://113fm-edge2.cdnstream.com/1864_128
+113.fm - Coffee House     https://113fm-edge2.cdnstream.com/1728_128
+113.fm - Electrolux       https://113fm-edge1.cdnstream.com/1787_128
+113.fm - Elevator         https://113fm-atunwadigital.streamguys1.com/1010
+113.fm - Energy           https://113fm-edge2.cdnstream.com/1741_128
+113.fm - Flashback        https://113fm-edge1.cdnstream.com/1771_128
+113.fm - Free Bird        https://113fm-edge2.cdnstream.com/1748_128
+113.fm - Highway          https://113fm-edge1.cdnstream.com/1721_128
+113.fm - Hits 2 K         https://113fm-edge2.cdnstream.com/1812_128
+113.fm - Hits 2015        https://113fm-edge2.cdnstream.com/1744_128
+113.fm - Hitz UK          https://113fm-edge2.cdnstream.com/1778_128
+113.fm - Indie Nation     https://113fm-edge2.cdnstream.com/1814_128
+113.fm - Jitterbug        https://113fm-edge2.cdnstream.com/1785_128
+113.fm - Korean Pop       https://113fm-edge2.cdnstream.com/1789_128
+113.fm - Lovers Lane      https://113fm-atunwadigital.streamguys1.com/1050
+113.fm - Mistletoe        https://113fm-edge2.cdnstream.com/1867_128
+113.fm - Pop 2 K USA      https://113fm-edge1.cdnstream.com/1737_128
+113.fm - Power            https://113fm-edge1.cdnstream.com/1730_128
+113.fm - Relive           https://113fm-edge2.cdnstream.com/1797_128
+113.fm - Retro            https://113fm-atunwadigital.streamguys1.com/1056
+113.fm - Retro USA        https://113fm-edge2.cdnstream.com/1722_128
+113.fm - Revolution USA   https://113fm-edge2.cdnstream.com/1723_128
+113.fm - Route 66         https://113fm-edge2.cdnstream.com/1755_128
+113.fm - Salsa            https://113fm-edge2.cdnstream.com/1798_128
+113.fm - Star USA         https://113fm-edge2.cdnstream.com/1727_128
+Nature Radio Sleep        https://stream.zeno.fm/kju0gtjeei3uv
+Nature Radio RAIN         https://maggie.torontocast.com:8108/;
+Nature white noise        https://stream.zeno.fm/vg54x7r1exhvv
+247 - Nature Radio        https://ec3.yesstreaming.net:3545/stream
+Ambi Nature Radio         https://nature-rex.radioca.st/stream
+Calm - Ocean              https://drive.uber.radio/uber/calmocean/icecast.audio
+Klassik Radio - Nature    https://stream.klassikradio.de/nature/mp3-192
+myNoise - Ocean Waves     https://oceanwaves-mynoise.radioca.st/autodj
+myNoise - Pure Nature     https://purenature-mynoise.radioca.st/autodj
+myNoise - Rainy Day       https://rainyday-mynoise.radioca.st/stream
+Positively - Birdsong     https://drive.uber.radio/uber/calmbirdsong/icecast.audio
+247 Birdsong Radio        https://2.mystreaming.net/uber/calmbirdsong/icecast.audio

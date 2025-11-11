@@ -1,6 +1,5 @@
-2x2 Radio Uljanovsk       http://95.104.192.220:8001/radio2x2.ogg
 Agaune Radio              http://ecmanager3.pro-fhi.net:2640/stream
-Ally-Radio                http://everestcast.streams.ovh:2300/stream
+Sky Radio 101 FM          https://27753.live.streamtheworld.com/SKYRADIO.mp3
 Chaos Radio               http://5.135.177.61:8000/;stream/1
 Classixx                  http://www.clubfmserver.be:8000/classixxdab.mp3
 DB9009-TX                 http://2240.cloudrad.io:8120/live

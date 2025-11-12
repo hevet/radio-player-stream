@@ -93,7 +93,7 @@ Radio THE RAVE ZONE 24h   http://stream-vie.radio-zone.ru:8000/rz_vie_ogg_256
 Dance Wave                http://stream.dancewave.online:8080/dance.ogg
 Dance Wave Retro          http://stream.dancewave.online:8080/retrodance.ogg
 Smoothjazz.com.pl (FLAC)  http://bcast.vigormultimedia.com:8888/sjcomplflac
-Nature Radio Sleep        https://stream.zeno.fm/kju0gtjeei3uv
+Nature Radio Sleep        https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3
 Nature Radio RAIN         https://maggie.torontocast.com:8108/;
-Nature white noise        https://stream.zeno.fm/vg54x7r1exhvv
+Nature white noise        http://stream.zeno.fm/vg54x7r1exhvv
 247 - Nature Radio        https://ec3.yesstreaming.net:3545/stream

@@ -91,6 +91,11 @@ RMF Top 2021 Disco Polo   http://195.150.20.7/rmf_top2
 RMF Trend Sounds          http://195.150.20.7/rmf_trend_sounds
 RMF W Pracy               http://195.150.20.7/rmf_w_pracy
 RMF Wakacyjne Top 100     http://195.150.20.7/rmf_top4
-Radio Mega Dance          http://gamershouse.hu:8000/livemega.mp3
-Radio Dance Wave Retro    https://retro.dancewave.online/retrodance.flac.ogg.m3u
-Radio Dance Wave          https://dancewave.online/dance.flac.ogg.m3u
+RMF Top 5                 http://195.150.20.7/rmf_top5
+RMF Top 6                 http://195.150.20.7/rmf_top6
+RMF Top 7                 http://195.150.20.7/rmf_top7
+RMF Top 8                 http://195.150.20.7/rmf_top8
+RMF Top 9                 http://195.150.20.7/rmf_top9
+RMF Top 10                http://195.150.20.7/rmf_top10
+RMF Top 11                http://195.150.20.7/rmf_top11
+RMF Top 12                http://195.150.20.7/rmf_top12

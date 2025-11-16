@@ -12,8 +12,8 @@ ESKA ROCK                http://ic1.smcdn.pl/5380-1.mp3
 ESKA BYDGOSZCZ           http://ic2.smcdn.pl:80/2030-1.mp3
 Eska2                    http://ic2.smcdn.pl:80/1380-1.mp3
 Radio Plus Bydgoszcz     http://pl.cdn.eurozet.pl:80/plu-bdg.mp3
-RADIO POGODA BYDGOSZCZ   http://radiostream.pl/tuba143-1.mp3
-ZŁOTE PRZEBOJE BYDGOSZCZ http://radiostream.pl/tuba8902-1.mp3
+Radio Pogoda Bydgoszcz   http://radiostream.pl/tuba143-1.mp3
+Złote Przeboje Bydgoszcz http://radiostream.pl/tuba8902-1.mp3
 Rock FM Bydgoszcz        http://217.182.76.63:8000/rfmweb
 ROCK RADIO               http://radiostream.pl/tuba9006-1.mp3
 TOK FM                   http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_TOKFM.mp3
@@ -68,7 +68,7 @@ Radio AIN KARIM          https://stream1.dabcom.pl/radioainkarim
 POPradio                 https://sluchaj.link:5443/popradio
 Radio Gdańsk             http://stream.task.gda.pl:8000/rg1
 Radio Jutrzenka          http://sluchaj.radiojutrzenka.waw.pl:12854/test
-Radio Włocławek po polskuhttp://radio.kujawy.info:10140/1
+Włocławek po polsku      http://radio.kujawy.info:10140/1
 Radio Gra Wrocław        http://31.192.216.7:80/radio_gra_wroc
 Radio TOP80              http://radio.top80.pl:9940/
 Radio WoM                http://gra.radiowom.pl:9120/;
@@ -93,10 +93,10 @@ MC RADIO                 http://stream4.nadaje.com:10128/mcradio_mp3
 Radio RAM Wroclaw        https://stream2.prw.pl:8001/radioram192
 Eden Fm                  http://s1.slotex.pl:7402/;
 Radio Wroclaw 104.9 FM   http://stream4.nadaje.com:9240/prw
-Twoja Polska Stacja      http://sluchaj.twojapolskastacja.pl:8068/;mp3
+Twoja Polska Stacja      https://sluchaj2.radiopark.biz.pl:8443/tpsapp
 Planeta                  http://pa04.cdn.eurozet.pl:80/pla-net.mp3?redirected=04
 Radio 357                http://n25a-eu.rcs.revma.com:80/an1ugyygzk8uv
-Radio Nowy Świat         http://stream.nowyswiat.online/mp3
+Radio Nowy Świat         http://n13a-eu.rcs.revma.com/ypqt40u0x1zuv
 VOLOSATOE RADIO           http://volosatoff.ru:8008/euro.opus
 R2 Rock                   http://icecast.err.ee/r2rock.opus
 Classic Vinyl HD          http://icecast.walmradio.com:8000/classic_opus

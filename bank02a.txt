@@ -40,6 +40,32 @@ ZET na Swieta             http://zt02.cdn.eurozet.pl:80/ZETSWI.mp3
 RMF FM Top 30 Swieta      http://195.150.20.242:8000/rmf_top_30_swieta
 Radio Alex                http://srv0.streamradiowy.eu:80/radioalex
 RMF24.pl                  http://rmfstream1.interia.pl:80/rmf_24
+Radio Toruń               https://ssl-1.radiohost.pl:11512/stream
+Radio 1.7                 http://emisja.radio17.pl:8000/R17
+Radio Sygnały             http://217.173.194.62:8000/stream
+Antyradio Katowice        http://an01.cdn.eurozet.pl/ant-kat.mp3
+Radio FAMA                http://stream2.nadaje.com:8076/;stream
+Radio Kaszëbë             https://stream4.nadaje.com:10125/kaszebe128
+Eska Gorąca 20            https://ic2.smcdn.pl/6130-1.mp3
+Eska do pracy             https://ic2.smcdn.pl/6140-1.mp3
+Eska Gorąca 100           http://ic2.smcdn.pl/6120-1.mp3
+Eska Impreska             http://ic1.smcdn.pl/6030-1.mp3
+Eska Rap 20               http://ic1.smcdn.pl/6190-1.mp3
+Radio Alex                http://rmfstream1.interia.pl:80/radio_alex
+Klasyka rocka             https://ic1.smcdn.pl/6070-1.mp3
+Radio Index               http://stream.wzielonej.pl/radio/8000/1
+Eska2 Kultowe Polskie     https://ic2.smcdn.pl/6040-1.mp3
+Eska2 Polskie na czasie   https://ic2.smcdn.pl/6230-1.mp3
+Radio Yanosik             https://stream.rcs.revma.com/7vhveccrnquvv
+Radio Yanosik Rock        http://stream.rcs.revma.com/yghk77gym5uvv
+Radio Zet 90              http://zt.cdn.eurozet.pl/ZET090.mp3
+Radio Zet po polsku       http://zt.cdn.eurozet.pl/ZETPL1.mp3
+Radio Zet Party           https://zt01.cdn.eurozet.pl/ZETPAR.mp3
+Radio Zet 80              https://zt01.cdn.eurozet.pl/ZET080.mp3
+Radio Fiat                http://stream2.nadaje.com:8056/;
+Radio Żuławy              http://n0c.radiojar.com:80/q87xmtvrrg8uv
+Radio Vanessa             https://s1.slotex.pl:7358/stream/1/
+Radio Warmii i Mazur      http://rostr1.radioolsztyn.pl:8000/RWiM
 BBC - Radio 1             http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
 BBC - Radio 1Xtra         http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8
 BBC - Radio 1Dance        http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.norewind.m3u8
@@ -52,16 +78,21 @@ Radio Gorzów              http://stream02.zachod.pl:10121/rg-20kbps.aac
 Radio Zielona Góra        http://stream02.zachod.pl:10121/rzg-20kbps.aac
 Trendy Radio Chojnice     http://stream.trendyradio.pl:8000/mi
 Radio bezpieczna podróż   https://ssl-1.radiohost.pl:9162/;
-Radio Yanosik Rock        http://stream.rcs.revma.com/yghk77gym5uvv
 Rock Serwis FM            http://stream9.nadaje.com:8002/live
-Twoja Polska Stacja       https://sluchaj2.radiopark.biz.pl:8443/tpsapp
-Twoje Radio               http://51.77.59.65:8100/stream.mp3
-Radio UWM FM              http://213.184.18.156:8000/;
-Trendy Radio              http://stream.trendyradio.pl:8000/h
-Radio Wielkopolska        http://217.182.76.63:8000/webstream
-Akadem. Radio Centrum     http://radio.centrum.fm/live
-Radio Centrum             https://streaming.inten.pl:8886/rcfm.mp3
-Rock FM Bydgoszcz         http://217.182.76.63:8000/rfmweb
-ESKA ZAMOŚĆ               http://ic2.smcdn.pl:80/2230-1.mp3
-Radio 92.9                http://radio.929.lu/mp3
-LPU FM                    http://streaming.g-news.pl:8120/lpufm.m3u
+Radio na Stoku            http://sluchaj.link:8000/nastoku
+Norda FM                  http://ls.tkchopin.pl:1935/norda/nordafm_aac_128/playlist.m3u8
+DHT                       http://dev.radiodht.com/stream_main/
+DHT2                      http://dev.radiodht.com/stream_second/
+Plus Warszawa             http://pl04.cdn.eurozet.pl/plu-waw.mp3
+Radio 92,9                http://radio.929.lu/mp3.m3u
+Radio LPU FM              http://streaming.g-news.pl:8120/lpufm.m3u
+Norda FM HLS              http://ls.tkchopin.pl/norda/nordafm_AAC_320.stream/playlist.m3u8
+RMF MAXX                  http://rmfstream1.interia.pl:80/rmf_maxxx
+Radio Zielona Góra        http://stream03.rzg.pl:10107/;
+Radio Piekary             http://stream.rcs.revma.com/0rg0mztk33bwv.m3u
+Radio RSC                 http://stream.rcs.revma.com/94fud6a6z72vv.m3u
+Radio Silesia             http://s1.slotex.pl:7926/listen.pls
+Radio Sudety 24           http://stream4.nadaje.com:15006/sudety24
+Radio Tychy               http://s3.slotex.pl:7586/stream/1/?sid=1
+Radio Śląsk               http://s1.slotex.pl:7022/;
+Radio Kuropatwa           http://n07.radiojar.com/ypspphhxfm8uv

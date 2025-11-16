@@ -68,20 +68,20 @@ RMF Polski Rock           http://195.150.20.7/rmf_polski_rock
 RMF Polskie Przeboje      http://195.150.20.7/rmf_polskie_przeboje
 RMF Poplista              http://195.150.20.7/rmf_poplista
 RMF PRL                   http://195.150.20.7/rmf_prl
-RMF Przeboj Roku 2021     http://195.150.20.7/rmf_przeboj_roku
+RMF Przebój Roku 2021     http://195.150.20.7/rmf_przeboj_roku
 RMF Queen                 http://195.150.20.7/rmf_queen
 RMF R&B                   http://195.150.20.7/rmf_rnb
 RMF Reggae                http://195.150.20.7/rmf_reggae
 RMF Relaks                http://195.150.20.7/rmf_relaks
 RMF Rock                  http://195.150.20.7/rmf_rock
 RMF Rock Progresywny      http://195.150.20.7/rmf_rock_progresywny
-RMF Sloneczne Przeboje    http://195.150.20.7/rmf_sloneczne_przeboje
+RMF Słoneczne Przeboje    http://195.150.20.7/rmf_sloneczne_przeboje
 RMF Smooth Jazz           http://195.150.20.7/rmf_smooth_jazz
 RMF Studencka Impreza     http://195.150.20.7/rmf_studencka_impreza
 RMF Styl                  http://195.150.20.7/rmf_styl
 RMF Szanty                http://195.150.20.7/rmf_szanty
-RMF Swiateczne Nowosci    http://195.150.20.7/rmf_top5
-RMF Swieta                http://195.150.20.7/rmf_swieta
+RMF Świąteczne Nowości    http://195.150.20.7/rmf_top5
+RMF Święta                http://195.150.20.7/rmf_swieta
 RMF Teen                  http://195.150.20.7/rmf_groove
 RMF Top 30 Dance          http://195.150.20.7/rmf_top_5_dance
 RMF Top 30 Disco Polo     http://195.150.20.7/rmf_top_5_rnb
@@ -93,11 +93,17 @@ RMF Trend Sounds          http://195.150.20.7/rmf_trend_sounds
 RMF W Kuchni              http://195.150.20.7/rmf_w_kuchni
 RMF W Pracy               http://195.150.20.7/rmf_w_pracy
 RMF Wakacyjne Top 100     http://195.150.20.7/rmf_top4
-RMF Top 5                 http://195.150.20.7/rmf_top5
-RMF Top 6                 http://195.150.20.7/rmf_top6
-RMF Top 7                 http://195.150.20.7/rmf_top7
-RMF Top 8                 http://195.150.20.7/rmf_top8
-RMF Top 9                 http://195.150.20.7/rmf_top9
-RMF Top 10                http://195.150.20.7/rmf_top10
-RMF Top 11                http://195.150.20.7/rmf_top11
-RMF Top 12                http://195.150.20.7/rmf_top12
+RMF TOP5                  http://195.150.20.7/rmf_top5
+RMF TOP6                  http://195.150.20.7/rmf_top6
+RMF TOP7                  http://195.150.20.7/rmf_top7
+RMF TOP8                  http://195.150.20.7/rmf_top8
+RMF TOP9                  http://195.150.20.7/rmf_top9
+RMF TOP10                 http://195.150.20.7/rmf_top10
+RMF TOP11                 http://195.150.20.7/rmf_top11
+RMF TOP12                 http://195.150.20.7/rmf_top12
+RMF TOP13	                http://rmfstream1.interia.pl:80/rmf_top13	0
+RMF TOP16	                http://rmfstream1.interia.pl:80/rmf_top16	0
+RMF TOP17	                http://rmfstream1.interia.pl:80/rmf_top17	0
+RMF TOP18	                http://rmfstream1.interia.pl:80/rmf_top18	0
+RMF TOP19	                http://rmfstream1.interia.pl:80/rmf_top19	0
+RMF TOP20	                http://rmfstream1.interia.pl:80/rmf_top20	0

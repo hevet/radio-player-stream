@@ -101,9 +101,9 @@ RMF TOP9                  http://195.150.20.7/rmf_top9
 RMF TOP10                 http://195.150.20.7/rmf_top10
 RMF TOP11                 http://195.150.20.7/rmf_top11
 RMF TOP12                 http://195.150.20.7/rmf_top12
-RMF TOP13	              http://rmfstream1.interia.pl:80/rmf_top13
-RMF TOP16	              http://rmfstream1.interia.pl:80/rmf_top16
-RMF TOP17	              http://rmfstream1.interia.pl:80/rmf_top17
-RMF TOP18	              http://rmfstream1.interia.pl:80/rmf_top18
-RMF TOP19	              http://rmfstream1.interia.pl:80/rmf_top19
-RMF TOP20	              http://rmfstream1.interia.pl:80/rmf_top20
+RMF TOP13	                http://rmfstream1.interia.pl:80/rmf_top13
+RMF TOP16	                http://rmfstream1.interia.pl:80/rmf_top16
+RMF TOP17	                http://rmfstream1.interia.pl:80/rmf_top17
+RMF TOP18	                http://rmfstream1.interia.pl:80/rmf_top18
+RMF TOP19	                http://rmfstream1.interia.pl:80/rmf_top19
+RMF TOP20	                http://rmfstream1.interia.pl:80/rmf_top20

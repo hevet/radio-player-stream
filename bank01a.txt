@@ -22,13 +22,14 @@ WASZE RADIO               https://sluchaj.link:5443/wasze
 WNET                      http://media.wnet.fm:80/wnet.fm
 Radio Nuta                http://stream.rcs.revma.com:80/0004tehdxzzuv
 Disco Radio               http://stream.rcs.revma.com:80/cvswvmyewzzuv
-PR1                       http://stream3.polskieradio.pl:8900/;
-PR2                       http://mp3.polskieradio.pl:8902/;
-PR3                       http://stream3.polskieradio.pl:8904/;
-PR4                       http://stream3.polskieradio.pl:8906/;
-PR24                      http://stream3.polskieradio.pl:8080/;
-PR DZIECIOM               http://mp3.polskieradio.pl:8916/;
-PR Chopin                 http://mp3.polskieradio.pl:8910/;
+PR1                       https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
+PR2                       https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
+PR3                       https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
+PR4                       https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
+PR24                      https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
+PR Kierowców              https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+PR DZIECIOM               https://stream2.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
+PR Chopin                 https://stream2.polskieradio.pl/live/rytm.sdp/playlist.m3u8
 RADIO PIK                 http://stream.radiopik.pl:9004/;
 RDC                       http://stream2.nadaje.com:11140/rdc
 ANTYRADIO                 http://an01.cdn.eurozet.pl/ant-waw.mp3

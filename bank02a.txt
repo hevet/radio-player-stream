@@ -75,7 +75,6 @@ BBC - Radio 4             http://as-hls-ww-live.akamaized.net/pool_55057080/live
 BBC - Radio 5 live        http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8
 BBC - Radio 6 Music       http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 Radio Gorzów              http://stream02.zachod.pl:10121/rg-20kbps.aac
-Radio Zielona Góra        http://stream02.zachod.pl:10121/rzg-20kbps.aac
 Trendy Radio Chojnice     http://stream.trendyradio.pl:8000/mi
 Radio bezpieczna podróż   https://ssl-1.radiohost.pl:9162/;
 Rock Serwis FM            http://stream9.nadaje.com:8002/live
@@ -96,3 +95,4 @@ Radio Sudety 24           http://stream4.nadaje.com:15006/sudety24
 Radio Tychy               http://s3.slotex.pl:7586/stream/1/?sid=1
 Radio Śląsk               http://s1.slotex.pl:7022/;
 Radio Kuropatwa           http://n07.radiojar.com/ypspphhxfm8uv
+Radio FTM                 https://s1.slotex.pl:7792/stream/1/

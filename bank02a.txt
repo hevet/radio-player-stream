@@ -80,8 +80,8 @@ Radio bezpieczna podróż   https://ssl-1.radiohost.pl:9162/;
 Rock Serwis FM            http://stream9.nadaje.com:8002/live
 Radio na Stoku            http://sluchaj.link:8000/nastoku
 Norda FM                  http://ls.tkchopin.pl:1935/norda/nordafm_aac_128/playlist.m3u8
-DHT                       http://dev.radiodht.com/stream_main/
-DHT2                      http://dev.radiodht.com/stream_second/
+DHT                       http://maggie.torontocast.com:8100/
+DHT2                      http://maggie.torontocast.com:8100/stream/3/;
 Plus Warszawa             http://pl04.cdn.eurozet.pl/plu-waw.mp3
 Radio 92,9                http://radio.929.lu/mp3.m3u
 Radio LPU FM              http://streaming.g-news.pl:8120/lpufm.m3u

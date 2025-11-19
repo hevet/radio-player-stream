@@ -49,7 +49,7 @@ Radio Krakow Nowy Sacz    http://stream3.nadaje.com:9120/radiokrakow
 Radio Krakow Sportowy     http://stream3.nadaje.com:9128/radiokrakow
 Radio Krakow Tarnow       http://stream3.nadaje.com:9118/radiokrakow
 Radio Kujawy              http://radio.kujawy.info:9940/1
-Radio Lodz                http://217.113.224.171/RadioLodz-1.mp3
+Radio Lodz                https://stream.radiolodz.toya.cloud/RadioLodz-1-HQ.ogg
 Radio Lodz Extra          http://217.113.224.171:80/RadioLodz-2-HQ.aac
 Radio Lodz Nad Warta      http://217.113.224.171:80/RadioLodz-NW-HQ.aac
 Radio Lublin              http://www.emsoft.ct8.pl/inne/rlublin.m3u

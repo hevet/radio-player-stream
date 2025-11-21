@@ -1,34 +1,34 @@
 Centrum Kalisz            http://shot2.inten.pl:8888/rcfm.mp3
 eM Katowice               http://194.181.177.253:8000/
-Katolickie Radio Rzeszow  http://62.133.128.18:8040/;
+Katolickie Radio Rzeszów  http://62.133.128.18:8040/;
 Konin FM                  http://stream2.technologicznie.net:80/konin.fm
-Off Radio Krakow          http://stream4.nadaje.com:13332/offradiokrakow
+Off Radio Kraków          http://stream4.nadaje.com:13332/offradiokrakow
 Olsztyn UWM FM            http://213.184.18.156:8000/
 Opatow                    http://stream2.nadaje.com:11144
 Plock FM                  https://stream.rcs.revma.com/6qvcy46wmc9uv
 PR Bialystok              http://stream4.nadaje.com:15476/radiobialystok
 PR Opole                  http://dab.radio.opole.pl:8035/1
 PR Pomorza i Kujaw        http://stream.radiopik.pl:9004/;
-PR Zachod                 http://stream02.zachod.pl:10113/;
+PR Zachód                 http://stream02.zachod.pl:10113/;
 Pro-Radio Zgierz          http://radiointernetowe.net:7802
-Radio Andrychow           http://s1.slotex.pl:7424
-Radio Bialystok           http://stream4.nadaje.com:15476/radiobialystok
+Radio Andrychów           http://s1.slotex.pl:7424
+Radio Białystok           http://stream4.nadaje.com:15476/radiobialystok
 Radio Bielsko             https://stream.rcs.revma.com/062uq3z3kwzuv
 Radio Yanosik             http://n25a-eu.rcs.revma.com:80/sn11544ebhuvv
 Radio Bogoria             http://s7.radiohost.pl:6050/
 Radio Centrum Kalisz      http://shot2.inten.pl:8888/rcfm.mp3
 Radio Centrum Lublin      https://stream12.hosterion.pl/stream/akademickieradiocentrum
-Radio Centrum Rzeszow     http://62.93.41.27:8000
-Radio Dla Ciebie Plock    http://stream4.nadaje.com:14006/plock
+Radio Centrum Rzeszów     http://62.93.41.27:8000
+Radio Dla Ciebie Płock    http://stream4.nadaje.com:14006/plock
 Radio Zulawy              http://stream.radiojar.com/q87xmtvrrg8uv
-Radio Elka Glogow         http://live.elka.pl:8000/miedziowe.pl
+Radio Elka Głogów         http://live.elka.pl:8000/miedziowe.pl
 Radio Elka Leszno         http://live.elka.pl:8000/elka
 Radio Extra Szczecin      http://stream3.nadaje.com:8200/szczecinfm
 Radio Fama Kielce         http://stream2.nadaje.com:8076/
 Radio Fama Zyrardow       http://stream4.nadaje.com:13770
 Radio Gdansk              http://stream.task.gda.pl:8000/rg1
 Radio Gdansk DAB2         http://stream.task.gda.pl:8000/rg4
-Radio Gdansk Slupsk       http://stream.task.gda.pl:8000/rg3
+Radio Gdansk Słupsk       http://stream.task.gda.pl:8000/rg3
 Radio Gdynia              http://51.255.8.139:8064/stream
 Radio Gniezno             http://stream3.nadaje.com:8012
 Radio Alex                http://srv0.streamradiowy.eu/radioalex
@@ -68,24 +68,24 @@ Radio Pomorza i Kujaw     http://stream.radiopik.pl:9004/;
 Radio Poznan              http://stream4.nadaje.com:8578/poznan
 Radio Rzeszow             http://streaming.g-news.pl:8040/rzeszow
 Radio Silesia             https://stream.rcs.revma.com/xq23sp6fyyzuv
-Radio Slupsk              http://91.232.4.33:8240/stream
+Radio Słupsk              http://91.232.4.33:8240/stream
 Radio Sochaczew           http://stream2.nadaje.com:8080
 Radio Starogard           https://stream.rcs.revma.com/5wegfyrra2zuv
 Radio Sudety 2 4          http://stream4.nadaje.com:15006/sudety24
-Radio Swiatowid           http://s1.slotex.pl:7006
-Radio Swinoujscie         http://185.243.52.116:8010
+Radio Światowid           http://s1.slotex.pl:7006
+Radio Świnoujście         http://185.243.52.116:8010
 Radio Szczecin            http://stream4.nadaje.com:11986/prs.aac
 Radio Szczecin Extra      https://stream3.nadaje.com:8201/szczecinextra
 Radio Tczew               http://195.191.180.5:8000/live
 Radio Wielkopolska        http://217.182.76.63:8000/webstream
 Radio Wnet                http://audio.radiownet.pl:8000/stream
 Radio Wolna Strefa        http://91.232.4.33:8186/stream
-Radio Wroclaw             http://stream4.nadaje.com:9240/prw.m3u
-Radio Wroclaw Kultura     http://stream4.nadaje.com:9230/rwkultura
-Radio Wrzesnia FM         http://s1.slotex.pl:7446
-Radio Zachod              http://stream02.zachod.pl:10113
-Radio Zawiercie           https://s3.slotex.pl/shoutcast/7654/stream
-Radio Zielona Gora        http://stream02.rzg.pl:10117
-Radio Ziemi Wielunskiej   http://stream2.nadaje.com:8022
-Radom                     http://stream6.nadaje.com:15292/radioradompl
+Radio Wrocław             http://stream4.nadaje.com:9240/prw.m3u
+Radio Wrocław Kultura     http://stream4.nadaje.com:9230/rwkultura
+Radio Września FM         http://s1.slotex.pl:7446
+Radio Zachód              http://stream02.zachod.pl:10113
+Radio Zawiercie           https://ssl-1.radiohost.pl:9078/live
+Radio Zielona Góra        http://stream02.rzg.pl:10117
+Radio Ziemi Wieluńskiej   http://stream2.nadaje.com:8023/;stream
+Radio Radom               http://stream6.nadaje.com:15292/radioradompl
 Twoje Radio Stargard      http://51.77.59.65:8100/stream.mp3

@@ -103,3 +103,4 @@ R2 Rock                   http://icecast.err.ee/r2rock.opus
 Classic Vinyl HD          http://icecast.walmradio.com:8000/classic_opus
 Radio Pluz                http://www.pluz.com.ar:8020/live.opus
 Intense R.- We love Dance http://secure.live-streams.nl/opus.opus
+Campus 3                  http://stream.campus3.fr/studio.opus

@@ -86,7 +86,7 @@ Plus Warszawa             http://pl04.cdn.eurozet.pl/plu-waw.mp3
 Radio 92,9                http://radio.929.lu/mp3.m3u
 Radio LPU FM              http://streaming.g-news.pl:8120/lpufm.m3u
 RMF MAXX                  http://rmfstream1.interia.pl:80/rmf_maxxx
-Radio Zielona Góra        http://stream02.zachod.pl:10121/rzg-20kbps.aac
+Radio Zielona Góra        http://stream01.rzg.pl:10107/test
 Radio Piekary             http://stream.rcs.revma.com/0rg0mztk33bwv.m3u
 Radio RSC                 http://stream.rcs.revma.com/94fud6a6z72vv.m3u
 Radio Silesia             http://s1.slotex.pl:7926/listen.pls

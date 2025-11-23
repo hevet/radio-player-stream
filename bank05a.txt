@@ -57,7 +57,7 @@ RMF Michael Jackson       http://195.150.20.7/rmf_Michael_Jackson
 RMF Muzyka Filmowa        http://195.150.20.7/rmf_muzyka_filmowa
 RMF Muzyka Klasyczna      http://195.150.20.7/rmf_muzyka_klasyczna
 RMF Naj PolskiePrzeboje   http://195.150.20.7/npp_rmf_on
-RMF Niezapomniane Melodie http://195.150.20.7/rmf_niezapomniane_melodie
+RMF Niezapomn. Melodie    http://195.150.20.7/rmf_niezapomniane_melodie
 RMF Party                 http://195.150.20.7/rmf_party
 RMF Piosenka Filmowa      http://195.150.20.7/rmf_piosenka_filmowa
 RMF Piosenka Literacka    http://195.150.20.7/rmf_piosenka_literacka
@@ -87,7 +87,7 @@ RMF Top 30 Dance          http://195.150.20.7/rmf_top_5_dance
 RMF Top 30 Disco Polo     http://195.150.20.7/rmf_top_5_rnb
 RMF Top 30 PL             http://195.150.20.7/rmf_top_5_pl
 RMF Top 30 Pop            http://195.150.20.7/rmf_top_5_pop
-RMF Top 30 Swieta         http://195.150.20.7/rmf_top_30_swieta
+RMF Top 30 Święta         http://195.150.20.7/rmf_top_30_swieta
 RMF Top 2021 Disco Polo   http://195.150.20.7/rmf_top2
 RMF Trend Sounds          http://195.150.20.7/rmf_trend_sounds
 RMF W Kuchni              http://195.150.20.7/rmf_w_kuchni

@@ -31,7 +31,7 @@ PR Kierowców              https://stream10.polskieradio.pl/prk/rdk.sdp/playlist
 PR DZIECIOM               https://stream2.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
 PR Chopin                 https://stream2.polskieradio.pl/live/rytm.sdp/playlist.m3u8
 RADIO PIK                 http://stream.radiopik.pl:9004/;
-RDC                       http://stream2.nadaje.com:11140/rdc
+RDC                       http://stream4.nadaje.com:14002/ostroleka
 ANTYRADIO                 http://an01.cdn.eurozet.pl/ant-waw.mp3
 Radio Emaus               http://stream.radioemaus.pl:8000/mp3stream
 RADIO KOLOR               http://stream.rcs.revma.com/nrfscb49xd3vv

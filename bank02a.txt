@@ -101,3 +101,4 @@ Radio Pasja - Chilliout   http://mp3.radioslupsk.pl:8108/stream2
 Radio Pasja - Dance       http://s0.radiohost.pl:9466/stream2
 Radio Pasja - Klubowa     http://s0.radiohost.pl:9460/stream2
 Radio Pasja - Pop         http://s0.radiohost.pl:8084/stream2
+Radio Republika           http://ssl-1.radiotvrepublika.pl:12698/stream

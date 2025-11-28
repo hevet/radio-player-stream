@@ -18,9 +18,9 @@ Eska2 Dla Dzieci          http://ic1.smcdn.pl/6220-1.mp3
 Eska2 Kultowe Polskie     http://ic1.smcdn.pl/6040-1.mp3
 Eska2 Polska Impreza      http://ic1.smcdn.pl/6160-1.mp3
 Eska2 Polskie Na Czasie   http://ic1.smcdn.pl/6230-1.mp3
-Eska Rock Klasyka Rocka   http://ic1.smcdn.pl/6070-1.mp3
-Eska Rock-Rock Ballads    http://ic1.smcdn.pl/6010-1.mp3
-Eska Rock-Polski Rock     http://ic1.smcdn.pl/5380-1.mp3
+Eska Rock - Klasyka Rocka http://ic1.smcdn.pl/6070-1.mp3
+Eska Rock - Rock Ballads  http://ic1.smcdn.pl/6010-1.mp3
+Eska Rock - Polski Rock   http://ic1.smcdn.pl/6090-1.mp3
 Hi On Line Radio Classic  http://mediaserv30.live-streams.nl:8088/live
 Linn Classical            http://radio.linn.co.uk:8004/autodj
 New Classics              http://stream.klassikradio.de/newclassics/mp3-192/www.klassikradio.de/

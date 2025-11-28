@@ -26,3 +26,4 @@ Relax FM Online           https://caster04.streampakket.com/proxy/8009/stream
 Sunshine live - Pride     https://sunsl.streamabc.net/sunsl-sslpride-mp3-192-1744824
 Radio Synth Melody        https://stream.laut.fm/radio_synth_melody
 Radio Turbo 80s           http://transmitter.turbo80s.com:8000/live.mp3
+Radio                     https://air.pc.cdn.bitgravity.com/air/live/pbaudio078/masterlist.m3u8

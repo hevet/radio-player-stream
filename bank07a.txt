@@ -44,7 +44,7 @@ Christmas                 http://stream.klassikradio.de/christmas/mp3-192/www.kl
 Healing                   http://stream.klassikradio.de/healing/mp3-192/www.klassikradio.de/
 Pure Mozart               http://stream.klassikradio.de/mozart/mp3-192/www.klassikradio.de/
 Classic Vinyl HD          https://icecast.walmradio.com:8443/classic
-MondoBongo                http://5.63.151.52:7082/;stream/1.mp3
+MondoBongo                https://cast.mndbng.com/hls/mondobongo/aac_hifi.m3u8
 Radio Kultura             http://icecast.vgtrk.cdnvideo.ru/kulturafm
 RadiostART                https://radio.dyne.org/liveradiostart
 Radio Toksyna FM Classic  http://s01.toksyna.fm:8060

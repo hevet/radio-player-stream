@@ -46,5 +46,5 @@ Pure Mozart               http://stream.klassikradio.de/mozart/mp3-192/www.klass
 Classic Vinyl HD          https://icecast.walmradio.com:8443/classic
 MondoBongo                http://5.63.151.52:7082/;stream/1.mp3
 Radio Kultura             http://icecast.vgtrk.cdnvideo.ru/kulturafm
-RadiostART                http://radio.dyne.org:80/liveradiostart
+RadiostART                https://radio.dyne.org/liveradiostart
 Radio Toksyna FM Classic  http://s01.toksyna.fm:8060

@@ -48,43 +48,40 @@ Radio Warszawa            Bank 2 Stacja 47  https://stream2.technologicznie.net/
 Radio Afera               Bank 2 Stacja 48  http://poznan5-3.radio.pionier.net.pl:8000/afera.mp3
 Radio Znin                Bank 2 Stacja 49  http://stream4.nadaje.com:8052
 Radio EL-Stacja           Bank 2 Stacja 50  http://radio.el-stacja.pl:8000/elstacja320mp3
-Radio Classic Rock        Bank 2 Stacja 51  http://mp3.polskieradio.pl:8460
-Radio Przeboje PRL        Bank 2 Stacja 52  http://mp3.polskieradio.pl:8466
-Tok Plus Muzyka           Bank 2 Stacja 53  http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3
-Radio Yanosik             Bank 2 Stacja 54  http://n25a-eu.rcs.revma.com:80/sn11544ebhuvv
-Radio Vanessa             Bank 2 Stacja 55  http://s1.slotex.pl:7358/;
-Radio Express             Bank 2 Stacja 56  http://www.radioexpress.pl/stream1
-RMF24.pl                  Bank 2 Stacja 57  http://rmfstream1.interia.pl:80/rmf_24
-VibeFM                    Bank 2 Stacja 58  http://ic2.smcdn.pl:80/6490-1.mp3
-Radio Wrocław             Bank 2 Stacja 59  http://stream.prw.pl:8000/prwmp3
-Radio Zak                 Bank 2 Stacja 60  http://lodz.radio.pionier.net.pl:8000/radiozak.ogg
-PR Lodz                   Bank 2 Stacja 61  https://stream.radiolodz.toya.cloud/RadioLodz-1-HQ.ogg
-Wloclawek po polsku       Bank 2 Stacja 62  http://radio.kujawy.info:10140/1
-Radio RAM Wroclaw         Bank 2 Stacja 63  http://stream4.nadaje.com:9220/ram
-Radio 357                 Bank 2 Stacja 64  http://n25a-eu.rcs.revma.com:80/an1ugyygzk8uv
-Radio Nowy Swiat          Bank 2 Stacja 65  http://stream.rcs.revma.com/ypqt40u0x1zuv
-BBC - Radio 1             Bank 2 Stacja 66  http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
-BBC - Radio 1Xtra         Bank 2 Stacja 67  http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8
-BBC - Radio 1Dance        Bank 2 Stacja 68  http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.norewind.m3u8
-BBC - Radio 2             Bank 2 Stacja 69  http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
-BBC - Radio 3             Bank 2 Stacja 70  http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
-BBC - Radio 4             Bank 2 Stacja 71  http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
-BBC - Radio 5 live        Bank 2 Stacja 72  http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8
-BBC - Radio 6 Music       Bank 2 Stacja 73  http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
-Radio Gorzow              Bank 2 Stacja 74  http://stream02.zachod.pl:10121/rg-20kbps.aac
-Radio Zielona Gora        Bank 2 Stacja 75  http://stream02.zachod.pl:10121/rzg-20kbps.aac
-Trendy Radio Chojnice     Bank 2 Stacja 76  http://stream.trendyradio.pl:8000/mi
-Radio bezpieczna podroz   Bank 2 Stacja 77  https://ssl-1.radiohost.pl:9162/;
-Radio Yanosik Rock        Bank 2 Stacja 78  http://stream.rcs.revma.com/yghk77gym5uvv
-Rock Serwis FM            Bank 2 Stacja 79  http://stream9.nadaje.com:8002/live
-Twoja Polska Stacja       Bank 2 Stacja 80  http://sluchaj.twojapolskastacja.pl:8068/
-Twoje Radio               Bank 2 Stacja 81  http://51.77.59.65:8100/stream.mp3
-Radio UWM FM              Bank 2 Stacja 82  http://213.184.18.156:8000/;
-Trendy Radio              Bank 2 Stacja 83  http://stream.trendyradio.pl:8000/h
-Radio Wielkopolska        Bank 2 Stacja 84  http://217.182.76.63:8000/webstream
-Akadem. Radio Centrum     Bank 2 Stacja 85  http://radio.centrum.fm/live
-Radio Centrum             Bank 2 Stacja 86  https://streaming.inten.pl:8886/rcfm.mp3
-Rock FM Bydgoszcz         Bank 2 Stacja 87  http://217.182.76.63:8000/rfmweb
-ESKA ZAMOSC               Bank 2 Stacja 88  http://ic2.smcdn.pl:80/2230-1.mp3
-Radio 92.9                Bank 2 Stacja 89  http://radio.929.lu/mp3
-LPU FM                    Bank 2 Stacja 90  http://streaming.g-news.pl:8120/lpufm.m3u
+Tok Plus Muzyka           Bank 2 Stacja 51  http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3
+Radio Yanosik             Bank 2 Stacja 52  http://n25a-eu.rcs.revma.com:80/sn11544ebhuvv
+Radio Vanessa             Bank 2 Stacja 53  http://s1.slotex.pl:7358/;
+Radio Express             Bank 2 Stacja 54  http://www.radioexpress.pl/stream1
+RMF24.pl                  Bank 2 Stacja 55  http://rmfstream1.interia.pl:80/rmf_24
+VibeFM                    Bank 2 Stacja 56  http://ic2.smcdn.pl:80/6490-1.mp3
+Radio Wroclaw             Bank 2 Stacja 57  http://stream.prw.pl:8000/prwmp3
+Radio Zak                 Bank 2 Stacja 58  http://lodz.radio.pionier.net.pl:8000/radiozak.ogg
+PR Lodz                   Bank 2 Stacja 59  https://stream.radiolodz.toya.cloud/RadioLodz-1-HQ.ogg
+Wloclawek po polsku       Bank 2 Stacja 60  http://radio.kujawy.info:10140/1
+Radio RAM Wroclaw         Bank 2 Stacja 61  http://stream4.nadaje.com:9220/ram
+Radio 357                 Bank 2 Stacja 62  http://n25a-eu.rcs.revma.com:80/an1ugyygzk8uv
+Radio Nowy Swiat          Bank 2 Stacja 63  http://stream.rcs.revma.com/ypqt40u0x1zuv
+BBC - Radio 1             Bank 2 Stacja 64  http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
+BBC - Radio 1Xtra         Bank 2 Stacja 65  http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8
+BBC - Radio 1Dance        Bank 2 Stacja 66  http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.norewind.m3u8
+BBC - Radio 2             Bank 2 Stacja 67  http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
+BBC - Radio 3             Bank 2 Stacja 68  http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
+BBC - Radio 4             Bank 2 Stacja 69  http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
+BBC - Radio 5 live        Bank 2 Stacja 70  http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8
+BBC - Radio 6 Music       Bank 2 Stacja 71  http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+Radio Gorzow              Bank 2 Stacja 72  http://stream02.zachod.pl:10121/rg-20kbps.aac
+Radio Zielona Gora        Bank 2 Stacja 73  http://stream02.zachod.pl:10121/rzg-20kbps.aac
+Trendy Radio Chojnice     Bank 2 Stacja 74  http://stream.trendyradio.pl:8000/mi
+Radio bezpieczna podroz   Bank 2 Stacja 75  https://ssl-1.radiohost.pl:9162/;
+Radio Yanosik Rock        Bank 2 Stacja 76  http://stream.rcs.revma.com/yghk77gym5uvv
+Rock Serwis FM            Bank 2 Stacja 77  http://stream9.nadaje.com:8002/live
+Twoja Polska Stacja       Bank 2 Stacja 78  http://sluchaj.twojapolskastacja.pl:8068/
+Twoje Radio               Bank 2 Stacja 79  http://51.77.59.65:8100/stream.mp3
+Radio UWM FM              Bank 2 Stacja 80  http://213.184.18.156:8000/;
+Trendy Radio              Bank 2 Stacja 81  http://stream.trendyradio.pl:8000/h
+Radio Wielkopolska        Bank 2 Stacja 82  http://217.182.76.63:8000/webstream
+Akadem. Radio Centrum     Bank 2 Stacja 83  http://radio.centrum.fm/live
+Radio Centrum             Bank 2 Stacja 84  https://streaming.inten.pl:8886/rcfm.mp3
+Rock FM Bydgoszcz         Bank 2 Stacja 85  http://217.182.76.63:8000/rfmweb
+Radio 92.9                Bank 2 Stacja 86  http://radio.929.lu/mp3
+LPU FM                    Bank 2 Stacja 87  http://streaming.g-news.pl:8120/lpufm.m3u

@@ -48,3 +48,11 @@ MondoBongo                https://cast.mndbng.com/hls/mondobongo/aac_hifi.m3u8
 Radio Kultura             http://icecast.vgtrk.cdnvideo.ru/kulturafm
 RadiostART                https://radio.dyne.org/liveradiostart
 Radio Toksyna FM Classic  http://s01.toksyna.fm:8060
+Christmas                 http://us9.maindigitalstream.com:7459/;
+Christmas Hope            https://stream.hopemedia.com.au/christmashope-mp3
+Christmas Radio           https://christmasradio.christmasradiogroup.com
+Christmas FM              https://christmasfm.cdnstream1.com/2547_128.mp3
+Christmas Hits 1          https://player.christmas.hits1radio.com
+Christmas Melody          http://s6.mediastreaming.it:9042/;
+Christmas Radio Live      http://sbouch00.radioca.st:8232/;
+Christmas R. Philippines  http://us1.amfmph.com:8888/stream

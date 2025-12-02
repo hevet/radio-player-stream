@@ -52,7 +52,7 @@ Christmas                 http://us9.maindigitalstream.com:7459/;
 Christmas Hope            https://stream.hopemedia.com.au/christmashope-mp3
 Christmas Radio           https://christmasradio.christmasradiogroup.com
 Christmas FM              https://christmasfm.cdnstream1.com/2547_128.mp3
-Christmas Hits 1          https://player.christmas.hits1radio.com
+Christmas Hits 1          http://listen.openstream.co/4726/audio
 Christmas Melody          http://s6.mediastreaming.it:9042/;
 Christmas Radio Live      http://sbouch00.radioca.st:8232/;
 Christmas R. Philippines  http://us1.amfmph.com:8888/stream

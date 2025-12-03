@@ -89,3 +89,7 @@ Radio Paradise Main Mix   http://stream.radioparadise.com/flac
 Radio Park FM             http://sluchaj.radiopark.com.pl:8048/
 Radio Pasja               http://91.232.4.33:8049/stream
 Radio Pasja-Klubowa       http://91.232.4.33:9460/stream
+Starter FM                http://streaming.starterfm.com/radio/8010/starter192
+Starter Bangaz            http://streaming.starterfm.com/radio/8020/bangaz192
+Starter Trance            http://streaming.starterfm.com/listen/trance/starter192
+Starter FM Chilli         http://streaming.starterfm.com/radio/8050/chill192

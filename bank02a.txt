@@ -105,3 +105,4 @@ Radio Republika           https://ssl-1.radiotvrepublika.pl:12698/stream
 Radio i 101.3 FM          https://ice2.radioi.pl:8443/stream
 Radio Lem FM              https://stream.radiojar.com/2fa0gbhr9bhvv
 Radio Ostrowiec           https://s1.slotex.pl:7050/stream/;
+Radio Kwidzyń             https://s3.slotex.pl:7308/stream/1/?sid=1

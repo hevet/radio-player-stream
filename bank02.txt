@@ -33,7 +33,7 @@ RDC                       Bank 2 Stacja 32  http://stream2.nadaje.com:11140/rdc
 ANTYRADIO                 Bank 2 Stacja 33  http://playerservices.streamtheworld.com/api/livestream-redirect/ANTYRADIO.mp3
 Radio Emaus               Bank 2 Stacja 34  http://stream.radioemaus.pl:8000/mp3stream
 RADIO KOLOR               Bank 2 Stacja 35  http://stream.rcs.revma.com/nrfscb49xd3vv
-RADIO NAKŁO               Bank 2 Stacja 36  http://sluchaj2.107i5.fm/;
+RADIO NAKLO               Bank 2 Stacja 36  http://sluchaj2.107i5.fm/;
 Radio Kujawy              Bank 2 Stacja 37  http://radio.kujawy.info:9940/;
 Radio Elka                Bank 2 Stacja 38  http://live.elka.pl:8000/elkamp3
 Radio Bielsko             Bank 2 Stacja 39  http://n04a-eu.rcs.revma.com/062uq3z3kwzuv

@@ -91,3 +91,4 @@ AIDAradio                 http://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
 Sveriges Radio: P2        http://edge2.sr.se/p2-flac
 Riverside Radio           https://stream.and-stuff.nl:8443/riverside
 Radio Calico              https://radio3.radio-calico.com:8443/calico
+BluesWave Radio           https://blueswave.radio:8100/FlacBlues

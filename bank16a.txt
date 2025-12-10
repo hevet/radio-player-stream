@@ -89,3 +89,4 @@ CRo Radio Wave            http://amp.cesnet.cz:8000/cro-radio-wave.flac
 H2O Radio                 https://abf.net-radio.fr/h2oradio.flac
 AIDAradio                 http://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
 Sveriges Radio: P2        http://edge2.sr.se/p2-flac
+Riverside Radio           http://stream.and-stuff.nl:8443/riverside

@@ -68,7 +68,6 @@ Djam Radio                https://stream10.xdevel.com/audio15s976748-2280/stream
 ForEver La Radio          http://stream.sweetfm.fr:8000/flac-forever-arc
 Futura.FM                 https://futura.fm/stream.ogg?ts=1699656027.325
 TrancePulse               https://stream.trance.ie/tpmixes
-AIDAradio                 https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
 High Fi Dream Radio       https://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq
 VFR '80s Thrash           https://tuneintoradio1.com/listen/vfr_80s/stream.flac
 VFR General Thrash        https://tuneintoradio1.com/listen/violent_forces_radio/stream.flac
@@ -92,3 +91,5 @@ Sveriges Radio: P2        http://edge2.sr.se/p2-flac
 Riverside Radio           https://stream.and-stuff.nl:8443/riverside
 Radio Calico              https://radio3.radio-calico.com:8443/calico
 BluesWave Radio           https://blueswave.radio:8100/FlacBlues
+Radio 90FM Valencia       http://stream.radio90.fm:2002/stream
+JVR Caribbean Christmas   http://online.jamminvibezradio.com/listen/christmas/live.flac

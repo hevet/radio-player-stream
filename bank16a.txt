@@ -87,3 +87,4 @@ CRo Vltava                http://amp.cesnet.cz:8000/cro3.flac
 CRo D-dur                 http://amp.cesnet.cz:8000/cro-d-dur.flac
 CRo Radio Wave            http://amp.cesnet.cz:8000/cro-radio-wave.flac
 H2O Radio                 https://abf.net-radio.fr/h2oradio.flac
+AIDAradio                 https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI

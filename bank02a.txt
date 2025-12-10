@@ -62,7 +62,7 @@ Radio Zet 90              http://zt.cdn.eurozet.pl/ZET090.mp3
 Radio Zet po polsku       http://zt.cdn.eurozet.pl/ZETPL1.mp3
 Radio Zet Party           https://zt01.cdn.eurozet.pl/ZETPAR.mp3
 Radio Zet 80              https://zt01.cdn.eurozet.pl/ZET080.mp3
-Radio Fiat                http://stream2.nadaje.com:8056/;
+Radio Fiat                https://s3.slotex.pl:7284/stream/1/?sid=1
 Radio Żuławy              http://n0c.radiojar.com:80/q87xmtvrrg8uv
 Radio Vanessa             https://s1.slotex.pl:7358/stream/1/
 Radio Warmii i Mazur      http://rostr1.radioolsztyn.pl:8000/RWiM

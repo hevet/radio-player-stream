@@ -88,8 +88,6 @@ CRo Radio Wave            http://amp.cesnet.cz:8000/cro-radio-wave.flac
 H2O Radio                 https://abf.net-radio.fr/h2oradio.flac
 AIDAradio                 http://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
 Sveriges Radio: P2        http://edge2.sr.se/p2-flac
-Riverside Radio           https://stream.and-stuff.nl:8443/riverside
 Radio Calico              http://radio3.radio-calico.com:8080/calico
 BluesWave Radio           https://blueswave.radio:8100/FlacBlues
-Radio 90FM Valencia       http://stream.radio90.fm:2002/stream
-JVR Caribbean Christmas   http://online.jamminvibezradio.com/listen/christmas/live.flac
+Bailrigg 95.3FM           http://bfm-live.lancs.ac.uk/listen/bfm/flac

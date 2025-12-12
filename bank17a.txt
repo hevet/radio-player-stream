@@ -51,3 +51,4 @@ Longnights 93             https://stream.laut.fm/longnights93
 Radio Dance Wave Retro    https://retro.dancewave.online/retrodance.flac.ogg.m3u
 Radio Dance Wave          https://dancewave.online/dance.flac.ogg.m3u
 Mega Dance Radio          http://gamershouse.hu:8000/livemega.mp3
+95bFM                     https://streams.95bfm.com/stream128

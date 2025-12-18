@@ -83,7 +83,7 @@ Norda FM                  http://94.177.253.77:8001/relay_AAC_320
 DHT                       http://maggie.torontocast.com:8100/
 DHT2                      http://maggie.torontocast.com:8100/stream/3/;
 Plus Warszawa             http://pl04.cdn.eurozet.pl/plu-waw.mp3
-Radio 92,9                http://radio.929.lu/mp3.m3u
+Radio 92,9                http://radio.929.lu/aac
 Radio LPU FM              http://streaming.g-news.pl:8120/lpufm.m3u
 RMF MAXX                  http://rmfstream1.interia.pl:80/rmf_maxxx
 Radio Zielona Góra        http://stream01.rzg.pl:10107/test

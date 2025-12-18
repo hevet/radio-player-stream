@@ -15,7 +15,7 @@ Radio Trendy              http://stream.trendyradio.pl:8000/h
 Radio Konin               http://stream2.technologicznie.net:80/konin.fm
 Hit Radio                 http://51.255.8.139:9090/stream
 Akademickie Radio Index   http://212.109.136.69:8000/stream/1/
-Radio Kierowców           http://stream3.polskieradio.pl:8918/;
+Radio Kierowców           http://mp3.polskieradio.pl:8968/;
 Radio bezpieczna podroz   https://ssl-1.radiohost.pl:9162/;
 Radio ZET 2000            http://zt03.cdn.eurozet.pl/ZET200.mp3?redirected=03
 Radio Świnoujście         http://185.243.52.116:8010/stream/1/

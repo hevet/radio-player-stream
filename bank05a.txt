@@ -107,3 +107,4 @@ RMF TOP17                 http://rmfstream1.interia.pl:80/rmf_top17
 RMF TOP18                 http://rmfstream1.interia.pl:80/rmf_top18
 RMF TOP19                 http://rmfstream1.interia.pl:80/rmf_top19
 RMF TOP20                 http://rmfstream1.interia.pl:80/rmf_top20
+RMF Świąt. Nowości 2025   http://rs102-krk-cyfronet.rmfstream.pl/TOP

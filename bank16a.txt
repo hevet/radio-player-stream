@@ -1,95 +1,91 @@
-BDPST Rock Radio          https://s2.audiostream.hu/bdpstrock_FLAC
-Youventus Radio           https://s2.audiostream.hu/juventus_FLAC
-Roxy Radio                https://s2.audiostream.hu/roxy_FLAC
-Danubius Radio            https://danubiusradio.hu/live_HiFi
-Progressieve Rock         https://progressieverock.nl:8443/flac
-Radio Linn Mix1           http://streams.radiomast.io/d0105650-c51c-4842-ae39-f97b329acd2a?token=UU9QJvCG
-Radio Linn Mix2           http://streams.radiomast.io/4482dfb3-d502-42ef-8184-fc56b0f3ed44?token=UU9QJvCG
-Radio Linn Dreams         http://streams.radiomast.io/1769696b-ae90-417f-b007-584c1b6edef8?token=UU9QJvCG
-Radio Linn Gems           http://streams.radiomast.io/71cb1023-3c47-4c06-847d-5b15a3ddefee?token=UU9QJvCG
-Radio Linn Smooth         http://streams.radiomast.io/1614c7bc-e84e-4f64-8d22-1226d17cd681?token=UU9QJvCG
-Naim Radio                https://mscp3.live-streams.nl:8362/flac.flac
-Naim Classical            https://mscp3.live-streams.nl:8252/class-flac.flac
-Naim Jazz                 http://mscp3.live-streams.nl:8340/jazz-flac.flac
-Rondo Classic Klasu Pro   https://iradio.fi/klasupro.flac
-Rondo Classic Klasu       https://iradio.fi/klasu.flac
-Dance Wave                http://dancewave.online/dance.flac.ogg
-Dance Wave Retro!         http://retro.dancewave.online/retrodance.flac.ogg
-Radio Paradise Global Mix http://stream.radioparadise.com/global-flac
-Radio Paradise Main Mix   http://stream.radioparadise.com/flac
-Radio Paradise Mellow Mix http://stream.radioparadise.com/mellow-flac
-Radio Paradise Rock Mix   http://stream.radioparadise.com/rock-flac
-Futura.FM                 https://futura.fm/stream.ogg?ts=1699656027.325
-Sweet FM                  http://stream.sweetfm.fr:8000/dab-forever-lms
-ForEver La Radio-Bordeaux http://stream.sweetfm.fr:8000/flac-forever-bdx
-95bFM                     https://streams.95bfm.com/stream112
-C9 Radio                  https://stream.c9.fr/c9radio-flac.ogg.m3u
-Calamar Rradio            http://www.calamarrradio.org:8000/stream
-60North Radio             http://r5.zetcast.net/flac
-Club Retro Hits Radio     http://v4.tustreaming.cl:18156/stream
-Dance Classics Radio      http://vriezenet.nl:11051/dcflac
-Danubius Radio            https://danubiusradio.hu/live_HiFi.mp3
-DHECTAR Radio             http://manager.dhectar.fr:1300/stream
-Djam Radio                https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
-Frequence 3               https://frequence3.net-radio.fr/frequence3.flac
-Frequence 3 - Loir-et-Che https://frequence3.net-radio.fr/frequence3-fm41.flac
-Frequence 3-Touraine      https://frequence3.net-radio.fr/frequence3-fm37.flac
-Frequence 3 Dance         https://frequence3.net-radio.fr/frequence3dance.flac
-Frequence 3 Gold          https://frequence3.net-radio.fr/frequence3gold.flac
-Frequence 3 Urban         https://frequence3.net-radio.fr/frequence3urban.flac
-Frequence 3 World         https://frequence3.net-radio.fr/frequence3world.flac
-H2O                       http://ice2.ikoula.net-radio.fr/h2oradio.flac
-Haarlem Shuffle Radio     https://stream.tbmp.nl:8000/haarlemshuffle.flac
-Incondicionalmente Retro  http://v4.tustreaming.cl:18128/stream
-Insanity Radio            https://stream.cor.insanityradio.com/insanity.flac
-Intense Radio             http://secure.live-streams.nl/flac.flac
-JB Radio-2                https://mediacp.jb-radio.net:8001/flac
-Joy Hits                  http://joyhits.online/joyhits.flac.ogg
-Le Bon Mix                https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
-Le Son Parisien           http://stream.lesonparisien.com/live.flac
-openbroadcast             http://stream.openbroadcast.ch/16bit.flac
-Open Sky Radio            https://audio.opensky.radio:8082/flac?_res_tag_=audio
-Pi ano                    http://stream.p-node.org/piano.flac
-Punkrockers Radio         https://stream.punkrockers-radio.de:8443/prr.flac
-Radio Blues Flac          https://streams.radiomast.io/radioblues-flac
-Radio G!                  http://46.105.110.80:8000/fluxradiogHD
-Radio Jeunes Rheims       http://stream.rjrradio.fr:8000/rjr-dab.flac
-Radio Kemonia             http://kemoniastreaming2.net:8060/stream
-Radio Random              http://radiorandom.org:8000/WBJM-FLAC
-Radio Remusica            http://v4.tustreaming.cl:18144/stream
-Radio Sputnik             https://radiosputnik.nl:8443/flac
-Zappa Stream Radio        https://streams.norbert.de/zappa.flac
-BIG BANG RADIO HQ         https://audio-edge-cmc51.fra.h.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
-Calamar Rradio            http://www.calamarrradio.org:8000/stream
-Danubius Radio            https://danubiusradio.hu/live_HiFi.mp3
-DHECTAR Radio             http://manager.dhectar.fr:1300/stream
-DHECTAR Hits              http://manager.dhectar.fr:1110/stream
-Djam Radio                https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
-ForEver La Radio          http://stream.sweetfm.fr:8000/flac-forever-arc
-Futura.FM                 https://futura.fm/stream.ogg?ts=1699656027.325
-TrancePulse               https://stream.trance.ie/tpmixes
-High Fi Dream Radio       https://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq
-VFR '80s Thrash           https://tuneintoradio1.com/listen/vfr_80s/stream.flac
-VFR General Thrash        https://tuneintoradio1.com/listen/violent_forces_radio/stream.flac
-TEKnival Radio            https://listen.teknivalradio.com/listen/teknivalradio/radio.flac
-Magic Radio               https://mp3.magic-radio.net/flac
-Czech Radio CRo D-dur     http://amp.cesnet.cz:8000/cro-d-dur.flac
-Czech Radio CRo Jazz      http://amp.cesnet.cz:8000/cro-jazz.flac
-Czech Radio CRo Wave      http://amp.cesnet.cz:8000/cro-radio-wave.flac
-Czech Radio CRo Vltava    http://amp.cesnet.cz:8000/cro3.flac
-RadioSEGA                 https://icecast.radiosega.net/rs-flac.ogg
-Smoothjazz.com.pl         http://bcast.vigormultimedia.com:8888/sjcomplflac
-Czech Radio CRo Jazz      http://amp.cesnet.cz:8000/cro-jazz.flac
-SUN-Le Son Unique         https://diffusion.lafrap.fr/sun.flac
-Radio Sing Sing           http://stream.sing-sing-bis.org:8000/singsingFlac
-CRo Vltava                http://amp.cesnet.cz:8000/cro3.flac
-CRo D-dur                 http://amp.cesnet.cz:8000/cro-d-dur.flac
-CRo Radio Wave            http://amp.cesnet.cz:8000/cro-radio-wave.flac
-H2O Radio                 https://abf.net-radio.fr/h2oradio.flac
-AIDAradio                 http://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
-Sveriges Radio: P2        http://edge2.sr.se/p2-flac
-Radio Calico              http://radio3.radio-calico.com:8080/calico
-BluesWave Radio           https://blueswave.radio:8100/FlacBlues
-Bailrigg 95.3FM           http://bfm-live.lancs.ac.uk/listen/bfm/flac
-Radio Bias                http://admin.biasradio.com/listen/bias_radio/flac
-LapFox Radio              http://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+BDPST Rock Radio | https://s2.audiostream.hu/bdpstrock_FLAC
+Youventus Radio | https://s2.audiostream.hu/juventus_FLAC
+Roxy Radio | https://s2.audiostream.hu/roxy_FLAC
+Danubius Radio | https://danubiusradio.hu/live_HiFi
+Progressieve Rock | https://progressieverock.nl:8443/flac
+Radio Linn Mix1 | http://streams.radiomast.io/d0105650-c51c-4842-ae39-f97b329acd2a?token=UU9QJvCG
+Radio Linn Mix2 | http://streams.radiomast.io/4482dfb3-d502-42ef-8184-fc56b0f3ed44?token=UU9QJvCG
+Radio Linn Dreams | http://streams.radiomast.io/1769696b-ae90-417f-b007-584c1b6edef8?token=UU9QJvCG
+Radio Linn Gems | http://streams.radiomast.io/71cb1023-3c47-4c06-847d-5b15a3ddefee?token=UU9QJvCG
+Radio Linn Smooth | http://streams.radiomast.io/1614c7bc-e84e-4f64-8d22-1226d17cd681?token=UU9QJvCG
+Naim Radio | https://mscp3.live-streams.nl:8362/flac.flac
+Naim Classical | https://mscp3.live-streams.nl:8252/class-flac.flac
+Naim Jazz | http://mscp3.live-streams.nl:8340/jazz-flac.flac
+Rondo Classic Klasu Pro | https://iradio.fi/klasupro.flac
+Rondo Classic Klasu | https://iradio.fi/klasu.flac
+Dance Wave | http://dancewave.online/dance.flac.ogg
+Dance Wave Retro! | http://retro.dancewave.online/retrodance.flac.ogg
+Radio Paradise Global Mix | http://stream.radioparadise.com/global-flac
+Radio Paradise Main Mix | http://stream.radioparadise.com/flac
+Radio Paradise Mellow Mix | http://stream.radioparadise.com/mellow-flac
+Radio Paradise Rock Mix | http://stream.radioparadise.com/rock-flac
+Futura.FM | https://futura.fm/stream.ogg?ts=1699656027.325
+Sweet FM | http://stream.sweetfm.fr:8000/dab-forever-lms
+ForEver La Radio-Bordeaux | http://stream.sweetfm.fr:8000/flac-forever-bdx
+95bFM | https://streams.95bfm.com/stream112
+C9 Radio | https://stream.c9.fr/c9radio-flac.ogg.m3u
+Calamar Rradio | http://www.calamarrradio.org:8000/stream
+60North Radio | http://r5.zetcast.net/flac
+Club Retro Hits Radio | http://v4.tustreaming.cl:18156/stream
+Dance Classics Radio | http://vriezenet.nl:11051/dcflac
+Danubius Radio | https://danubiusradio.hu/live_HiFi.mp3
+DHECTAR Radio | http://manager.dhectar.fr:1300/stream
+Djam Radio | https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
+Frequence 3 | https://frequence3.net-radio.fr/frequence3.flac
+Frequence 3 - Loir-et-Che | https://frequence3.net-radio.fr/frequence3-fm41.flac
+Frequence 3-Touraine | https://frequence3.net-radio.fr/frequence3-fm37.flac
+Frequence 3 Dance | https://frequence3.net-radio.fr/frequence3dance.flac
+Frequence 3 Gold | https://frequence3.net-radio.fr/frequence3gold.flac
+Frequence 3 Urban | https://frequence3.net-radio.fr/frequence3urban.flac
+Frequence 3 World | https://frequence3.net-radio.fr/frequence3world.flac
+H2O | http://ice2.ikoula.net-radio.fr/h2oradio.flac
+Haarlem Shuffle Radio | https://stream.tbmp.nl:8000/haarlemshuffle.flac
+Incondicionalmente Retro | http://v4.tustreaming.cl:18128/stream
+Insanity Radio | https://stream.cor.insanityradio.com/insanity.flac
+Intense Radio | http://secure.live-streams.nl/flac.flac
+JB Radio-2 | https://mediacp.jb-radio.net:8001/flac
+Joy Hits | http://joyhits.online/joyhits.flac.ogg
+Le Bon Mix | https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
+Le Son Parisien | http://stream.lesonparisien.com/live.flac
+openbroadcast | http://stream.openbroadcast.ch/16bit.flac
+Open Sky Radio | https://audio.opensky.radio:8082/flac?_res_tag_=audio
+Pi ano | http://stream.p-node.org/piano.flac
+Punkrockers Radio | https://stream.punkrockers-radio.de:8443/prr.flac
+Radio Blues Flac | https://streams.radiomast.io/radioblues-flac
+Radio G! | http://46.105.110.80:8000/fluxradiogHD
+Radio Jeunes Rheims | http://stream.rjrradio.fr:8000/rjr-dab.flac
+Radio Kemonia | http://kemoniastreaming2.net:8060/stream
+Radio Random | http://radiorandom.org:8000/WBJM-FLAC
+Radio Remusica | http://v4.tustreaming.cl:18144/stream
+Radio Sputnik | https://radiosputnik.nl:8443/flac
+Zappa Stream Radio | https://streams.norbert.de/zappa.flac
+BIG BANG RADIO HQ | https://audio-edge-cmc51.fra.h.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
+Calamar Rradio | http://www.calamarrradio.org:8000/stream
+Danubius Radio | https://danubiusradio.hu/live_HiFi.mp3
+DHECTAR Radio | http://manager.dhectar.fr:1300/stream
+DHECTAR Hits | http://manager.dhectar.fr:1110/stream
+Djam Radio | https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
+ForEver La Radio | http://stream.sweetfm.fr:8000/flac-forever-arc
+Futura.FM | https://futura.fm/stream.ogg?ts=1699656027.325
+TrancePulse | https://stream.trance.ie/tpmixes
+High Fi Dream Radio | https://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq
+VFR '80s Thrash | https://tuneintoradio1.com/listen/vfr_80s/stream.flac
+VFR General Thrash | https://tuneintoradio1.com/listen/violent_forces_radio/stream.flac
+TEKnival Radio | https://listen.teknivalradio.com/listen/teknivalradio/radio.flac
+Magic Radio | https://mp3.magic-radio.net/flac
+Czech Radio CRo D-dur | http://amp.cesnet.cz:8000/cro-d-dur.flac
+Czech Radio CRo Jazz | http://amp.cesnet.cz:8000/cro-jazz.flac
+Czech Radio CRo Wave | http://amp.cesnet.cz:8000/cro-radio-wave.flac
+Czech Radio CRo Vltava | http://amp.cesnet.cz:8000/cro3.flac
+RadioSEGA | https://icecast.radiosega.net/rs-flac.ogg
+Smoothjazz.com.pl | http://bcast.vigormultimedia.com:8888/sjcomplflac
+SUN-Le Son Unique | https://diffusion.lafrap.fr/sun.flac
+Radio Sing Sing | http://stream.sing-sing-bis.org:8000/singsingFlac
+H2O Radio | https://abf.net-radio.fr/h2oradio.flac
+AIDAradio | http://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
+Sveriges Radio: P2 | http://edge2.sr.se/p2-flac
+Radio Calico | http://radio3.radio-calico.com:8080/calico
+BluesWave Radio | https://blueswave.radio:8100/FlacBlues
+Bailrigg 95.3FM | http://bfm-live.lancs.ac.uk/listen/bfm/flac
+Radio Bias | http://admin.biasradio.com/listen/bias_radio/flac
+LapFox Radio | http://radio.lapfoxradio.com/radio/8000/stream-flac.flac

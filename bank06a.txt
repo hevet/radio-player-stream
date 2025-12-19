@@ -95,3 +95,46 @@ myNoise - Pure Nature     https://purenature-mynoise.radioca.st/autodj
 myNoise - Rainy Day       https://rainyday-mynoise.radioca.st/stream
 Positively - Birdsong     https://drive.uber.radio/uber/calmbirdsong/icecast.audio
 247 Birdsong Radio        https://2.mystreaming.net/uber/calmbirdsong/icecast.audio
+MyRock Radio	            http://s1.reliastream.com:8190/;
+Radio Caroline	          http://happy.radiocaroline319.nl/listen/caroline_oldies/radio320.mp3
+Antenne Bayern DanceXXL	  ​https://s8-webradio.antenne.de/dance-xxl/stream/mp3
+Jazzradio	                http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+Classic Vinyl HD	        https://icecast.walmradio.com:8443/classic
+knixx fm	                https://s1.knixx.fm/dein_webradio_256.mp3
+1000 Schlager	            https://1000schlager.stream.laut.fm/1000schlager
+Box UK	                  https://boxstream.danceradiouk.com/stream/1/
+Rock 105.5	              https://ais-sa1.streamon.fm/7961_96k.aac
+NPO Radio 3FM	            https://icecast.omroep.nl/3fm-bb-mp3
+KISS FM	​                  https://topradio-de-hz-fal-stream02-cluster01.radiohost.de/kissfm_mp3-128
+Radio Sunshine-Live	      http://stream.sunshine-live.de/hq/mp3-128/surfmusik/
+CBC Music (Eastern)	      https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8
+RNE Radio 3	              https://dispatcher.rndfnk.com/crtve/rner3/main/mp3/high
+Hotradio Hits	            https://server-67.stream-server.nl:8400/;
+CUAC FM - 103.4 FM	      https://streaming.cuacfm.org/cuacfm.ogg
+Radio Paradise	          https://stream-dc1.radioparadise.com/aac-320
+SECTOR Progressive	      http://89.223.45.5:8000/progressive-mp3
+BBC World Service	        https://utulsa.streamguys1.com/KWGSHD3-AAC
+NPR News and Talk	        https://npr-ice.streamguys1.com/live.mp3
+Radio France Culture	    http://icecast.radiofrance.fr/franceculture-midfi.aac
+1.FM - Funky Express	    http://strm112.1.fm/funkyexpress_mobile_mp3
+rock fm spain	            http://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
+LM Radio	                https://ukwesta.streaming.broadcast.radio/lmradio
+Starter FM Chilli	        http://streaming.starterfm.com/radio/8050/chill192
+Starter Trance	          http://streaming.starterfm.com/listen/trance/starter192
+Starter Bangaz	          http://streaming.starterfm.com/radio/8020/bangaz192
+Starter FM	              http://streaming.starterfm.com/radio/8010/starter192
+Classic Hits 80s	        https://edge7.audioxi.com/CH80S
+CLASSIC ROCK	            http://classicrock.streeemer.com/listen/classic_rock/radio.mp3
+Nation Radio 90s	        http://listen-nation.sharp-stream.com/nationradio90s-dab.mp3?ref=RF Title1=nationradio90s-dab.mp3
+Rewind 2000's	            http://2000.streeemer.com/listen/2000s/radio.mp3
+Luna FM	                  http://stream.lunafm.net/listen/lunaworld/radio.mp3
+Dance Machine	            http://edm.streeemer.com/listen/edm/radio.mp3
+Chillout Vibes	          http://chillout.streeemer.com/listen/chillout/radio.mp3
+Radio Anioł Beskidów	    http://88.135.172.249:22000/listen.pls
+Radio bartoszyce	        http://radio.bartsat.pl:8000/radio.mp3.m3u?_ic2=1
+Radio Folk	              http://streaming.g-news.pl:8030/fr1
+Radio Egida	              http://s3.slotex.pl:7536/;
+Beam FM - Adult Hits	    http://ice1.streeemer.com:8020/radio.mp3
+Smooth Jazz Deluxe	      https://cast1.torontocast.com:4490/;
+Radio Elka Jarocin	      http://live.elka.pl:8000/jarocin
+Radio Fara	              http://62.133.128.22:8000/listen.pls

@@ -86,7 +86,7 @@ Radio Września FM         http://s1.slotex.pl:7446
 Radio Zachód              http://stream02.zachod.pl:10113
 Radio Zawiercie           https://ssl-1.radiohost.pl:9078/live
 Radio Zielona Góra        http://stream02.rzg.pl:10117
-Radio Ziemi Wieluńskiej   http://stream2.nadaje.com:8023/;stream
+Radio Ziemi Wieluńskiej   https://stream2.nadaje.com:8023/;stream
 Radio Radom               http://stream6.nadaje.com:15292/radioradompl
 Twoje Radio Stargard      http://51.77.59.65:8100/stream.mp3
 Radio Zielona Góra        http://stream03.rzg.pl:10107/;

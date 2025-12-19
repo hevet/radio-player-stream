@@ -95,11 +95,11 @@ myNoise - Pure Nature     https://purenature-mynoise.radioca.st/autodj
 myNoise - Rainy Day       https://rainyday-mynoise.radioca.st/stream
 Positively - Birdsong     https://drive.uber.radio/uber/calmbirdsong/icecast.audio
 247 Birdsong Radio        https://2.mystreaming.net/uber/calmbirdsong/icecast.audio
-MyRock Radio	            http://s1.reliastream.com:8190/;
+MyRock Radio              http://s1.reliastream.com:8190/;
 Radio Caroline	          http://happy.radiocaroline319.nl/listen/caroline_oldies/radio320.mp3
 Antenne Bayern DanceXXL	  ​https://s8-webradio.antenne.de/dance-xxl/stream/mp3
-rock fm spain	            http://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
-LM Radio	                https://ukwesta.streaming.broadcast.radio/lmradio
+rock fm spain             http://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
+LM Radio                  https://ukwesta.streaming.broadcast.radio/lmradio
 Starter FM Chilli	        http://streaming.starterfm.com/radio/8050/chill192
 Starter Trance	          http://streaming.starterfm.com/listen/trance/starter192
 Starter Bangaz	          http://streaming.starterfm.com/radio/8020/bangaz192

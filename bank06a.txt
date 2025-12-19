@@ -1,8 +1,8 @@
-Round and Sound radio     http://stream.roundandsound.nl:80/;
+Round and Sound radio     http://stream.roundandsound.nl:80/
 Smooth                    http://stream.klassikradio.de/smooth/mp3-192/www.klassikradio.de/
 Smoothjazz.com.pl         https://bcast.vigormultimedia.com:48888/sjcompl320mp3
 Smoothjazz.com.pl         http://bcast.vigormultimedia.com:8888/sjcompl320mp3
-BluesRadio Athens Greece  https://live.bluesradio.gr:8352/;
+BluesRadio Athens Greece  https://live.bluesradio.gr:8352/
 Classic Vinyl             https://icecast.walmradio.com:8443/classic
 Smooth Jazz               https://bcast.vigormultimedia.com:48888/sjcompl320mp3
 Blues Wave                https://blueswave.radio:8100/hifiblues
@@ -11,13 +11,13 @@ Chillizet Jazz            https://ch02.cdn.eurozet.pl/CHIJAZ.mp3
 Chillizet Soul            https://zt02.cdn.eurozet.pl/CHISOU.mp3
 Chillizet World Jazz      https://ch.cdn.eurozet.pl/CHIWJZ.mp3
 Toksyna FM Chillout       http://s01.toksyna.fm:8050
-Smooth Jazz V 98.7        https://login.webinternetradio.com:1590/;
+Smooth Jazz V 98.7        https://login.webinternetradio.com:1590/
 Smooth Jazz 247           https://jking.cdnstream1.com/b75154_128mp3
-Smooth Jazz CD New York   http://server.webnetradio.net:5274/;
-Smooth Jazz Chill         http://server.webnetradio.net:5226/;
-Smooth Jazz Deluxe        https://cast1.torontocast.com:4490/;
+Smooth Jazz CD New York   http://server.webnetradio.net:5274/
+Smooth Jazz Chill         http://server.webnetradio.net:5226/
+Smooth Jazz Deluxe        https://cast1.torontocast.com:4490/
 SmoothJazz Florida Class  https://streaming.shoutcast.com/smooth-jazz-florida-classics
-Smooth Jazz Hot 100       http://server.webnetradio.net:5254/;
+Smooth Jazz Hot 100       http://server.webnetradio.net:5254/
 Smooth Jazz Lounge HD     https://fastcast4u.com/player/wsjfhd-airspectrum/?pl=winamp&c=0
 Smooth Jazz Planet        https://hestia2.cdnstream.com/1258_128
 Smoothjazz.com - Global   https://smoothjazz.cdnstream1.com/2585_128.mp3
@@ -84,7 +84,7 @@ Radio Jazz FM             https://radiojazz.out.airtime.pro/radiojazz_a
 113.fm - Salsa            https://113fm-edge2.cdnstream.com/1798_128
 113.fm - Star USA         https://113fm-edge2.cdnstream.com/1727_128
 Nature Radio Sleep        https://stream.zeno.fm/kju0gtjeei3uv
-Nature Radio RAIN         https://maggie.torontocast.com:8108/;
+Nature Radio RAIN         https://maggie.torontocast.com:8108/
 Nature white noise        https://stream.zeno.fm/vg54x7r1exhvv
 247 - Nature Radio        https://ec3.yesstreaming.net:3545/stream
 Ambi Nature Radio         https://nature-rex.radioca.st/stream
@@ -95,12 +95,12 @@ myNoise - Pure Nature     https://purenature-mynoise.radioca.st/autodj
 myNoise - Rainy Day       https://rainyday-mynoise.radioca.st/stream
 Positively - Birdsong     https://drive.uber.radio/uber/calmbirdsong/icecast.audio
 247 Birdsong Radio        https://2.mystreaming.net/uber/calmbirdsong/icecast.audio
-MyRock Radio              http://s1.reliastream.com:8190/;
-Radio Caroline	          http://happy.radiocaroline319.nl/listen/caroline_oldies/radio320.mp3
-Antenne Bayern DanceXXL	  ​https://s8-webradio.antenne.de/dance-xxl/stream/mp3
+MyRock Radio              http://s1.reliastream.com:8190/
+Radio Caroline            http://happy.radiocaroline319.nl/listen/caroline_oldies/radio320.mp3
+Antenne Bayern DanceXXL   https://s8-webradio.antenne.de/dance-xxl/stream/mp3
 rock fm spain             http://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
 LM Radio                  https://ukwesta.streaming.broadcast.radio/lmradio
 Starter FM Chilli         http://streaming.starterfm.com/radio/8050/chill192
-Starter Trance	          http://streaming.starterfm.com/listen/trance/starter192
-Starter Bangaz	          http://streaming.starterfm.com/radio/8020/bangaz192
-Starter FM	              http://streaming.starterfm.com/radio/8010/starter192
+Starter Trance            http://streaming.starterfm.com/listen/trance/starter192
+Starter Bangaz            http://streaming.starterfm.com/radio/8020/bangaz192
+Starter FM                http://streaming.starterfm.com/radio/8010/starter192

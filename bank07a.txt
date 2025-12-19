@@ -1,100 +1,100 @@
-Polskie Radio Jedynka     https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
-Polskie Radio Dwójka      https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
-Polskie Radio Trójka      https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
-Polskie Radio Czwórka     https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
-Polskie Radio 24          https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
-Polskie Radio Chopin      https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
-Polskie Radio Dzieciom    https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
-Polskie Radio Kierowców   https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
-PR dla zagranicy          https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8
-PR Poland                 https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
-Eska Do Pracy             http://ic1.smcdn.pl/6140-1.mp3
-Eska Gorąca 20            http://ic1.smcdn.pl/6130-1.mp3
-Eska Impreska             http://ic1.smcdn.pl/6030-1.mp3
-Eska Rap 20               http://ic1.smcdn.pl/6190-1.mp3
-Eska Summer City          http://ic1.smcdn.pl/6120-1.mp3
-Eska2 Disco Polo          http://ic1.smcdn.pl/6110-1.mp3
-Eska2 Dla Dzieci          http://ic1.smcdn.pl/6220-1.mp3
-Eska2 Kultowe Polskie     http://ic1.smcdn.pl/6040-1.mp3
-Eska2 Polska Impreza      http://ic1.smcdn.pl/6160-1.mp3
-Eska2 Polskie Na Czasie   http://ic1.smcdn.pl/6230-1.mp3
-Eska Rock - Klasyka Rocka http://ic1.smcdn.pl/6070-1.mp3
-Eska Rock - Rock Ballads  http://ic1.smcdn.pl/6010-1.mp3
-Eska Rock - Polski Rock   http://ic1.smcdn.pl/6090-1.mp3
-Hi On Line Radio Classic  http://mediaserv30.live-streams.nl:8088/live
-Linn Classical            http://radio.linn.co.uk:8004/autodj
-New Classics              http://stream.klassikradio.de/newclassics/mp3-192/www.klassikradio.de/
-Movie                     http://stream.klassikradio.de/movie/mp3-192/www.klassikradio.de/
-Opera                     http://stream.klassikradio.de/opera/mp3-192/www.klassikradio.de/
-Klassik Dreams            http://stream.klassikradio.de/dreams/mp3-192/www.klassikradio.de/
-Movie                     http://stream.klassikradio.de/movie/mp3-192/www.klassikradio.de/
-Classic FM                http://icecast.thisisdax.com/ClassicFMMP3.m3u
-Radio Swiss Classic       http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-P2 Musik                  http://http-live.sr.se/p2musik-mp3-192
-Classical 102             http://tuner.classical102.com:80/
-Radio Svizzera Classica   http://stream.srg-ssr.ch/rsc_it/mp3_128.m3u
-Pure Verdi                http://stream.klassikradio.de/verdi/mp3-192/www.klassikradio.de/
-Klassik Radio Live        http://stream.klassikradio.de/live/mp3-192/www.klassikradio.de/
-Piano                     http://stream.klassikradio.de/piano/mp3-192/www.klassikradio.de/
-Barock                    http://stream.klassikradio.de/barock/mp3-192/www.klassikradio.de/
-Pure Bach                 http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/
-Pure Beethoven            http://stream.klassikradio.de/beethoven/mp3-192/www.klassikradio.de/
-Chor                      http://stream.klassikradio.de/chor/mp3-192/www.klassikradio.de/
-Christmas                 http://stream.klassikradio.de/christmas/mp3-192/www.klassikradio.de/
-Healing                   http://stream.klassikradio.de/healing/mp3-192/www.klassikradio.de/
-Pure Mozart               http://stream.klassikradio.de/mozart/mp3-192/www.klassikradio.de/
-Classic Vinyl HD          https://icecast.walmradio.com:8443/classic
-MondoBongo                https://cast.mndbng.com/hls/mondobongo/aac_hifi.m3u8
-Radio Kultura             http://icecast.vgtrk.cdnvideo.ru/kulturafm
-RadiostART                https://radio.dyne.org/liveradiostart
-Radio Toksyna FM Classic  http://s01.toksyna.fm:8060
-Christmas                 http://us9.maindigitalstream.com:7459/;
-Christmas Hope            https://stream.hopemedia.com.au/christmashope-mp3
-Christmas Radio           https://christmasradio.christmasradiogroup.com
-Christmas FM              https://christmasfm.cdnstream1.com/2547_128.mp3
-Christmas Hits 1          http://listen.openstream.co/4726/audio
-Christmas Melody          http://s6.mediastreaming.it:9042/;
-Christmas Radio Live      http://sbouch00.radioca.st:8232/;
-Christmas R. Philippines  http://us1.amfmph.com:8888/stream
-RMF Swieta                 http://195.150.20.7/rmf_swieta
-RMF - Top 30 Swieta        https://rs6-krk2.rmfstream.pl/rmf_top_30_swieta
-Soma.FM Christmas Lounge   https://ice5.somafm.com/christmas-256-mp3
-Radio Santa Claus          https://streaming.radiostreamlive.com/radiosantaclaus_devices?token=%3C?%20echo%20rand%20(1,200000);%20?%3E
-Radio North Pole           https://streaming.radiostreamlive.com/radionorthpole_devices?token=%3C?%20echo%20rand%20(1,200000);%20?%3E
-ZET Na święta              https://zt.cdn.eurozet.pl/ZETSWI.mp3
-Christmas Radio INT        https://edg1-iad-gold.streamguys1.com/christmasradio?platform=website
-Christmas Evergreen        https://emg.streamguys1.com/evergreen-website
-181.FM Christmas Kountry   http://listen.livestreamingservice.com/181-xkkountry_128k.mp3
-181.FM Christmas Classics  http://listen.livestreamingservice.com/181-xtraditional_128k.mp3
-181.FM Christmas Oldies    http://listen.livestreamingservice.com/181-xoldies_128k.mp3
-181.FM Christmas Standard  http://listen.livestreamingservice.com/181-xstandards_128k.mp3
-181.FM Christmas Country   http://listen.livestreamingservice.com/181-xcountry_128k.mp3
-181.FM Christmas Power     http://listen.livestreamingservice.com/181-xpower_128k.mp3
-181.FM Christmas Highway   http://listen.livestreamingservice.com/181-xhighway_128k.mp3
-181.FM Christmas Soundtra  http://listen.livestreamingservice.com/181-xsoundtrax_128k.mp3
-181.FM Christmas R&B       http://listen.livestreamingservice.com/181-xtrue_128k.mp3
-181.FM Christmas Rock      http://listen.livestreamingservice.com/181-xrock_128k.mp3
-181.FM Christmas Mix       http://listen.livestreamingservice.com/181-xmix_128k.mp3
-181.FM Christmas Fun       http://listen.livestreamingservice.com/181-xfun_128k.mp3
-181.FM Christmas Kids      http://listen.livestreamingservice.com/181-xkids_128k.mp3
-181.FM Christmas           http://listen.livestreamingservice.com/181-xblender_128k.mp3
-181.FM Christmas Spirit    http://listen.livestreamingservice.com/181-xspirit_128k.mp3
-181.FM Christmas SmoothJa  http://listen.livestreamingservice.com/181-xsmooth_128k.mp3
-181.FM Christmas Gospel    http://listen.livestreamingservice.com/181-xgospel_128k.mp3
-181.FM Christmas Swing     http://listen.livestreamingservice.com/181-xswing_128k.mp3
-Christmas 1                http://89.39.189.44:8000/
-Christmas 2                http://us9.maindigitalstream.com:7459/
-Christmas FM               https://christmasfm.cdnstream1.com/2547_128.mp3
-Christmas 365              https://us3.streamingpulse.com/ssl/7038
-Christmas FM               http://janus.cdnstream.com:5024/live
-Christmas FM - Classical   https://christmasfm.cdnstream1.com/2549_128.mp3
-Christmas Hits NL          https://stream06.dotpoint.nl:8006/stream
-Christmas Instrumentals    http://proxima.shoutca.st:8071/
-Christmas Lounge Radio     https://ice3.somafm.com/christmas-128-mp3
-Christmas Radio Live       http://s7.viastreaming.net:7000/
-Christmas Radio Live       http://sbouch00.radioca.st:8232/
-Christmas Songs Radio      https://cheetah.streemlion.com:1050/stream
-Xmas                       https://live.radiostudio.be/xmasfm
-Xmasradio FM               https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3
-Antyradio X-mass           https://an.cdn.eurozet.pl/ANTXMA.mp3
-Fility Merry Christmas Ra  https://streaming.silvacast.com/XMAS.mp3
+Polskie Radio Jedynka | https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
+Polskie Radio Dwójka | https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
+Polskie Radio Trójka | https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
+Polskie Radio Czwórka | https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
+Polskie Radio 24 | https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
+Polskie Radio Chopin | https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
+Polskie Radio Dzieciom | https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
+Polskie Radio Kierowców | https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+PR dla zagranicy | https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8
+PR Poland | https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
+Eska Do Pracy | http://ic1.smcdn.pl/6140-1.mp3
+Eska Gorąca 20 | http://ic1.smcdn.pl/6130-1.mp3
+Eska Impreska | http://ic1.smcdn.pl/6030-1.mp3
+Eska Rap 20 | http://ic1.smcdn.pl/6190-1.mp3
+Eska Summer City | http://ic1.smcdn.pl/6120-1.mp3
+Eska2 Disco Polo | http://ic1.smcdn.pl/6110-1.mp3
+Eska2 Dla Dzieci | http://ic1.smcdn.pl/6220-1.mp3
+Eska2 Kultowe Polskie | http://ic1.smcdn.pl/6040-1.mp3
+Eska2 Polska Impreza | http://ic1.smcdn.pl/6160-1.mp3
+Eska2 Polskie Na Czasie | http://ic1.smcdn.pl/6230-1.mp3
+Eska Rock - Klasyka Rocka | http://ic1.smcdn.pl/6070-1.mp3
+Eska Rock - Rock Ballads | http://ic1.smcdn.pl/6010-1.mp3
+Eska Rock - Polski Rock | http://ic1.smcdn.pl/6090-1.mp3
+Hi On Line Radio Classic | http://mediaserv30.live-streams.nl:8088/live
+Linn Classical | http://radio.linn.co.uk:8004/autodj
+New Classics | http://stream.klassikradio.de/newclassics/mp3-192/www.klassikradio.de/
+Movie | http://stream.klassikradio.de/movie/mp3-192/www.klassikradio.de/
+Opera | http://stream.klassikradio.de/opera/mp3-192/www.klassikradio.de/
+Klassik Dreams | http://stream.klassikradio.de/dreams/mp3-192/www.klassikradio.de/
+Movie | http://stream.klassikradio.de/movie/mp3-192/www.klassikradio.de/
+Classic FM | http://icecast.thisisdax.com/ClassicFMMP3.m3u
+Radio Swiss Classic | http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+P2 Musik | http://http-live.sr.se/p2musik-mp3-192
+Classical 102 | http://tuner.classical102.com:80/
+Radio Svizzera Classica | http://stream.srg-ssr.ch/rsc_it/mp3_128.m3u
+Pure Verdi | http://stream.klassikradio.de/verdi/mp3-192/www.klassikradio.de/
+Klassik Radio Live | http://stream.klassikradio.de/live/mp3-192/www.klassikradio.de/
+Piano | http://stream.klassikradio.de/piano/mp3-192/www.klassikradio.de/
+Barock | http://stream.klassikradio.de/barock/mp3-192/www.klassikradio.de/
+Pure Bach | http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/
+Pure Beethoven | http://stream.klassikradio.de/beethoven/mp3-192/www.klassikradio.de/
+Chor | http://stream.klassikradio.de/chor/mp3-192/www.klassikradio.de/
+Christmas | http://stream.klassikradio.de/christmas/mp3-192/www.klassikradio.de/
+Healing | http://stream.klassikradio.de/healing/mp3-192/www.klassikradio.de/
+Pure Mozart | http://stream.klassikradio.de/mozart/mp3-192/www.klassikradio.de/
+Classic Vinyl HD | https://icecast.walmradio.com:8443/classic
+MondoBongo | https://cast.mndbng.com/hls/mondobongo/aac_hifi.m3u8
+Radio Kultura | http://icecast.vgtrk.cdnvideo.ru/kulturafm
+RadiostART | https://radio.dyne.org/liveradiostart
+Radio Toksyna FM Classic | http://s01.toksyna.fm:8060
+Christmas | http://us9.maindigitalstream.com:7459/;
+Christmas Hope | https://stream.hopemedia.com.au/christmashope-mp3
+Christmas Radio | https://christmasradio.christmasradiogroup.com
+Christmas FM | https://christmasfm.cdnstream1.com/2547_128.mp3
+Christmas Hits 1 | http://listen.openstream.co/4726/audio
+Christmas Melody | http://s6.mediastreaming.it:9042/;
+Christmas Radio Live | http://sbouch00.radioca.st:8232/;
+Christmas R. Philippines | http://us1.amfmph.com:8888/stream
+RMF Swieta | http://195.150.20.7/rmf_swieta
+RMF - Top 30 Swieta | https://rs6-krk2.rmfstream.pl/rmf_top_30_swieta
+Soma.FM Christmas Lounge | https://ice5.somafm.com/christmas-256-mp3
+Radio Santa Claus | https://streaming.radiostreamlive.com/radiosantaclaus_devices?token=%3C?%20echo%20rand%20(1,200000);%20?%3E
+Radio North Pole | https://streaming.radiostreamlive.com/radionorthpole_devices?token=%3C?%20echo%20rand%20(1,200000);%20?%3E
+ZET Na święta | https://zt.cdn.eurozet.pl/ZETSWI.mp3
+Christmas Radio INT | https://edg1-iad-gold.streamguys1.com/christmasradio?platform=website
+Christmas Evergreen | https://emg.streamguys1.com/evergreen-website
+181.FM Christmas Kountry | http://listen.livestreamingservice.com/181-xkkountry_128k.mp3
+181.FM Christmas Classics | http://listen.livestreamingservice.com/181-xtraditional_128k.mp3
+181.FM Christmas Oldies | http://listen.livestreamingservice.com/181-xoldies_128k.mp3
+181.FM Christmas Standard | http://listen.livestreamingservice.com/181-xstandards_128k.mp3
+181.FM Christmas Country | http://listen.livestreamingservice.com/181-xcountry_128k.mp3
+181.FM Christmas Power | http://listen.livestreamingservice.com/181-xpower_128k.mp3
+181.FM Christmas Highway | http://listen.livestreamingservice.com/181-xhighway_128k.mp3
+181.FM Christmas Soundtra | http://listen.livestreamingservice.com/181-xsoundtrax_128k.mp3
+181.FM Christmas R&B | http://listen.livestreamingservice.com/181-xtrue_128k.mp3
+181.FM Christmas Rock | http://listen.livestreamingservice.com/181-xrock_128k.mp3
+181.FM Christmas Mix | http://listen.livestreamingservice.com/181-xmix_128k.mp3
+181.FM Christmas Fun | http://listen.livestreamingservice.com/181-xfun_128k.mp3
+181.FM Christmas Kids | http://listen.livestreamingservice.com/181-xkids_128k.mp3
+181.FM Christmas | http://listen.livestreamingservice.com/181-xblender_128k.mp3
+181.FM Christmas Spirit | http://listen.livestreamingservice.com/181-xspirit_128k.mp3
+181.FM Christmas SmoothJa | http://listen.livestreamingservice.com/181-xsmooth_128k.mp3
+181.FM Christmas Gospel | http://listen.livestreamingservice.com/181-xgospel_128k.mp3
+181.FM Christmas Swing | http://listen.livestreamingservice.com/181-xswing_128k.mp3
+Christmas 1 | http://89.39.189.44:8000/
+Christmas 2 | http://us9.maindigitalstream.com:7459/
+Christmas FM | https://christmasfm.cdnstream1.com/2547_128.mp3
+Christmas 365 | https://us3.streamingpulse.com/ssl/7038
+Christmas FM | http://janus.cdnstream.com:5024/live
+Christmas FM - Classical | https://christmasfm.cdnstream1.com/2549_128.mp3
+Christmas Hits NL | https://stream06.dotpoint.nl:8006/stream
+Christmas Instrumentals | http://proxima.shoutca.st:8071/
+Christmas Lounge Radio | https://ice3.somafm.com/christmas-128-mp3
+Christmas Radio Live | http://s7.viastreaming.net:7000/
+Christmas Radio Live | http://sbouch00.radioca.st:8232/
+Christmas Songs Radio | https://cheetah.streemlion.com:1050/stream
+Xmas | https://live.radiostudio.be/xmasfm
+Xmasradio FM | https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3
+Antyradio X-mass | https://an.cdn.eurozet.pl/ANTXMA.mp3
+Fility Merry Christmas Ra | https://streaming.silvacast.com/XMAS.mp3

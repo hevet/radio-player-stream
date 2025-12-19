@@ -100,7 +100,7 @@ Radio Caroline	          http://happy.radiocaroline319.nl/listen/caroline_oldies
 Antenne Bayern DanceXXL	  ​https://s8-webradio.antenne.de/dance-xxl/stream/mp3
 rock fm spain             http://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
 LM Radio                  https://ukwesta.streaming.broadcast.radio/lmradio
-Starter FM Chilli	        http://streaming.starterfm.com/radio/8050/chill192
+Starter FM Chilli         http://streaming.starterfm.com/radio/8050/chill192
 Starter Trance	          http://streaming.starterfm.com/listen/trance/starter192
 Starter Bangaz	          http://streaming.starterfm.com/radio/8020/bangaz192
 Starter FM	              http://streaming.starterfm.com/radio/8010/starter192

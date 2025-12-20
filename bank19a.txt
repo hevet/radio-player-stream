@@ -1,4 +1,3 @@
-VOLOSATOE RADIO | http://volosatoff.ru:8008/euro.opus
 R2 Rock | http://icecast.err.ee/r2rock.opus
 Classic Vinyl HD | http://icecast.walmradio.com:8000/classic_opus
 Radio Pluz | http://www.pluz.com.ar:8020/live.opus

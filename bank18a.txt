@@ -1,29 +1,28 @@
-Italo Disco Radio Berlin  http://stream.laut.fm/italo-disco
-ItaloDance Pilot          https://online-radio.eu/radio/13402-italodance-pilot
-Vinyl Maxi FM             https://vinyl-maxi-fm.de
-The Disco Paradise Italo  https://broadcast.miami/proxy/italodisco
-Radio TOP80               https://top80.pl:8000/listen.mp3
-MIXX ONE Italo Disco      https://live.mixx.one/listen/mixxone-italo-disco/mixxone-italo-disco-128.mp3
-Vinyl Maxi FM             https://online-radio.eu/radio/13402-italodance-pilot
-Radio Caprice Italo       http://79.111.119.111:9013
-Radio Italo Dance pl      https://s1.slotex.pl:7694
-Radio Italo Disco         https://broadcast.miami/proxy/italodisco?mp=
-Borriquito                https://stream.laut.fm/borriquito
-Radio Maxitalo Disco      https://cast1.torontocast.com:1165/stream
-Radio Italiastoccarda     https://stream.laut.fm/radioitaliastoccarda
-Italo Scene               https://stream.laut.fm/italoscene
-Mixitalo                  https://stream.laut.fm/mixitalo
-Fantasy Italo Radio       https://italo.italo.nu/fantasy
-Longnights 93             https://stream.laut.fm/longnights93
-Sny Italo Disco           https://stream.laut.fm/synthizitalodisco
-Radio 80s                 https://stream.laut.fm/radio80s
-80s Mix Radio             https://stream.laut.fm/80s-mix-radio
-Musikradio 2              https://stream.laut.fm/musikradio2
-Disko-Radio Sova          https://evcast.mediacp.eu:1965/stream
-Italoradio.fm             http://cc6.beheerstream.com:8102/stream
-Only 80s Radio            https://server-28.stream-server.nl:8850/stream
-Relax FM Online           https://caster04.streampakket.com/proxy/8009/stream
-Sunshine live - Pride     https://sunsl.streamabc.net/sunsl-sslpride-mp3-192-1744824
-Radio Synth Melody        https://stream.laut.fm/radio_synth_melody
-Radio Turbo 80s           http://transmitter.turbo80s.com:8000/live.mp3
-Radio                     https://air.pc.cdn.bitgravity.com/air/live/pbaudio078/masterlist.m3u8
+Italo Disco Radio Berlin | http://stream.laut.fm/italo-disco
+ItaloDance Pilot | https://online-radio.eu/radio/13402-italodance-pilot
+Vinyl Maxi FM | https://vinyl-maxi-fm.de
+The Disco Paradise Italo | https://broadcast.miami/proxy/italodisco
+Radio TOP80 | https://top80.pl:8000/listen.mp3
+MIXX ONE Italo Disco | https://live.mixx.one/listen/mixxone-italo-disco/mixxone-italo-disco-128.mp3
+Radio Caprice Italo | http://79.111.119.111:9013
+Radio Italo Dance PL | https://s1.slotex.pl:7694
+Borriquito | https://stream.laut.fm/borriquito
+Radio Maxitalo Disco | https://cast1.torontocast.com:1165/stream
+Radio Italiastoccarda | https://stream.laut.fm/radioitaliastoccarda
+Italo Scene | https://stream.laut.fm/italoscene
+Mixitalo | https://stream.laut.fm/mixitalo
+Fantasy Italo Radio | https://italo.italo.nu/fantasy
+Longnights 93 | https://stream.laut.fm/longnights93
+Sny Italo Disco | https://stream.laut.fm/synthizitalodisco
+Radio 80s | https://stream.laut.fm/radio80s
+80s Mix Radio | https://stream.laut.fm/80s-mix-radio
+Musikradio 2 | https://stream.laut.fm/musikradio2
+Disko-Radio Sova | https://evcast.mediacp.eu:1965/stream
+Italoradio.fm | http://cc6.beheerstream.com:8102/stream
+Only 80s Radio | https://server-28.stream-server.nl:8850/stream
+Relax FM Online | https://caster04.streampakket.com/proxy/8009/stream
+Sunshine Live Pride | https://sunsl.streamabc.net/sunsl-sslpride-mp3-192-1744824
+Radio Synth Melody | https://stream.laut.fm/radio_synth_melody
+Radio Turbo 80s | http://transmitter.turbo80s.com:8000/live.mp3
+Radio | https://air.pc.cdn.bitgravity.com/air/live/pbaudio078/masterlist.m3u8
+Laza radio | http://stream.lazaradio.com:8100/live.ogg

@@ -62,6 +62,9 @@
 181.FM Classical Music | http://listen.livestreamingservice.com/181-classical_128k.mp3
 181.FM Acid Jazz | http://listen.livestreamingservice.com/181-acidjazz_128k.mp3
 181.FM Comedy Club | http://listen.livestreamingservice.com/181-comedy_128k.mp3
+181.FM Christmas Classics | https://listen.181fm.com/181-xtraditional_128k.mp3
+181.FM Christmas Kountry | https://listen.181fm.com/181-xkkountry_128k.mp3
+181.FM Christmas Oldies | https://listen.181fm.com/181-xoldies_128k.mp3
 Life Radio 80er | https://stream.liferadio.at/80er/mp3-192/app/
 Life Radio Chill Out | https://stream.liferadio.at/chillout/mp3-192/app/
 Life Radio Christmas | https://stream.liferadio.at/xmas/mp3-192/app/

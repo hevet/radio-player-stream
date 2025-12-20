@@ -60,32 +60,18 @@ Radio Triosar FM1 | http://s1.slotex.pl:7412
 Radio Truckers FM2 | http://s1.slotex.pl:7176
 Radio TWR Impuls | http://s1.slotex.pl:7504
 Radio Ty i Ja | http://91.232.4.33:8868/Stream1
-Radio Tyflo | http://178.32.159.193:8000
-Radio U Brunetki | http://4stream.pl:18342
-Radio U Demonka | https://www.4stream.pl/stream/18310
-Radio U Lusi | http://4stream.pl:18124
-Radio U Margaretki | https://s3.slotex.pl/shoutcast/7636/stream
-Radio U Rudej | https://s3.slotex.pl/shoutcast/7054/stream
 Radio Ujot FM | http://radio.wzks.uj.edu.pl:8000/ujotfm128
 Radio UK FM | http://51.255.8.139:9898/ukradio
-Radio Ulotna Bajka | https://s3.slotex.pl/shoutcast/7564/stream
 Radio Underground | http://s2.panelradiowy.pl:10070
-Radio Uparciuszek | https://s3.slotex.pl/shoutcast/7558/stream
 Radio UWM FM | http://213.184.18.156:8000
 Radio Vegas | http://s1.slotex.pl:7106
-Radio Vipek | https://s3.slotex.pl/shoutcast/7728/stream
 Radio Virgo | http://4stream.pl:18480
 Radio VirtualMix | http://4stream.pl:18484
-Radio Weekend | http://stream.weekendfm.pl:8000/weekendfm_najlepsza.mp3
-Radio Weszlo FM | http://streams.radio.co:80/s7d70a7895/listen
-Radio Wicher | http://s3.slotex.pl:7810
 Radio Widzew | https://widzewfm.ovh/radio/8000/live.mp3
 Radio WoM | http://gra.radiowom.pl:9120
 Radio WPNA Chicago | https://s4.yesstreaming.net:17078/stream
-Radio Wyczes5 | https://s3.slotex.pl/shoutcast/7316/stream
 Radio Z Qltura | https://radiozqlturapl.radioca.st/stream
 Radio Zawiercie | https://s3.slotex.pl/shoutcast/7654/stream
-Radio Ziomki | http://4stream.pl:18068
 Twoja Polska Stacja | http://sluchaj.twojapolskastacja.pl:8068
 W Nienagannym Stylu | http://51.255.8.139:8810/stream
 Wasze Radio FM | https://sluchaj.link:5443/wasze

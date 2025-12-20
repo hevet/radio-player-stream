@@ -1,95 +1,86 @@
-0N 80s on Radio           http://0n-70s.radionetz.de:8000/0n-80s.mp3
-90s90s Dance              https://streams.90s90s.de/eurodance/mp3-192/
-90s90s Grunge             https://streams.90s90s.de/grunge/mp3-192/liveradio/
-90s90s Hits               https://streams.90s90s.de/pop/mp3-192/
-90s90s The BEAT           https://streams.90s90s.de/main/mp3-192/
-Ask Fm Club               http://club.streamcast.online:7755/stream
-Bayer FM                  https://streaming.radio5.com.pl:8888/bayerfm
-Bialoruskie radio racja   http://air.racyja.com:8000/racja256
-Classic Vinyl             https://icecast.walmradio.com:8443/classic
-Doxa FM                   http://shot.inten.pl:10000/
-EL Stacja                 http://radio.el-stacja.pl:8000/elstacja320mp3
-Euro Radio                https://stream.laut.fm/euroradio
-FTB.net-Club              http://play.radioftb.net:8000
-Inne Radio                http://stream4.nadaje.com:8386/test
-Intense Radio Dance       http://secure.live-streams.nl/flac.ogg
-Katolickie Radio Rzeszow  http://62.133.128.18:8040/;
-KEXP                      http://live-mp3-128.kexp.org/kexp128.mp3
-Krdp FM                   http://s1.slotex.pl:7762/
-Meloradio FM              https://redir.atmcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
-Minimal Mix Radio         http://orion.shoutca.st:8750
-Minimal Mix Radio         http://orion.shoutca.st:8750
-Move Da House             http://uk7.internet-radio.com:8000/
-Muzo FM                   http://stream4.nadaje.com/muzo
-Muzyczne Radio            http://stream.nadaje.com:9900/;
-Muzyczne Radio Best       http://stream3.nadaje.com:8600
-Nasze Radio               https://online.nasze.fm:8443/stream
-Olsztyn UWM FM            http://213.184.18.156:8000/
-Phever Media Live         http://uk1.internet-radio.com:8200/live
-Planeta FM                https://pl02.cdn.eurozet.pl/pla-net.mp3
-Polskie Radio Pink Floyd  https://stream85.polskieradio.pl/omniaaxe/k46.stream/playlist.m3u8
-POP Radio                 http://stream1.popradio.pl:9000/
-Radio 1.FM All Euro 80s   https://strm112.1.fm/80s_90s_mobile_mp3
-Radio 7                   http://stream.radio7.pl:8000
-Radio 80s Forever Radio   https://premium.shoutcastsolutions.com/radio/8050/64AAC+.mp3
-Radio 80s Mix Radio       https://stream.laut.fm/80s-mix-radio
-Radio 80s80s              https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667
-Radio 80s80s Italo Disco  https://streams.80s80s.de/italohits/mp3-192
-Radio 80s80s Love         https://streams.80s80s.de/love/mp3-192/streams
-Radio Afera               http://poznan5-3.radio.pionier.net.pl:8000/afera.mp3
-Radio Alex                http://proxima.shoutca.st:9045/stream
-Radio Atlantic 80s        https://chasbo1978.radioca.st/stream
-Radio Biedrzychowice      http://195.164.158.230:9070
-Radio CCM                 http://primary.moodyradiostream.org/radioccm
-Radio Cdis                https://stream.laut.fm/radiocdis
-Radio Chicago             https://secure1.reliastream.com/polskieradio
-Radio Chilli ZET FM       https://ch01.cdn.eurozet.pl/chi-net.mp3
-Radio Classic Rock        http://mp3.polskieradio.pl:8460
-Radio Disco               https://stream.rcs.revma.com/cvswvmyewzzuv
-Radio Disco               https://stream.rcs.revma.com/cvswvmyewzzuv
-Radio Disco 80 i Polo     http://s1.discoparty.pl:7432
-Radio Divertimento        http://s7.radiohost.pl:11518/stream
-Radio Divertimento        http://s7.radiohost.pl:11518/stream
-Radio Doxa                http://81.210.92.213:8000/;
-Radio E Tronic FM         https://stream.laut.fm/e-tronic-fm
-Radio Elka                http://live.elka.pl:8000/elkamp3
-Radio EL-Stacja           http://radio.el-stacja.pl:8000/elstacja320mp3
-Radio eM                  http://91.200.187.58/;
-Radio Emaus               http://stream.radioemaus.pl:8000/mp3stream
-Radio Energy 106 Belfast  http://192.111.140.6:9633/stream
-Radio Eurodance 1         https://stream.laut.fm/eurodance1
-Radio Eurodance 90        http://www.radiart.eu:8394/autodj
-Radio Fama Kielce         http://stream2.nadaje.com:8076/
-Radio Heart 80s           https://ice-sov.musicradio.com/Heart80sMP3
-Radio Hit                 http://46.170.199.85:8000
-Radio Hit Eurodance       https://streams.ffh.de/ffhchannels/mp3/hqeurodance.mp3
-Radio Imperium            https://stream.radioimperium.pl:8443/stream
-Radio Italo Disco         https://broadcast.miami/proxy/italodisco?mp=/stream2
-Radio Italo Disco         https://broadcast.miami/proxy/italodisco?mp=/stream2/;
-Radio Kultura             http://51.255.8.139:9772/stream
-Radio LEM FM              http://n13.radiojar.com/2fa0gbhr9bhvv
-Radio Love 80's           https://playoutonestreaming.com/proxy/love80s2?mp=/;
-Radio Mais                https://ec5.yesstreaming.net:2120/stream
-Radio Mediehuset 3 FM     http://uk1.internet-radio.com:8150/live
-Radio Mega 80s            https://stream3.radiodienst.de/proxy/mega80s/80s
-Radio MRS                 http://145.239.26.146:7494/
-Radio Music Max           http://91.232.4.33:7040/Stream1
-Musicfactoryoristan       https://stream.laut.fm/musicfactoryoristano
-Radio Muzo FM             http://stream.rcs.revma.com/1nnezw8qz7zuv.m3u
-Radio Nadzieja            http://streaming01.technologicznie.net:8000/;
-Radio Naklo               https://sluchaj.107i5.fm
-Radio Niepokalanow        http://88.199.169.10:8000/;
-Radio Nuta                https://stream.rcs.revma.com/0004tehdxzzuv
-Radio Oldies FM           https://hit-1.nty.uy/stream
-Radio One Live 80s&90     http://91.232.4.33:8198/stream
-Radio P8 Pop              https://p8.p4groupaudio.com/P08_MH
-Radio Panorama 80         https://stream.laut.fm/panorama80
-Radio Parada              http://stream4.nadaje.com:15274/live
-Radio Paradise Main Mix   http://stream.radioparadise.com/flac
-Radio Park FM             http://sluchaj.radiopark.com.pl:8048/
-Radio Pasja               http://91.232.4.33:8049/stream
-Radio Pasja-Klubowa       http://91.232.4.33:9460/stream
-Starter FM                http://streaming.starterfm.com/radio/8010/starter192
-Starter Bangaz            http://streaming.starterfm.com/radio/8020/bangaz192
-Starter Trance            http://streaming.starterfm.com/listen/trance/starter192
-Starter FM Chilli         http://streaming.starterfm.com/radio/8050/chill192
+0N 80s on Radio | http://0n-70s.radionetz.de:8000/0n-80s.mp3
+90s90s Dance | https://streams.90s90s.de/eurodance/mp3-192/
+90s90s Grunge | https://streams.90s90s.de/grunge/mp3-192/liveradio/
+90s90s Hits | https://streams.90s90s.de/pop/mp3-192/
+90s90s The BEAT | https://streams.90s90s.de/main/mp3-192/
+Ask Fm Club | http://club.streamcast.online:7755/stream
+Bayer FM | https://streaming.radio5.com.pl:8888/bayerfm
+Classic Vinyl | https://icecast.walmradio.com:8443/classic
+Doxa FM | http://shot.inten.pl:10000/
+EL-Stacja | http://radio.el-stacja.pl:8000/elstacja320mp3
+Euro Radio | https://stream.laut.fm/euroradio
+FTB.net-Club | http://play.radioftb.net:8000
+Inne Radio | http://stream4.nadaje.com:8386/test
+Intense Radio Dance | http://secure.live-streams.nl/flac.ogg
+Katolickie Radio Rzeszow | http://62.133.128.18:8040/
+KEXP | http://live-mp3-128.kexp.org/kexp128.mp3
+Krdp FM | http://s1.slotex.pl:7762/
+Meloradio FM | https://redir.atmcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
+Minimal Mix Radio | http://orion.shoutca.st:8750
+Move Da House | http://uk7.internet-radio.com:8000/
+Muzyczne Radio | http://stream.nadaje.com:9900/
+Muzyczne Radio Best | http://stream3.nadaje.com:8600
+Nasze Radio | https://online.nasze.fm:8443/stream
+Olsztyn UWM FM | http://213.184.18.156:8000/
+Phever Media Live | http://uk1.internet-radio.com:8200/live
+Planeta FM | https://pl02.cdn.eurozet.pl/pla-net.mp3
+Polskie Radio Pink Floyd | https://stream85.polskieradio.pl/omniaaxe/k46.stream/playlist.m3u8
+POP Radio | http://stream1.popradio.pl:9000/
+Radio 1.FM All Euro 80s | https://strm112.1.fm/80s_90s_mobile_mp3
+Radio 7 | http://stream.radio7.pl:8000
+Radio 80s Forever | https://premium.shoutcastsolutions.com/radio/8050/64AAC+.mp3
+Radio 80s Mix | https://stream.laut.fm/80s-mix-radio
+Radio 80s80s | https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667
+Radio 80s80s Italo Disco | https://streams.80s80s.de/italohits/mp3-192
+Radio 80s80s Love | https://streams.80s80s.de/love/mp3-192/streams
+Radio Afera | http://poznan5-3.radio.pionier.net.pl:8000/afera.mp3
+Radio Alex | http://proxima.shoutca.st:9045/stream
+Radio Atlantic 80s | https://chasbo1978.radioca.st/stream
+Radio Biedrzychowice | http://195.164.158.230:9070
+Radio CCM | http://primary.moodyradiostream.org/radioccm
+Radio Cdis | https://stream.laut.fm/radiocdis
+Radio Chicago | https://secure1.reliastream.com/polskieradio
+Radio Chilli ZET FM | https://ch01.cdn.eurozet.pl/chi-net.mp3
+Radio Classic Rock | http://mp3.polskieradio.pl:8460
+Radio Disco | https://stream.rcs.revma.com/cvswvmyewzzuv
+Radio Disco 80 i Polo | http://s1.discoparty.pl:7432
+Radio Divertimento | http://s7.radiohost.pl:11518/stream
+Radio Doxa | http://81.210.92.213:8000/
+Radio E-Tronic FM | https://stream.laut.fm/e-tronic-fm
+Radio Elka | http://live.elka.pl:8000/elkamp3
+Radio eM | http://91.200.187.58/
+Radio Emaus | http://stream.radioemaus.pl:8000/mp3stream
+Radio Energy 106 Belfast | http://192.111.140.6:9633/stream
+Radio Eurodance 1 | https://stream.laut.fm/eurodance1
+Radio Eurodance 90 | http://www.radiart.eu:8394/autodj
+Radio Fama Kielce | http://stream2.nadaje.com:8076/
+Radio Heart 80s | https://ice-sov.musicradio.com/Heart80sMP3
+Radio Hit | http://46.170.199.85:8000
+Radio Hit Eurodance | https://streams.ffh.de/ffhchannels/mp3/hqeurodance.mp3
+Radio Imperium | https://stream.radioimperium.pl:8443/stream
+Radio Italo Disco | https://broadcast.miami/proxy/italodisco?mp=/stream2
+Radio Kultura | http://51.255.8.139:9772/stream
+Radio LEM FM | http://n13.radiojar.com/2fa0gbhr9bhvv
+Radio Love 80's | https://playoutonestreaming.com/proxy/love80s2?mp=/
+Radio Mais | https://ec5.yesstreaming.net:2120/stream
+Radio Mediehuset 3 FM | http://uk1.internet-radio.com:8150/live
+Radio Mega 80s | https://stream3.radiodienst.de/proxy/mega80s/80s
+Radio MRS | http://145.239.26.146:7494/
+Radio Music Max | http://91.232.4.33:7040/Stream1
+Radio Nadzieja | http://streaming01.technologicznie.net:8000/
+Radio Naklo | https://sluchaj.107i5.fm
+Radio Niepokalanow | http://88.199.169.10:8000/
+Radio Nuta | https://stream.rcs.revma.com/0004tehdxzzuv
+Radio Oldies FM | https://hit-1.nty.uy/stream
+Radio One Live 80s & 90s | http://91.232.4.33:8198/stream
+Radio P8 Pop | https://p8.p4groupaudio.com/P08_MH
+Radio Panorama 80 | https://stream.laut.fm/panorama80
+Radio Parada | http://stream4.nadaje.com:15274/live
+Radio Paradise Main Mix | http://stream.radioparadise.com/flac
+Radio Park FM | http://sluchaj.radiopark.com.pl:8048/
+Radio Pasja | http://91.232.4.33:8049/stream
+Radio Pasja Klubowa | http://91.232.4.33:9460/stream
+Starter FM | http://streaming.starterfm.com/radio/8010/starter192
+Starter Bangaz | http://streaming.starterfm.com/radio/8020/bangaz192
+Starter Trance | http://streaming.starterfm.com/listen/trance/starter192
+Starter FM Chilli | http://streaming.starterfm.com/radio/8050/chill192

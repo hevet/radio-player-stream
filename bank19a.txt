@@ -7,3 +7,4 @@ Campus 3 | http://stream.campus3.fr/studio.opus
 Klara Jazz | https://icecast.err.ee/klarajazz.opus
 Klassikaraadio |https://icecast.err.ee/klassikaraadio.opus
 FARIBORZ LACHINI radio | http://radio.glafir.ru:7000/easy-listen/fariborz-lachini
+Chillout | http://xfer.hirschmilch.de:8000/chillout.opus

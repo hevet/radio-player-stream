@@ -49,9 +49,9 @@ Radio Krakow Nowy Sacz | http://stream3.nadaje.com:9120/radiokrakow
 Radio Krakow Sportowy | http://stream3.nadaje.com:9128/radiokrakow
 Radio Krakow Tarnow | http://stream3.nadaje.com:9118/radiokrakow
 Radio Kujawy | http://radio.kujawy.info:9940/1
-Radio Lodz | https://stream.radiolodz.toya.cloud/RadioLodz-1-HQ.ogg
-Radio Lodz Extra | http://217.113.224.171:80/RadioLodz-2-HQ.aac
-Radio Lodz Nad Warta | http://217.113.224.171:80/RadioLodz-NW-HQ.aac
+Radio Łódź | https://stream.radiolodz.toya.cloud/RadioLodz-1-HQ.ogg
+Radio Łódź Extra | http://217.113.224.171:80/RadioLodz-2-HQ.aac
+Radio Łódź Nad Wartą | http://217.113.224.171:80/RadioLodz-NW-HQ.aac
 Radio Lublin | http://www.emsoft.ct8.pl/inne/rlublin.m3u
 Radio Malbork | http://stream3.nadaje.com:9022/
 Radio Naklo | http://145.239.92.77:80/;
@@ -63,10 +63,10 @@ Radio Opole 3 Sport | http://193.47.151.4:9000/ro3mp3
 Radio Opole 4 Historia | http://193.47.151.4:9000/ro4mp3
 Radio Ostrowiec | http://s1.slotex.pl:7050/stream/1/
 Radio PiK | http://stream1.radiopik.pl:9004
-Radio Plonsk | http://stream.radioplonsk.pl:9360
+Radio Płońsk | http://stream.radioplonsk.pl:9360
 Radio Pomorza i Kujaw | http://stream.radiopik.pl:9004/;
-Radio Poznan | http://stream4.nadaje.com:8578/poznan
-Radio Rzeszow | http://streaming.g-news.pl:8040/rzeszow
+Radio Poznań | http://stream4.nadaje.com:8578/poznan
+Radio Rzeszów | http://streaming.g-news.pl:8040/rzeszow
 Radio Silesia | https://stream.rcs.revma.com/xq23sp6fyyzuv
 Radio Słupsk | http://91.232.4.33:8240/stream
 Radio Sochaczew | http://stream2.nadaje.com:8080
@@ -85,7 +85,6 @@ Radio Wrocław Kultura | http://stream4.nadaje.com:9230/rwkultura
 Radio Września FM | http://s1.slotex.pl:7446
 Radio Zachód | http://stream02.zachod.pl:10113
 Radio Zawiercie | https://ssl-1.radiohost.pl:9078/live
-Radio Zielona Góra | http://stream02.rzg.pl:10117
 Radio Ziemi Wieluńskiej | https://stream2.nadaje.com:8023/;stream
 Radio Radom | http://stream6.nadaje.com:15292/radioradompl
 Twoje Radio Stargard | http://51.77.59.65:8100/stream.mp3

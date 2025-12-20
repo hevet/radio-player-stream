@@ -3,7 +3,6 @@
 90s90s Grunge | https://streams.90s90s.de/grunge/mp3-192/liveradio/
 90s90s Hits | https://streams.90s90s.de/pop/mp3-192/
 90s90s The BEAT | https://streams.90s90s.de/main/mp3-192/
-Ask Fm Club | http://club.streamcast.online:7755/stream
 Bayer FM | https://streaming.radio5.com.pl:8888/bayerfm
 Classic Vinyl | https://icecast.walmradio.com:8443/classic
 Doxa FM | http://shot.inten.pl:10000/

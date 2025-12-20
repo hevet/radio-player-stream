@@ -7,3 +7,4 @@ Klara Jazz | https://icecast.err.ee/klarajazz.opus
 Klassikaraadio |https://icecast.err.ee/klassikaraadio.opus
 FARIBORZ LACHINI radio | http://radio.glafir.ru:7000/easy-listen/fariborz-lachini
 Chillout | http://xfer.hirschmilch.de:8000/chillout.opus
+Verket opus | http://mustafejen.se:8000/verket.opus

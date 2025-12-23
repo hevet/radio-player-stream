@@ -88,4 +88,3 @@ Radio Calico | http://radio3.radio-calico.com:8080/calico
 BluesWave Radio | https://blueswave.radio:8100/FlacBlues
 Bailrigg 95.3FM | http://bfm-live.lancs.ac.uk/listen/bfm/flac
 Radio Bias | http://admin.biasradio.com/listen/bias_radio/flac
-LapFox Radio | http://radio.lapfoxradio.com/radio/8000/stream-flac.flac

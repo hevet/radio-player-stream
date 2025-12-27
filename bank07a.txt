@@ -2,7 +2,7 @@ Polskie Radio Jedynka | https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3
 Polskie Radio Dwójka | https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
 Polskie Radio Trójka | https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
 Polskie Radio Czwórka | http://stream3.polskieradio.pl:8816/pr4_mp3
-Polskie Radio 24 | https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
+Polskie Radio 24 | http://stream3.polskieradio.pl:8826/pr24_mp3
 Polskie Radio Chopin | https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
 Polskie Radio Dzieciom | https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
 Polskie Radio Kierowców | https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8

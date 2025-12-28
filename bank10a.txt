@@ -26,7 +26,7 @@ ONAIR66 - CANAL 02 | http://manager8.streamradio.fr:1200/stream
 ONAIR66 - CANAL 03 | http://manager6.streamradio.fr:1660/stream
 Pistache | http://rpstrm.pistache.org:8443/pistache.aac
 Pure Classix | http://server5.radio-streams.net:8001/live
-Radio Eco Vicentino Soul | http://c30.radioboss.fm:8137/autodj
+Radio Eco Vicentino | https://ice05.fluidstream.net/fluid0504.mp3?FLID=7
 Radio ETC | http://srv2.listen.radiogora.ru:8800/etc320
 Radio Paradise | http://stream-dc1.radioparadise.com:80/aac-320
 Radio Zaplin | http://radiozaplin.com:8000/

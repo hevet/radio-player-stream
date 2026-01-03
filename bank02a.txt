@@ -1,7 +1,7 @@
 Radio Łódź | http://217.113.224.171:80/RadioLodz-1-HQ.aac
 Radio eM Katowice | http://194.181.177.253:8000/;
 Trendy Radio Chojnice | http://stream.trendyradio.pl:8000/h
-RadioFreee 89.9FM | http://streaming.radio.lublin.pl:8000/rf_mp3
+RadioFreee 89.9FM | http://streaming.radio.lublin.pl:8000/radiofreee
 Antyradio Classic Rock | https://an01.cdn.eurozet.pl/ANTCLA.mp3
 Tok Plus Muzyka | http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3
 RDN-Malopolska | http://stream1.dabcom.pl:80/rdn_mpl

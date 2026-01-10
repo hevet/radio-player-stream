@@ -11,7 +11,7 @@ Verket opus | http://mustafejen.se:8000/verket.opus
 AURAL Radio | http://radio.auralradiokerala.com:1320/stream
 Bailrigg 95.3FM | https://bfm-live.lancs.ac.uk/listen/bfm/flac
 Big Bang Radio | https://audio-edge-cmc51.fra.h.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
-Dance Wave | http://stream2.dancewave.online:8080/dance.flac.ogg
+Dance Wave | https://dancewave.online/dance.flac.ogg
 ForEver La Radio-Arcachon | http://stream.sweetfm.fr:8000/flac-forever-arc
 ForEver La Radio-Bordeaux | http://stream.sweetfm.fr:8000/flac-forever-bdx
 Greek Hits | https://radio.newageradio.gr:8040/autodj.flac

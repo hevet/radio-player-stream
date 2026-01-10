@@ -23,6 +23,8 @@ Maxdance90s | http://maxdance90s.stream.laut.fm/maxdance90s
 FFH Eurodance | http://mp3.ffh.de/ffhchannels/hqeurodance.mp3
 Hot Dance Radio | http://icecast01.hotdanceradio.com:80/192.mp3
 Krone Eurodance | https://secureonair.krone.at/eurodance.aac
+Dance Wave | https://dancewave.online/dance.mp3
+Dance Wave Retro | https://dancewave.online/retrodance.mp3
 Maximusicradio | http://maximusicradio.stream.laut.fm/maximusicradio
 Maxretro | http://maxretro.stream.laut.fm/maxretro
 MaXXima | http://maxxima.mine.nu:8000/maxxima.mp3

@@ -91,3 +91,5 @@ PARTY VIBE-TECHNO | http://94.130.242.5:8046/stream
 Mirage Italo Dance | https://ssl-1.radiohost.pl:9569
 Mirage Prywatka | https://ssl-1.radiohost.pl:7214
 Mirage Space | https://ssl-1.radiohost.pl:9563
+Exclusively Def Leppard | https://nl4.mystreaming.net/er/defleppard/icecast.audio
+Exclusively AC/DC | https://3.mystreaming.net/er/acdc/icecast.audio

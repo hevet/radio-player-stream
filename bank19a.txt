@@ -6,7 +6,7 @@ Campus 3 | http://stream.campus3.fr/studio.opus
 Klara Jazz | https://icecast.err.ee/klarajazz.opus
 Klara Nostalgia | https://icecast.err.ee/klaranostalgia.opus
 Klassikaraadio | https://icecast.err.ee/klassikaraadio.opus
-FARIBORZ LACHINI radio | http://radio.glafir.ru:7000/easy-listen/fariborz-lachini
+YellowTealPurple | http://yellowtealpurple.net:8000/stream
 Chillout | http://xfer.hirschmilch.de:8000/chillout.opus
 Verket opus | http://mustafejen.se:8000/verket.opus
 Radio Siberia | http://emisoras.dip-badajoz.es:8239/stream

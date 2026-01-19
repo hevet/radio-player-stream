@@ -7,6 +7,7 @@ Klara Jazz | https://icecast.err.ee/klarajazz.opus
 Klara Nostalgia | https://icecast.err.ee/klaranostalgia.opus
 Klassikaraadio | https://icecast.err.ee/klassikaraadio.opus
 YellowTealPurple | http://yellowtealpurple.net:8000/stream
+MUSICONLY OPUS STREAM | https://streamsrv-musiconly.kechit.eu/main_opus
 Chillout | http://xfer.hirschmilch.de:8000/chillout.opus
 Verket opus | http://mustafejen.se:8000/verket.opus
 Radio Siberia | http://emisoras.dip-badajoz.es:8239/stream

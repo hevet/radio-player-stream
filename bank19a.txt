@@ -27,15 +27,15 @@ Kiss Collector | http://live7.avf.ch:8000/kisscollector_main
 Lux Radio | https://live7.avf.ch/lux_main
 OpenSky Radio | https://audio.opensky.radio:8082/flac?_res_tag_=audio
 PureClassix Radio | http://mscp4.live-streams.nl:8140/flac.ogg
-Pure R. Holland-The Underground | https://streamserver.pure-isp.eu/radio/8000/flac
-Pure R. Holland-Trance | https://streamserver.pure-isp.eu/radio/8020/flac
-Pure R. Holland-Hardcore | https://streamserver.pure-isp.eu/radio/8010/flac
-Pure R. Holland-DownTempo | https://streamserver.pure-isp.eu/radio/8040/flac
-Pure R. Channel-Live Party | https://streamserver.pure-isp.eu/radio/8060/flac
-Pure R. Channel-Dance Classics | https://streamserver.pure-isp.eu/radio/8030/flac
-Pure R. Channel-DJ R.I.P. | https://streamserver.pure-isp.eu/radio/8050/flac
-Pure R. Channel-Various | https://streamserver.pure-isp.eu/radio/8070/flac
-Pure R. Channel-Rap & Hip Hop | https://streamserver.pure-isp.eu/radio/8100/flac
+P. R. Holland-The Underground | https://streamserver.pure-isp.eu/radio/8000/flac
+P. R. Holland-Trance | https://streamserver.pure-isp.eu/radio/8020/flac
+P. R. Holland-Hardcore | https://streamserver.pure-isp.eu/radio/8010/flac
+P. R. Holland-DownTempo | https://streamserver.pure-isp.eu/radio/8040/flac
+P. R. Channel-Live Party | https://streamserver.pure-isp.eu/radio/8060/flac
+P. R. Channel-Dance Classics | https://streamserver.pure-isp.eu/radio/8030/flac
+P. R. Channel-DJ R.I.P. | https://streamserver.pure-isp.eu/radio/8050/flac
+P. R. Channel-Various | https://streamserver.pure-isp.eu/radio/8070/flac
+P. R. Channel-Rap & Hip Hop | https://streamserver.pure-isp.eu/radio/8100/flac
 Radio Audiomastering | https://transliacija.audiomastering.lt/pure
 Radio BluesFlac | https://streams.radiomast.io/radioblues-flac
 Radio Campus Grenoble | https://live.campusgrenoble.org/dab

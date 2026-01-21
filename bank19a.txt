@@ -70,4 +70,4 @@ Rlocale Radio | https://rlocale.org/listen/rlocale/rlocale-flac.ogg
 shadowfr69 Radio | https://radio.shadowfr69.eu/lossless
 Sveriges Radio P2 | https://live1.sr.se/p2-flac
 TNM Radio | https://stream.tnm-radio.eu/ultra
-Radio Calico | https://radio3.radio-calico.com:8443/calico
+Riverside Radio | https://stream.and-stuff.nl:8443/riverside

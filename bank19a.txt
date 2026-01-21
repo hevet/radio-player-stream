@@ -27,23 +27,23 @@ Kiss Collector | http://live7.avf.ch:8000/kisscollector_main
 Lux Radio | https://live7.avf.ch/lux_main
 OpenSky Radio | https://audio.opensky.radio:8082/flac?_res_tag_=audio
 PureClassix Radio | http://mscp4.live-streams.nl:8140/flac.ogg
-Pure Radio Holland-The Underground | https://streamserver.pure-isp.eu/radio/8000/flac
-Pure Radio Holland-Trance | https://streamserver.pure-isp.eu/radio/8020/flac
-Pure Radio Holland-Hardcore | https://streamserver.pure-isp.eu/radio/8010/flac
-Pure Radio Holland-DownTempo | https://streamserver.pure-isp.eu/radio/8040/flac
-Pure Radio Channel-Live Party | https://streamserver.pure-isp.eu/radio/8060/flac
-Pure Radio Channel-Dance Classics | https://streamserver.pure-isp.eu/radio/8030/flac
-Pure Radio Channel-DJ R.I.P. | https://streamserver.pure-isp.eu/radio/8050/flac
-Pure Radio Channel-Various | https://streamserver.pure-isp.eu/radio/8070/flac
-Pure Radio Channel-Rap & Hip Hop | https://streamserver.pure-isp.eu/radio/8100/flac
+Pure R. Holland-The Underground | https://streamserver.pure-isp.eu/radio/8000/flac
+Pure R. Holland-Trance | https://streamserver.pure-isp.eu/radio/8020/flac
+Pure R. Holland-Hardcore | https://streamserver.pure-isp.eu/radio/8010/flac
+Pure R. Holland-DownTempo | https://streamserver.pure-isp.eu/radio/8040/flac
+Pure R. Channel-Live Party | https://streamserver.pure-isp.eu/radio/8060/flac
+Pure R. Channel-Dance Classics | https://streamserver.pure-isp.eu/radio/8030/flac
+Pure R. Channel-DJ R.I.P. | https://streamserver.pure-isp.eu/radio/8050/flac
+Pure R. Channel-Various | https://streamserver.pure-isp.eu/radio/8070/flac
+Pure R. Channel-Rap & Hip Hop | https://streamserver.pure-isp.eu/radio/8100/flac
 Radio Audiomastering | https://transliacija.audiomastering.lt/pure
 Radio BluesFlac | https://streams.radiomast.io/radioblues-flac
-Radio Campus Grenoble 90.8 | https://live.campusgrenoble.org/dab
+Radio Campus Grenoble | https://live.campusgrenoble.org/dab
 Radio Haugaland | http://radioip.no:443/flac
 Radio Juventus | http://s2.audiostream.hu:8090/juventus_FLAC
 Radio Mast | https://streams.radiomast.io/ref-lossless-ogg-flac-stereo
 Radio Tornagaleones | http://tornagaleones.ddns.net:9000/Flac
-RIO Radio Internacional Odivelas | http://c30.radioboss.fm:8510/autodj
+RIO Radio Inter. Odivelas | http://c30.radioboss.fm:8510/autodj
 RockStar Radio | http://live7.avf.ch:8000/rockstar_main
 Rondo Klasu | https://iradio.fi/klasu.flac
 Rondo Klasu Pro | https://iradio.fi/klasupro.flac

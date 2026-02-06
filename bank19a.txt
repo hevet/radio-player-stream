@@ -1,4 +1,3 @@
-R2 Rock | http://icecast.err.ee/r2rock.opus
 Classic Vinyl HD | http://icecast.walmradio.com:8000/classic_opus
 Radio Pluz | http://www.pluz.com.ar:8020/live.opus
 Intense R.- We love Dance | http://secure.live-streams.nl/opus.opus
@@ -11,6 +10,7 @@ MUSICONLY OPUS STREAM | https://streamsrv-musiconly.kechit.eu/main_opus
 Chillout | http://xfer.hirschmilch.de:8000/chillout.opus
 Verket opus | http://mustafejen.se:8000/verket.opus
 Radio Siberia | http://emisoras.dip-badajoz.es:8239/stream
+Prog House | http://xfer.hirschmilch.de:8000/prog-house.opus
 AURAL Radio | http://radio.auralradiokerala.com:1320/stream
 Bailrigg 95.3FM | https://bfm-live.lancs.ac.uk/listen/bfm/flac
 Big Bang Radio | https://audio-edge-cmc51.fra.h.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d

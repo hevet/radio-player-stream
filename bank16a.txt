@@ -63,7 +63,6 @@ BIG BANG RADIO HQ | https://audio-edge-cmc51.fra.h.radiomast.io/2b410ada-8653-40
 Calamar Rradio | http://www.calamarrradio.org:8000/stream
 Danubius Radio | https://danubiusradio.hu/live_HiFi.mp3
 DHECTAR Radio | http://manager.dhectar.fr:1300/stream
-DHECTAR Hits | http://manager.dhectar.fr:1110/stream
 Djam Radio | https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
 ForEver La Radio | http://stream.sweetfm.fr:8000/flac-forever-arc
 Futura.FM | https://futura.fm/stream.ogg?ts=1699656027.325
@@ -84,9 +83,14 @@ Radio Sing Sing | http://stream.sing-sing-bis.org:8000/singsingFlac
 H2O Radio | https://abf.net-radio.fr/h2oradio.flac
 AIDAradio | http://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
 Sveriges Radio: P2 | http://edge2.sr.se/p2-flac
-Radio Calico | http://radio3.radio-calico.com:8080/calico
 BluesWave Radio | https://blueswave.radio:8100/FlacBlues
 Bailrigg 95.3FM | http://bfm-live.lancs.ac.uk/listen/bfm/flac
 Radio Bias | https://admin.biasradio.com/radio/8000/flac
 Caribbean Variety Mix | https://online.jamminvibezradio.com/listen/caribbean/live.flac
-TrancePulse | https://stream.trance.ie/tpmixes
+singsing | http://stream.sing-sing-bis.org:8000/singsingFlac
+Distorsion FM | http://radioemisoras.cl/distorsion.flac
+Radio Bergeijk | http://stream.radiobergeijk.nl/listen/radio_bergeijk/flac
+Radio Paradise 2050 | http://stream.radioparadise.com/radio2050-flac
+Radio Jeunes Rheims | http://stream.rjrradio.fr/rjr-dab.flac
+Radio Paradise Rock | http://stream.radioparadise.com/rock-flac
+High Fi Dream Radio | http://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq

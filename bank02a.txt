@@ -3,7 +3,6 @@ Radio eM Katowice | http://194.181.177.253:8000/;
 Trendy Radio Chojnice | http://stream.trendyradio.pl:8000/h
 RadioFreee 89.9FM | http://streaming.radio.lublin.pl:8000/radiofreee
 Antyradio Classic Rock | https://an01.cdn.eurozet.pl/ANTCLA.mp3
-Tok Plus Muzyka | http://stream10.radioagora.pl:80/ytBTynyvd3e.mp3
 RDN-Malopolska | http://stream1.dabcom.pl:80/rdn_mpl
 Nedds24.pl | http://s1.nedds24.pl:8100/radio.mp3
 Super FM | http://stream.super.fm:8000/superfm.mp3

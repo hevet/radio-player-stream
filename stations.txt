@@ -16,7 +16,7 @@ Radio Pogoda Bydgoszcz | http://radiostream.pl/tuba143-1.mp3
 Złote Przeboje Bydgoszcz | http://radiostream.pl/tuba8902-1.mp3
 Rock FM Bydgoszcz | http://217.182.76.63:8000/rfmweb
 ROCK RADIO | http://radiostream.pl/tuba9006-1.mp3
-TOK FM | http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_TOKFM.mp3
+TOK FM | http://radiostream.pl/tuba10-1.mp3
 Radio Weekend | http://stream.rcs.revma.com/vw8w2zwpsy3vv
 WASZE RADIO | https://sluchaj.link:5443/wasze
 WNET | http://media.wnet.fm:80/wnet.fm
@@ -98,3 +98,199 @@ Twoja Polska Stacja | https://sluchaj2.radiopark.biz.pl:8443/tpsapp
 Planeta | http://pa04.cdn.eurozet.pl:80/pla-net.mp3?redirected=04
 Radio 357 | http://n25a-eu.rcs.revma.com:80/an1ugyygzk8uv
 Radio Nowy Świat | http://n13a-eu.rcs.revma.com/ypqt40u0x1zuv
+Radio Łódź | http://217.113.224.171:80/RadioLodz-1-HQ.aac
+Radio eM Katowice | http://194.181.177.253:8000/;
+Trendy Radio Chojnice | http://stream.trendyradio.pl:8000/h
+RadioFreee 89.9FM | http://streaming.radio.lublin.pl:8000/radiofreee
+Antyradio Classic Rock | https://an01.cdn.eurozet.pl/ANTCLA.mp3
+RDN-Malopolska | http://stream1.dabcom.pl:80/rdn_mpl
+Nedds24.pl | http://s1.nedds24.pl:8100/radio.mp3
+Super FM | http://stream.super.fm:8000/superfm.mp3
+Radio Vanessa | http://s1.slotex.pl:7358/;
+Radio UWM FM | http://213.184.18.156:8000/;
+Banita Maxx Radio | http://91.232.4.33:9454/stream
+Radio SUD | http://stream2.nadaje.com:8012/;
+Radio Trendy | http://stream.trendyradio.pl:8000/h
+Radio Konin | http://stream2.technologicznie.net:80/konin.fm
+Hit Radio | http://51.255.8.139:9090/stream
+Akademickie Radio Index | https://stream.wzielonej.pl:8000/2
+Radio Kierowców | http://mp3.polskieradio.pl:8968/;
+Radio bezpieczna podroz | https://ssl-1.radiohost.pl:9162/;
+Radio ZET 2000 | http://zt03.cdn.eurozet.pl/ZET200.mp3?redirected=03
+Radio Świnoujście | http://185.243.52.116:8010/stream/1/
+skladankinetpl | http://s1.slotex.pl:7488/;
+Radio Doxa | http://81.210.92.213:8000/play.mp3
+RockRadio1 | http://144.217.77.176:8000/;
+45 Radio | https://stream1.themediasite.co.uk:7009/stream
+Radio WolnaStrefa | http://91.232.4.33:8186/stream
+Radio Bogoria 94,5 FM | https://ssl-1.radiohost.pl:6050/mp3
+Radio Ty i Ja - Szczecin | http://91.232.4.33:8868/Stream1
+Radio WolnaStrefa | http://91.232.4.33:8186/stream
+Radio Kampus | https://stream.radiokampus.fm/kampus
+Antyradio Ballady | http://an.cdn.eurozet.pl:80/ANTBAL.mp3
+Antyradio Hard | http://an.cdn.eurozet.pl:80/ANTHAR.mp3
+Antyradio Greatest | https://an01.cdn.eurozet.pl/ANTGRE.mp3
+Radio Horyzont | http://s1.slotex.pl:7328/;
+UJOT FM | http://stream.ujot.fm:80/
+Radio Derf - Blue Rock | http://178.19.96.111:8013/;
+Radio Wielkopolska | http://217.182.76.63:8000/webstream
+ZET Koledy | http://zt02.cdn.eurozet.pl:80/ZETKOL.mp3
+ZET na Swieta | http://zt02.cdn.eurozet.pl:80/ZETSWI.mp3
+RMF FM Top 30 Swieta | http://195.150.20.242:8000/rmf_top_30_swieta
+Radio Alex | http://srv0.streamradiowy.eu:80/radioalex
+RMF24.pl | http://rmfstream1.interia.pl:80/rmf_24
+Radio Toruń | https://ssl-1.radiohost.pl:11512/stream
+Radio 1.7 | http://emisja.radio17.pl:8000/R17
+Radio Sygnały | http://217.173.194.62:8000/stream
+Antyradio Katowice | http://an01.cdn.eurozet.pl/ant-kat.mp3
+Radio FAMA | http://stream2.nadaje.com:8076/;stream
+Radio Kaszëbë | https://stream4.nadaje.com:10125/kaszebe128
+Eska Gorąca 20 | https://ic2.smcdn.pl/6130-1.mp3
+Eska do pracy | https://ic2.smcdn.pl/6140-1.mp3
+Eska Gorąca 100 | http://ic2.smcdn.pl/6120-1.mp3
+Eska Impreska | http://ic1.smcdn.pl/6030-1.mp3
+Eska Rap 20 | http://ic1.smcdn.pl/6190-1.mp3
+Radio Alex | http://rmfstream1.interia.pl:80/radio_alex
+Klasyka rocka | https://ic1.smcdn.pl/6070-1.mp3
+Radio Index | http://stream.wzielonej.pl/radio/8000/1
+Eska2 Kultowe Polskie | https://ic2.smcdn.pl/6040-1.mp3
+Eska2 Polskie na czasie | https://ic2.smcdn.pl/6230-1.mp3
+Radio Yanosik | http://stream.rcs.revma.com/sn11544ebhuvv
+Radio Yanosik Rock | http://stream.rcs.revma.com/yghk77gym5uvv
+Radio Zet 90 | http://zt.cdn.eurozet.pl/ZET090.mp3
+Radio Zet po polsku | http://zt.cdn.eurozet.pl/ZETPL1.mp3
+Radio Zet Party | https://zt01.cdn.eurozet.pl/ZETPAR.mp3
+Radio Zet 80 | https://zt01.cdn.eurozet.pl/ZET080.mp3
+Radio Fiat | https://s3.slotex.pl:7284/stream/1/?sid=1
+Radio Żuławy | http://n0c.radiojar.com:80/q87xmtvrrg8uv
+Radio Vanessa | https://s1.slotex.pl:7358/stream/1/
+Radio Warmii i Mazur | http://rostr1.radioolsztyn.pl:8000/RWiM
+BBC - Radio 1 | http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
+BBC - Radio 1Xtra | http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8
+BBC - Radio 1Dance | http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.norewind.m3u8
+BBC - Radio 2 | http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
+BBC - Radio 3 | http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
+BBC - Radio 4 | http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
+BBC - Radio 5 live | http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8
+BBC - Radio 6 Music | http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+Radio Gorzów | http://stream02.zachod.pl:10121/rg-20kbps.aac
+Trendy Radio Chojnice | http://stream.trendyradio.pl:8000/mi
+Radio bezpieczna podróż | https://ssl-1.radiohost.pl:9162/;
+Rock Serwis FM | http://stream9.nadaje.com:8002/live
+Radio na Stoku | http://sluchaj.link:8000/nastoku
+Norda FM | http://94.177.253.77:8001/relay_AAC_320
+DHT | http://maggie.torontocast.com:8100/
+DHT2 | http://maggie.torontocast.com:8100/stream/3/;
+Plus Warszawa | http://pl04.cdn.eurozet.pl/plu-waw.mp3
+Radio 92,9 | http://radio.929.lu/aac
+Radio LPU FM | http://streaming.g-news.pl:8120/lpufm.m3u
+RMF MAXX | http://rmfstream1.interia.pl:80/rmf_maxxx
+Radio Zielona Góra | http://stream01.rzg.pl:10107/test
+Radio Piekary | http://stream.rcs.revma.com/0rg0mztk33bwv.m3u
+Radio RSC | http://stream.rcs.revma.com/94fud6a6z72vv.m3u
+Radio Silesia | http://s1.slotex.pl:7926/listen.pls
+Radio Sudety 24 | http://stream4.nadaje.com:15006/sudety24
+Radio Tychy | http://s3.slotex.pl:7586/stream/1/?sid=1
+Radio Śląsk | http://s1.slotex.pl:7022/;
+Radio Kuropatwa | http://n07.radiojar.com/ypspphhxfm8uv
+Radio FTM | https://s1.slotex.pl:7792/stream/1/
+Radio Pasja | http://mp3.radioslupsk.pl:8049/stream2
+Muzyka Relaksacyjna | http://mp3.radioslupsk.pl:8102/stream2
+Radio Pasja - Chilliout | http://mp3.radioslupsk.pl:8108/stream2
+Radio Pasja - Dance | http://s0.radiohost.pl:9466/stream2
+Radio Pasja - Klubowa | http://s0.radiohost.pl:9460/stream2
+Radio Pasja - Pop | http://s0.radiohost.pl:8084/stream2
+Radio Republika | https://ssl-1.radiotvrepublika.pl:12698/stream
+Radio I 101.3 FM | https://ice2.radioi.pl:8443/stream
+Radio Ostrowiec | https://s1.slotex.pl:7050/stream/;
+Radio Kwidzyń | https://s3.slotex.pl:7308/stream/1/?sid=1
+Radio Wyżyny | https://stream.laut.fm/radiowyzyny
+Loop24 | https://uksoutha.streaming.broadcast.radio/loop24?1770794467493=
+Centrum Kalisz | http://shot2.inten.pl:8888/rcfm.mp3
+eM Katowice | http://194.181.177.253:8000/
+Katolickie Radio Rzeszów | http://62.133.128.18:8040/;
+Konin FM | http://stream2.technologicznie.net:80/konin.fm
+Off Radio Kraków | http://stream4.nadaje.com:13332/offradiokrakow
+Olsztyn UWM FM | http://213.184.18.156:8000/
+Opatow | http://stream2.nadaje.com:11144
+Plock FM | https://stream.rcs.revma.com/6qvcy46wmc9uv
+PR Bialystok | http://stream4.nadaje.com:15476/radiobialystok
+PR Opole | http://dab.radio.opole.pl:8035/1
+PR Pomorza i Kujaw | http://stream.radiopik.pl:9004/;
+PR Zachód | http://stream02.zachod.pl:10113/;
+Pro-Radio Zgierz | http://radiointernetowe.net:7802
+Radio Andrychów | http://s1.slotex.pl:7424
+Radio Białystok | http://stream4.nadaje.com:15476/radiobialystok
+Radio Bielsko | https://stream.rcs.revma.com/062uq3z3kwzuv
+Radio Yanosik | http://n25a-eu.rcs.revma.com:80/sn11544ebhuvv
+Radio Bogoria | http://s7.radiohost.pl:6050/
+Radio Centrum Kalisz | http://shot2.inten.pl:8888/rcfm.mp3
+Radio Centrum Lublin | https://stream12.hosterion.pl/stream/akademickieradiocentrum
+Radio Centrum Rzeszów | http://62.93.41.27:8000
+Radio Dla Ciebie Płock | http://stream4.nadaje.com:14006/plock
+Radio Żuławy | http://stream.radiojar.com/q87xmtvrrg8uv
+Radio Elka Głogów | http://live.elka.pl:8000/miedziowe.pl
+Radio Elka Leszno | http://live.elka.pl:8000/elka
+Radio Extra Szczecin | http://stream3.nadaje.com:8200/szczecinfm
+Radio Fama Kielce | http://stream2.nadaje.com:8076/
+Radio Gdańsk | http://stream.task.gda.pl:8000/rg1
+Radio Gdynia | http://51.255.8.139:8064/stream
+Radio Gniezno | http://stream3.nadaje.com:8012
+Radio Alex | http://srv0.streamradiowy.eu/radioalex
+Radio Gorzów | http://stream02.radiogorzow.pl:10115
+Radio Hit Włocławek | http://46.170.199.85:8000
+Radio Istebna | http://s1.slotex.pl:7870
+Radio Jura | http://streams.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
+Radio LPU | http://streaming.g-news.pl:8120/lpufm
+Radio Kaszebe | http://stream3.nadaje.com:8048
+Radio Katowice | http://stream4.nadaje.com:9212/radiokatowice
+Radio Katowice Moje Radio | https://stream4.nadaje.com:8497/katowice_c
+Radio Kielce Folk | http://gra.radio.kielce.pl:8000/frmp3
+Radio Kołobrzeg | http://194.24.244.11:8000/;
+Radio Konin FM | https://stream2.technologicznie.net/konin.fm
+Radio Koszalin | http://s0.radiohost.pl:8240/;
+Radio Krakow | http://stream4.nadaje.com:9680/radiokrakow-s3
+Radio Krakow Nowy Sacz | http://stream3.nadaje.com:9120/radiokrakow
+Radio Krakow Sportowy | http://stream3.nadaje.com:9128/radiokrakow
+Radio Krakow Tarnow | http://stream3.nadaje.com:9118/radiokrakow
+Radio Kujawy | http://radio.kujawy.info:9940/1
+Radio Łódź | https://stream.radiolodz.toya.cloud/RadioLodz-1-HQ.ogg
+Radio Łódź Extra | http://217.113.224.171:80/RadioLodz-2-HQ.aac
+Radio Łódź Nad Wartą | http://217.113.224.171:80/RadioLodz-NW-HQ.aac
+Radio Lublin | http://www.emsoft.ct8.pl/inne/rlublin.m3u
+Radio Malbork | http://stream3.nadaje.com:9022/
+Radio Naklo | http://145.239.92.77:80/;
+Radio OFF Krakow | http://stream2.nadaje.com:13332/offradiokrakow
+Radio Olsztyn | http://olsztyn.radio.pionier.net.pl:7055/;
+Radio Opole | http://dab.radio.opole.pl:8070/1.m3u
+Radio Opole 2 Kultura | http://193.47.151.4:9000/ro2mp3
+Radio Opole 3 Sport | http://193.47.151.4:9000/ro3mp3
+Radio Opole 4 Historia | http://193.47.151.4:9000/ro4mp3
+Radio Ostrowiec | http://s1.slotex.pl:7050/stream/1/
+Radio PiK | http://stream1.radiopik.pl:9004
+Radio Płońsk | http://stream.radioplonsk.pl:9360
+Radio Pomorza i Kujaw | http://stream.radiopik.pl:9004/;
+Radio Poznań | http://stream4.nadaje.com:8578/poznan
+Radio Rzeszów | http://streaming.g-news.pl:8040/rzeszow
+Radio Silesia | https://stream.rcs.revma.com/xq23sp6fyyzuv
+Radio Słupsk | http://91.232.4.33:8240/stream
+Radio Sochaczew | http://stream2.nadaje.com:8080
+Radio Starogard | https://stream.rcs.revma.com/5wegfyrra2zuv
+Radio Sudety 24 | http://stream4.nadaje.com:15006/sudety24
+Radio Światowid | http://s1.slotex.pl:7006
+Radio Świnoujście | http://185.243.52.116:8010
+Radio Szczecin | http://stream4.nadaje.com:11986/prs.aac
+Radio Szczecin Extra | https://stream3.nadaje.com:8201/szczecinextra
+Radio Tczew | http://195.191.180.5:8000/live
+Radio Wielkopolska | http://217.182.76.63:8000/webstream
+Radio Wnet | http://audio.radiownet.pl:8000/stream
+Radio Wolna Strefa | http://91.232.4.33:8186/stream
+Radio Wrocław | http://stream4.nadaje.com:9240/prw.m3u
+Radio Wrocław Kultura | http://stream4.nadaje.com:9230/rwkultura
+Radio Września FM | http://s1.slotex.pl:7446
+Radio Zachód | http://stream02.zachod.pl:10113
+Radio Zawiercie | https://ssl-1.radiohost.pl:9078/live
+Radio Ziemi Wieluńskiej | https://stream2.nadaje.com:8023/;stream
+Radio Radom | http://stream6.nadaje.com:15292/radioradompl
+Twoje Radio Stargard | http://51.77.59.65:8100/stream.mp3
+Radio Zielona Góra | http://stream03.rzg.pl:10107/;

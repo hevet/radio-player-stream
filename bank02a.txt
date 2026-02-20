@@ -55,6 +55,8 @@ Klasyka rocka | https://ic1.smcdn.pl/6070-1.mp3
 Radio Index | http://stream.wzielonej.pl/radio/8000/1
 Eska2 Kultowe Polskie | https://ic2.smcdn.pl/6040-1.mp3
 Eska2 Polskie na czasie | https://ic2.smcdn.pl/6230-1.mp3
+VibeFM | http://ic2.smcdn.pl/6490-1.mp3
+Radio Super Express | http://ic1.smcdn.pl/6260-1.mp3
 Radio Yanosik | http://stream.rcs.revma.com/sn11544ebhuvv
 Radio Yanosik Rock | http://stream.rcs.revma.com/yghk77gym5uvv
 Radio Zet 90 | http://zt.cdn.eurozet.pl/ZET090.mp3

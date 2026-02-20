@@ -1,4 +1,3 @@
-Centrum Kalisz | http://shot2.inten.pl:8888/rcfm.mp3
 eM Katowice | http://194.181.177.253:8000/
 Katolickie Radio Rzeszów | http://62.133.128.18:8040/;
 Konin FM | http://stream2.technologicznie.net:80/konin.fm
@@ -50,7 +49,6 @@ Radio Olsztyn | http://olsztyn.radio.pionier.net.pl:7055/;
 Radio Opole | http://dab.radio.opole.pl:8070/1.m3u
 Radio Opole 2 Kultura | http://193.47.151.4:9000/ro2mp3
 Radio Ostrowiec | http://s1.slotex.pl:7050/stream/1/
-Radio PiK | http://stream1.radiopik.pl:9004
 Radio Płońsk | http://stream.radioplonsk.pl:9360
 Radio Pomorza i Kujaw | http://stream.radiopik.pl:9004/;
 Radio Poznań | http://stream4.nadaje.com:8578/poznan
@@ -98,7 +96,6 @@ Radio Bon Ton | https://streaming.inten.pl:8020/bonton.mp3
 Radio Clubbers | https://s3.slotex.pl/shoutcast/7300/stream
 Radio Costarosa | http://s1.slotex.pl:8058
 Radio Cyberstacja.fm | http://sc.cyberstacja.pl:8000/radio.mp3
-Radio Disco | https://stream.rcs.revma.com/cvswvmyewzzuv
 Radio Disco-Mix | http://radiodd.cloud:8000
 Radio Leliwa | http://stream2.nadaje.com:8054/
 Radio R.SA Italo Disco | https://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-192-8734471

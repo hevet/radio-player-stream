@@ -1,6 +1,15 @@
 Radio Zet | http://zet-net-01.cdn.eurozet.pl:8400/
+Radio Zet 80 | https://zt01.cdn.eurozet.pl/ZET080.mp3
 Radio Zeto 90s | https://zt02.cdn.eurozet.pl/ZET090.mp3
 Radio Zet Dance | http://pl01.cdn.eurozet.pl/ZETDAN.mp3
 Radio Zet Impreza | https://zt.cdn.eurozet.pl/ZETPAR.mp3
 Radio Zet Latino | https://ch.cdn.eurozet.pl/ZETLTN.mp3
 Radio Zet Po Polsku | https://zt.cdn.eurozet.pl/ZETPL1.mp3
+Radio Zet Party | https://zt01.cdn.eurozet.pl/ZETPAR.mp3
+Eska Gorąca 20 | https://ic2.smcdn.pl/6130-1.mp3
+Eska do pracy | https://ic2.smcdn.pl/6140-1.mp3
+Eska Gorąca 100 | http://ic2.smcdn.pl/6120-1.mp3
+Eska Impreska | http://ic1.smcdn.pl/6030-1.mp3
+Eska Rap 20 | http://ic1.smcdn.pl/6190-1.mp3
+Eska2 Kultowe Polskie | https://ic2.smcdn.pl/6040-1.mp3
+Eska2 Polskie na czasie | https://ic2.smcdn.pl/6230-1.mp3

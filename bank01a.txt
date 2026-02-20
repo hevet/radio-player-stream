@@ -42,6 +42,7 @@ RADIO KUJAWY | http://radio.kujawy.info:9940/;
 Radio Elka | http://live.elka.pl:8000/elkamp3
 RADIO LUZ | http://radioluz.pwr.edu.pl:8000/luzhifi.mp3
 Pro-Radio | http://radiointernetowe.net:7802/;
+Radio Szczecin | http://stream4.nadaje.com:11986/prs
 Radio Szczecin Extra | http://stream3.nadaje.com:8200/szczecinfm
 Radio 5 Suwałki | http://streaming.radio5.com.pl:8880/radio5_suwalki
 Radio 7 | http://137.74.5.240:443/;

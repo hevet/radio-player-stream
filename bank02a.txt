@@ -38,23 +38,12 @@ Radio Sygnały | http://217.173.194.62:8000/stream
 Antyradio Katowice | http://an01.cdn.eurozet.pl/ant-kat.mp3
 Radio FAMA | http://stream2.nadaje.com:8076/;stream
 Radio Kaszëbë | https://stream4.nadaje.com:10125/kaszebe128
-Eska Gorąca 20 | https://ic2.smcdn.pl/6130-1.mp3
-Eska do pracy | https://ic2.smcdn.pl/6140-1.mp3
-Eska Gorąca 100 | http://ic2.smcdn.pl/6120-1.mp3
-Eska Impreska | http://ic1.smcdn.pl/6030-1.mp3
-Eska Rap 20 | http://ic1.smcdn.pl/6190-1.mp3
 Klasyka rocka | https://ic1.smcdn.pl/6070-1.mp3
 Radio Index | http://stream.wzielonej.pl/radio/8000/1
-Eska2 Kultowe Polskie | https://ic2.smcdn.pl/6040-1.mp3
-Eska2 Polskie na czasie | https://ic2.smcdn.pl/6230-1.mp3
 VibeFM | http://ic2.smcdn.pl/6490-1.mp3
 Radio Super Express | http://ic1.smcdn.pl/6260-1.mp3
 Radio Yanosik | http://stream.rcs.revma.com/sn11544ebhuvv
 Radio Yanosik Rock | http://stream.rcs.revma.com/yghk77gym5uvv
-Radio Zet 90 | http://zt.cdn.eurozet.pl/ZET090.mp3
-Radio Zet po polsku | http://zt.cdn.eurozet.pl/ZETPL1.mp3
-Radio Zet Party | https://zt01.cdn.eurozet.pl/ZETPAR.mp3
-Radio Zet 80 | https://zt01.cdn.eurozet.pl/ZET080.mp3
 Radio Fiat | https://s3.slotex.pl:7284/stream/1/?sid=1
 Radio Żuławy | http://n0c.radiojar.com:80/q87xmtvrrg8uv
 Radio Vanessa | https://s1.slotex.pl:7358/stream/1/

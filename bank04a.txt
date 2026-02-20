@@ -93,3 +93,19 @@ Mirage Prywatka | https://ssl-1.radiohost.pl:7214
 Mirage Space | https://ssl-1.radiohost.pl:9563
 Exclusively Def Leppard | https://nl4.mystreaming.net/er/defleppard/icecast.audio
 Exclusively AC/DC | https://3.mystreaming.net/er/acdc/icecast.audio
+Radio The Zone Dublin | http://uk1.internet-radio.com:8355/
+Radio Unidisco | https://broadcast.miami/proxy/unidisco?mp=/stream/
+Radio Victoria | https://stream.v4.radiovictoria.pl:8076/
+Radio Vinyl Maxi FM | https://stream.laut.fm/vinyl-maxi-fm
+Radiodillo | https://stream.laut.fm/radiodillo
+Radiofonia | http://195.150.20.7/radiofonia
+Rock Arsenal | http://online.rockarsenal.ru:8000/rockarsenal_aacplus
+Rock Replay Radio | http://strm112.1.fm/crock_mobile_mp3
+ROKS Classic Rock | https://online.radioroks.ua/RadioROKS_ClassicRock_HD
+Smooth Jazz | https://bcast.vigormultimedia.com:48888/sjcompl320mp3
+So Cacarecos CL Rock | http://sokakarecos.ddns.net:9030/rock128
+Soma FM Drone Zone | https://somafm.com/dronezone256.pls
+Soma FM Groove Salad | https://somafm.com/groovesalad256.pls
+Soma FM Underground 80s | https://somafm.com/u80s256.pls
+Sunbeatsradio | https://stream.laut.fm/sunbeatsradio
+Unsung 80s Radio | https://unsung80s.out.airtime.pro:8000/unsung80s_a

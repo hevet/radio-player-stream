@@ -1,26 +1,3 @@
-Polskie Radio Jedynka | https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
-Polskie Radio Dwójka | https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
-Polskie Radio Trójka | https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
-Polskie Radio Czwórka | http://stream3.polskieradio.pl:8816/pr4_mp3
-Polskie Radio 24 | http://stream3.polskieradio.pl:8826/pr24_mp3
-Polskie Radio Chopin | https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
-Polskie Radio Dzieciom | https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
-Polskie Radio Kierowców | https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
-PR dla zagranicy | https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8
-PR Poland | https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
-Eska Do Pracy | http://ic1.smcdn.pl/6140-1.mp3
-Eska Gorąca 20 | http://ic1.smcdn.pl/6130-1.mp3
-Eska Impreska | http://ic1.smcdn.pl/6030-1.mp3
-Eska Rap 20 | http://ic1.smcdn.pl/6190-1.mp3
-Eska Summer City | http://ic1.smcdn.pl/6120-1.mp3
-Eska2 Disco Polo | http://ic1.smcdn.pl/6110-1.mp3
-Eska2 Dla Dzieci | http://ic1.smcdn.pl/6220-1.mp3
-Eska2 Kultowe Polskie | http://ic1.smcdn.pl/6040-1.mp3
-Eska2 Polska Impreza | http://ic1.smcdn.pl/6160-1.mp3
-Eska2 Polskie Na Czasie | http://ic1.smcdn.pl/6230-1.mp3
-Eska Rock - Klasyka Rocka | http://ic1.smcdn.pl/6070-1.mp3
-Eska Rock - Rock Ballads | http://ic1.smcdn.pl/6010-1.mp3
-Eska Rock - Polski Rock | http://ic1.smcdn.pl/6090-1.mp3
 Hi On Line Radio Classic | http://mediaserv30.live-streams.nl:8088/live
 Linn Classical | http://radio.linn.co.uk:8004/autodj
 New Classics | http://stream.klassikradio.de/newclassics/mp3-192/www.klassikradio.de/
@@ -48,54 +25,88 @@ MondoBongo | https://cast.mndbng.com/hls/mondobongo/aac_hifi.m3u8
 Radio Kultura | http://icecast.vgtrk.cdnvideo.ru/kulturafm
 RadiostART | https://radio.dyne.org/liveradiostart
 Radio Toksyna FM Classic | http://s01.toksyna.fm:8060
-Christmas | http://us9.maindigitalstream.com:7459/;
-Christmas Hope | https://stream.hopemedia.com.au/christmashope-mp3
-Christmas Radio | https://christmasradio.christmasradiogroup.com
-Christmas FM | https://christmasfm.cdnstream1.com/2547_128.mp3
-Christmas Hits 1 | http://listen.openstream.co/4726/audio
-Christmas Melody | http://s6.mediastreaming.it:9042/;
-Christmas Radio Live | http://sbouch00.radioca.st:8232/;
-Christmas R. Philippines | http://us1.amfmph.com:8888/stream
-RMF Swieta | http://195.150.20.7/rmf_swieta
-RMF - Top 30 Swieta | https://rs6-krk2.rmfstream.pl/rmf_top_30_swieta
-Soma.FM Christmas Lounge | https://ice5.somafm.com/christmas-256-mp3
-Radio Santa Claus | https://streaming.radiostreamlive.com/radiosantaclaus_devices?token=%3C?%20echo%20rand%20(1,200000);%20?%3E
-Radio North Pole | https://streaming.radiostreamlive.com/radionorthpole_devices?token=%3C?%20echo%20rand%20(1,200000);%20?%3E
-ZET Na święta | https://zt.cdn.eurozet.pl/ZETSWI.mp3
-Zet Kolędy | http://zt06.cdn.eurozet.pl/ZETKOL.mp3
-Christmas Radio INT | https://edg1-iad-gold.streamguys1.com/christmasradio?platform=website
-Christmas Evergreen | https://emg.streamguys1.com/evergreen-website
-181.FM Christmas Kountry | http://listen.livestreamingservice.com/181-xkkountry_128k.mp3
-181.FM Christmas Classics | http://listen.livestreamingservice.com/181-xtraditional_128k.mp3
-181.FM Christmas Oldies | http://listen.livestreamingservice.com/181-xoldies_128k.mp3
-181.FM Christmas Standard | http://listen.livestreamingservice.com/181-xstandards_128k.mp3
-181.FM Christmas Country | http://listen.livestreamingservice.com/181-xcountry_128k.mp3
-181.FM Christmas Power | http://listen.livestreamingservice.com/181-xpower_128k.mp3
-181.FM Christmas Highway | http://listen.livestreamingservice.com/181-xhighway_128k.mp3
-181.FM Christmas Soundtra | http://listen.livestreamingservice.com/181-xsoundtrax_128k.mp3
-181.FM Christmas R&B | http://listen.livestreamingservice.com/181-xtrue_128k.mp3
-181.FM Christmas Rock | http://listen.livestreamingservice.com/181-xrock_128k.mp3
-181.FM Christmas Mix | http://listen.livestreamingservice.com/181-xmix_128k.mp3
-181.FM Christmas Fun | http://listen.livestreamingservice.com/181-xfun_128k.mp3
-181.FM Christmas Kids | http://listen.livestreamingservice.com/181-xkids_128k.mp3
-181.FM Christmas | http://listen.livestreamingservice.com/181-xblender_128k.mp3
-181.FM Christmas Spirit | http://listen.livestreamingservice.com/181-xspirit_128k.mp3
-181.FM Christmas SmoothJa | http://listen.livestreamingservice.com/181-xsmooth_128k.mp3
-181.FM Christmas Gospel | http://listen.livestreamingservice.com/181-xgospel_128k.mp3
-181.FM Christmas Swing | http://listen.livestreamingservice.com/181-xswing_128k.mp3
-Christmas 1 | http://89.39.189.44:8000/
-Christmas 2 | http://us9.maindigitalstream.com:7459/
-Christmas FM | https://christmasfm.cdnstream1.com/2547_128.mp3
-Christmas 365 | https://us3.streamingpulse.com/ssl/7038
-Christmas FM | http://janus.cdnstream.com:5024/live
-Christmas FM - Classical | https://christmasfm.cdnstream1.com/2549_128.mp3
-Christmas Hits NL | https://stream06.dotpoint.nl:8006/stream
-Christmas Instrumentals | http://proxima.shoutca.st:8071/
-Christmas Lounge Radio | https://ice3.somafm.com/christmas-128-mp3
-Christmas Radio Live | http://s7.viastreaming.net:7000/
-Christmas Radio Live | http://sbouch00.radioca.st:8232/
-Christmas Songs Radio | https://cheetah.streemlion.com:1050/stream
-Xmas | https://live.radiostudio.be/xmasfm
-Xmasradio FM | https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3
-Antyradio X-mass | https://an.cdn.eurozet.pl/ANTXMA.mp3
-Fility Merry Christmas Ra | https://streaming.silvacast.com/XMAS.mp3
+0N 80s on Radio | http://0n-70s.radionetz.de:8000/0n-80s.mp3
+90s90s Dance | https://streams.90s90s.de/eurodance/mp3-192/
+90s90s Grunge | https://streams.90s90s.de/grunge/mp3-192/liveradio/
+90s90s Hits | https://streams.90s90s.de/pop/mp3-192/
+90s90s The BEAT | https://streams.90s90s.de/main/mp3-192/
+Bayer FM | https://streaming.radio5.com.pl:8888/bayerfm
+Classic Vinyl | https://icecast.walmradio.com:8443/classic
+Doxa FM | http://shot.inten.pl:10000/
+EL-Stacja | http://radio.el-stacja.pl:8000/elstacja320mp3
+Euro Radio | https://stream.laut.fm/euroradio
+FTB.net-Club | http://play.radioftb.net:8000
+Inne Radio | http://stream4.nadaje.com:8386/test
+Intense Radio Dance | http://secure.live-streams.nl/flac.ogg
+Katolickie Radio Rzeszow | http://62.133.128.18:8040/
+KEXP | http://live-mp3-128.kexp.org/kexp128.mp3
+Krdp FM | http://s1.slotex.pl:7762/
+Meloradio FM | https://redir.atmcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
+Minimal Mix Radio | http://orion.shoutca.st:8750
+Move Da House | http://uk7.internet-radio.com:8000/
+Muzyczne Radio | http://stream.nadaje.com:9900/
+Muzyczne Radio Best | http://stream3.nadaje.com:8600
+Nasze Radio | https://online.nasze.fm:8443/stream
+Olsztyn UWM FM | http://213.184.18.156:8000/
+Phever Media Live | http://uk1.internet-radio.com:8200/live
+Planeta FM | https://pl02.cdn.eurozet.pl/pla-net.mp3
+Polskie Radio Pink Floyd | https://stream85.polskieradio.pl/omniaaxe/k46.stream/playlist.m3u8
+POP Radio | http://stream1.popradio.pl:9000/
+Radio 1.FM All Euro 80s | https://strm112.1.fm/80s_90s_mobile_mp3
+Radio 7 | http://stream.radio7.pl:8000
+Radio 80s Forever | https://premium.shoutcastsolutions.com/radio/8050/64AAC+.mp3
+Radio 80s Mix | https://stream.laut.fm/80s-mix-radio
+Radio 80s80s | https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667
+Radio 80s80s Italo Disco | https://streams.80s80s.de/italohits/mp3-192
+Radio 80s80s Love | https://streams.80s80s.de/love/mp3-192/streams
+Radio Afera | http://poznan5-3.radio.pionier.net.pl:8000/afera.mp3
+Radio Alex | http://proxima.shoutca.st:9045/stream
+Radio Atlantic 80s | https://chasbo1978.radioca.st/stream
+Radio Biedrzychowice | http://195.164.158.230:9070
+Radio CCM | http://primary.moodyradiostream.org/radioccm
+Radio Cdis | https://stream.laut.fm/radiocdis
+Radio Chicago | https://secure1.reliastream.com/polskieradio
+Radio Chilli ZET FM | https://ch01.cdn.eurozet.pl/chi-net.mp3
+Radio Classic Rock | http://mp3.polskieradio.pl:8460
+Radio Disco | https://stream.rcs.revma.com/cvswvmyewzzuv
+Radio Disco 80 i Polo | http://s1.discoparty.pl:7432
+Radio Divertimento | http://s7.radiohost.pl:11518/stream
+Radio Doxa | http://81.210.92.213:8000/
+Radio E-Tronic FM | https://stream.laut.fm/e-tronic-fm
+Radio Elka | http://live.elka.pl:8000/elkamp3
+Radio eM | http://91.200.187.58/
+Radio Emaus | http://stream.radioemaus.pl:8000/mp3stream
+Radio Energy 106 Belfast | http://192.111.140.6:9633/stream
+Radio Eurodance 1 | https://stream.laut.fm/eurodance1
+Radio Eurodance 90 | http://www.radiart.eu:8394/autodj
+Radio Fama Kielce | http://stream2.nadaje.com:8076/
+Radio Heart 80s | https://ice-sov.musicradio.com/Heart80sMP3
+Radio Hit | http://46.170.199.85:8000
+Radio Hit Eurodance | https://streams.ffh.de/ffhchannels/mp3/hqeurodance.mp3
+Radio Imperium | https://stream.radioimperium.pl:8443/stream
+Radio Italo Disco | https://broadcast.miami/proxy/italodisco?mp=/stream2
+Radio Kultura | http://51.255.8.139:9772/stream
+Radio LEM FM | http://n13.radiojar.com/2fa0gbhr9bhvv
+Radio Love 80's | https://playoutonestreaming.com/proxy/love80s2?mp=/
+Radio Mais | https://ec5.yesstreaming.net:2120/stream
+Radio Mediehuset 3 FM | http://uk1.internet-radio.com:8150/live
+Radio Mega 80s | https://stream3.radiodienst.de/proxy/mega80s/80s
+Radio MRS | http://145.239.26.146:7494/
+Radio Music Max | http://91.232.4.33:7040/Stream1
+Radio Nadzieja | http://streaming01.technologicznie.net:8000/
+Radio Naklo | https://sluchaj.107i5.fm
+Radio Niepokalanow | http://88.199.169.10:8000/
+Radio Nuta | https://stream.rcs.revma.com/0004tehdxzzuv
+Radio Oldies FM | https://hit-1.nty.uy/stream
+Radio One Live 80s & 90s | http://91.232.4.33:8198/stream
+Radio P8 Pop | https://p8.p4groupaudio.com/P08_MH
+Radio Panorama 80 | https://stream.laut.fm/panorama80
+Radio Parada | http://stream4.nadaje.com:15274/live
+Radio Paradise Main Mix | http://stream.radioparadise.com/flac
+Radio Park FM | http://sluchaj.radiopark.com.pl:8048/
+Radio Pasja | http://91.232.4.33:8049/stream
+Radio Pasja Klubowa | http://91.232.4.33:9460/stream
+Starter FM | http://streaming.starterfm.com/radio/8010/starter192
+Starter Bangaz | http://streaming.starterfm.com/radio/8020/bangaz192
+Starter Trance | http://streaming.starterfm.com/listen/trance/starter192
+Starter FM Chilli | http://streaming.starterfm.com/radio/8050/chill192

@@ -1,6 +1,6 @@
 Radio Zet | http://zet-net-01.cdn.eurozet.pl:8400/
 Radio Zet 80 | https://zt01.cdn.eurozet.pl/ZET080.mp3
-Radio Zeto 90s | https://zt02.cdn.eurozet.pl/ZET090.mp3
+Radio Zet 90s | https://zt02.cdn.eurozet.pl/ZET090.mp3
 Radio Zet Dance | http://pl01.cdn.eurozet.pl/ZETDAN.mp3
 Radio Zet Impreza | https://zt.cdn.eurozet.pl/ZETPAR.mp3
 Radio Zet Latino | https://ch.cdn.eurozet.pl/ZETLTN.mp3

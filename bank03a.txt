@@ -69,13 +69,11 @@ Radio Słupsk | http://91.232.4.33:8240/stream
 Radio Sochaczew | http://stream2.nadaje.com:8080
 Radio Starogard | https://stream.rcs.revma.com/5wegfyrra2zuv
 Radio Sudety 24 | http://stream4.nadaje.com:15006/sudety24
-Radio Światowid | http://s1.slotex.pl:7006
 Radio Świnoujście | http://185.243.52.116:8010
 Radio Szczecin | http://stream4.nadaje.com:11986/prs.aac
 Radio Szczecin Extra | https://stream3.nadaje.com:8201/szczecinextra
 Radio Tczew | http://195.191.180.5:8000/live
 Radio Wielkopolska | http://217.182.76.63:8000/webstream
-Radio Wnet | http://audio.radiownet.pl:8000/stream
 Radio Wolna Strefa | http://91.232.4.33:8186/stream
 Radio Wrocław | http://stream4.nadaje.com:9240/prw.m3u
 Radio Wrocław Kultura | http://stream4.nadaje.com:9230/rwkultura

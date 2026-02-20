@@ -1,85 +1,133 @@
-0N 80s on Radio | http://0n-70s.radionetz.de:8000/0n-80s.mp3
-90s90s Dance | https://streams.90s90s.de/eurodance/mp3-192/
-90s90s Grunge | https://streams.90s90s.de/grunge/mp3-192/liveradio/
-90s90s Hits | https://streams.90s90s.de/pop/mp3-192/
-90s90s The BEAT | https://streams.90s90s.de/main/mp3-192/
-Bayer FM | https://streaming.radio5.com.pl:8888/bayerfm
-Classic Vinyl | https://icecast.walmradio.com:8443/classic
-Doxa FM | http://shot.inten.pl:10000/
-EL-Stacja | http://radio.el-stacja.pl:8000/elstacja320mp3
-Euro Radio | https://stream.laut.fm/euroradio
-FTB.net-Club | http://play.radioftb.net:8000
-Inne Radio | http://stream4.nadaje.com:8386/test
-Intense Radio Dance | http://secure.live-streams.nl/flac.ogg
-Katolickie Radio Rzeszow | http://62.133.128.18:8040/
-KEXP | http://live-mp3-128.kexp.org/kexp128.mp3
-Krdp FM | http://s1.slotex.pl:7762/
-Meloradio FM | https://redir.atmcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
-Minimal Mix Radio | http://orion.shoutca.st:8750
-Move Da House | http://uk7.internet-radio.com:8000/
-Muzyczne Radio | http://stream.nadaje.com:9900/
-Muzyczne Radio Best | http://stream3.nadaje.com:8600
-Nasze Radio | https://online.nasze.fm:8443/stream
-Olsztyn UWM FM | http://213.184.18.156:8000/
-Phever Media Live | http://uk1.internet-radio.com:8200/live
-Planeta FM | https://pl02.cdn.eurozet.pl/pla-net.mp3
-Polskie Radio Pink Floyd | https://stream85.polskieradio.pl/omniaaxe/k46.stream/playlist.m3u8
-POP Radio | http://stream1.popradio.pl:9000/
-Radio 1.FM All Euro 80s | https://strm112.1.fm/80s_90s_mobile_mp3
-Radio 7 | http://stream.radio7.pl:8000
-Radio 80s Forever | https://premium.shoutcastsolutions.com/radio/8050/64AAC+.mp3
-Radio 80s Mix | https://stream.laut.fm/80s-mix-radio
-Radio 80s80s | https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667
-Radio 80s80s Italo Disco | https://streams.80s80s.de/italohits/mp3-192
-Radio 80s80s Love | https://streams.80s80s.de/love/mp3-192/streams
-Radio Afera | http://poznan5-3.radio.pionier.net.pl:8000/afera.mp3
-Radio Alex | http://proxima.shoutca.st:9045/stream
-Radio Atlantic 80s | https://chasbo1978.radioca.st/stream
-Radio Biedrzychowice | http://195.164.158.230:9070
-Radio CCM | http://primary.moodyradiostream.org/radioccm
-Radio Cdis | https://stream.laut.fm/radiocdis
-Radio Chicago | https://secure1.reliastream.com/polskieradio
-Radio Chilli ZET FM | https://ch01.cdn.eurozet.pl/chi-net.mp3
-Radio Classic Rock | http://mp3.polskieradio.pl:8460
-Radio Disco | https://stream.rcs.revma.com/cvswvmyewzzuv
-Radio Disco 80 i Polo | http://s1.discoparty.pl:7432
-Radio Divertimento | http://s7.radiohost.pl:11518/stream
-Radio Doxa | http://81.210.92.213:8000/
-Radio E-Tronic FM | https://stream.laut.fm/e-tronic-fm
-Radio Elka | http://live.elka.pl:8000/elkamp3
-Radio eM | http://91.200.187.58/
-Radio Emaus | http://stream.radioemaus.pl:8000/mp3stream
-Radio Energy 106 Belfast | http://192.111.140.6:9633/stream
-Radio Eurodance 1 | https://stream.laut.fm/eurodance1
-Radio Eurodance 90 | http://www.radiart.eu:8394/autodj
-Radio Fama Kielce | http://stream2.nadaje.com:8076/
-Radio Heart 80s | https://ice-sov.musicradio.com/Heart80sMP3
-Radio Hit | http://46.170.199.85:8000
-Radio Hit Eurodance | https://streams.ffh.de/ffhchannels/mp3/hqeurodance.mp3
-Radio Imperium | https://stream.radioimperium.pl:8443/stream
-Radio Italo Disco | https://broadcast.miami/proxy/italodisco?mp=/stream2
-Radio Kultura | http://51.255.8.139:9772/stream
-Radio LEM FM | http://n13.radiojar.com/2fa0gbhr9bhvv
-Radio Love 80's | https://playoutonestreaming.com/proxy/love80s2?mp=/
-Radio Mais | https://ec5.yesstreaming.net:2120/stream
-Radio Mediehuset 3 FM | http://uk1.internet-radio.com:8150/live
-Radio Mega 80s | https://stream3.radiodienst.de/proxy/mega80s/80s
-Radio MRS | http://145.239.26.146:7494/
-Radio Music Max | http://91.232.4.33:7040/Stream1
-Radio Nadzieja | http://streaming01.technologicznie.net:8000/
-Radio Naklo | https://sluchaj.107i5.fm
-Radio Niepokalanow | http://88.199.169.10:8000/
-Radio Nuta | https://stream.rcs.revma.com/0004tehdxzzuv
-Radio Oldies FM | https://hit-1.nty.uy/stream
-Radio One Live 80s & 90s | http://91.232.4.33:8198/stream
-Radio P8 Pop | https://p8.p4groupaudio.com/P08_MH
-Radio Panorama 80 | https://stream.laut.fm/panorama80
-Radio Parada | http://stream4.nadaje.com:15274/live
+BDPST Rock Radio | http://s2.audiostream.hu/bdpstrock_FLAC
+Youventus Radio | http://s2.audiostream.hu/juventus_FLAC
+Roxy Radio | http://s2.audiostream.hu/roxy_FLAC
+Danubius Radio | https://danubiusradio.hu/live_HiFi
+Danubius Radio | https://danubiusradio.hu/live_HiFi.mp3
+Progressieve Rock | https://progressieverock.nl:8443/flac
+Radio Linn Mix1 | http://streams.radiomast.io/d0105650-c51c-4842-ae39-f97b329acd2a?token=UU9QJvCG
+Radio Linn Mix2 | http://streams.radiomast.io/4482dfb3-d502-42ef-8184-fc56b0f3ed44?token=UU9QJvCG
+Radio Linn Dreams | http://streams.radiomast.io/1769696b-ae90-417f-b007-584c1b6edef8?token=UU9QJvCG
+Radio Linn Gems | http://streams.radiomast.io/71cb1023-3c47-4c06-847d-5b15a3ddefee?token=UU9QJvCG
+Radio Linn Smooth | http://streams.radiomast.io/1614c7bc-e84e-4f64-8d22-1226d17cd681?token=UU9QJvCG
+Naim Radio | https://mscp3.live-streams.nl:8362/flac.flac
+Naim Classical | https://mscp3.live-streams.nl:8252/class-flac.flac
+Naim Jazz | http://mscp3.live-streams.nl:8340/jazz-flac.flac
+Rondo Classic Klasu Pro | https://iradio.fi/klasupro.flac
+Rondo Classic Klasu | https://iradio.fi/klasu.flac
+Dance Wave | http://dancewave.online/dance.flac.ogg
+Dance Wave Retro! | http://retro.dancewave.online/retrodance.flac.ogg
+Radio Paradise Global Mix | http://stream.radioparadise.com/global-flac
 Radio Paradise Main Mix | http://stream.radioparadise.com/flac
-Radio Park FM | http://sluchaj.radiopark.com.pl:8048/
-Radio Pasja | http://91.232.4.33:8049/stream
-Radio Pasja Klubowa | http://91.232.4.33:9460/stream
-Starter FM | http://streaming.starterfm.com/radio/8010/starter192
-Starter Bangaz | http://streaming.starterfm.com/radio/8020/bangaz192
-Starter Trance | http://streaming.starterfm.com/listen/trance/starter192
-Starter FM Chilli | http://streaming.starterfm.com/radio/8050/chill192
+Radio Paradise Mellow Mix | http://stream.radioparadise.com/mellow-flac
+Radio Paradise Rock Mix | http://stream.radioparadise.com/rock-flac
+Radio Paradise 2050 | http://stream.radioparadise.com/radio2050-flac
+Futura.FM | https://futura.fm/stream.ogg?ts=1699656027.325
+Sweet FM | http://stream.sweetfm.fr:8000/dab-forever-lms
+ForEver La Radio-Bordeaux | http://stream.sweetfm.fr:8000/flac-forever-bdx
+ForEver La Radio-Arcachon | http://stream.sweetfm.fr:8000/flac-forever-arc
+95bFM | https://streams.95bfm.com/stream112
+C9 Radio | https://stream.c9.fr/c9radio-flac.ogg.m3u
+Calamar Rradio | http://www.calamarrradio.org:8000/stream
+60North Radio | http://r5.zetcast.net/flac
+Club Retro Hits Radio | http://v4.tustreaming.cl:18156/stream
+Dance Classics Radio | http://vriezenet.nl:11051/dcflac
+DHECTAR Radio | http://manager.dhectar.fr:1300/stream
+Djam Radio | https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
+Frequence 3 | https://frequence3.net-radio.fr/frequence3.flac
+Frequence 3 - Loir-et-Che | https://frequence3.net-radio.fr/frequence3-fm41.flac
+Frequence 3-Touraine | https://frequence3.net-radio.fr/frequence3-fm37.flac
+Frequence 3 Dance | https://frequence3.net-radio.fr/frequence3dance.flac
+Frequence 3 Gold | https://frequence3.net-radio.fr/frequence3gold.flac
+Frequence 3 Urban | https://frequence3.net-radio.fr/frequence3urban.flac
+Frequence 3 World | https://frequence3.net-radio.fr/frequence3world.flac
+H2O Radio | http://ice2.ikoula.net-radio.fr/h2oradio.flac
+Haarlem Shuffle Radio | https://stream.tbmp.nl:8000/haarlemshuffle.flac
+Incondicionalmente Retro | http://v4.tustreaming.cl:18128/stream
+Insanity Radio | https://stream.cor.insanityradio.com/insanity.flac
+Intense Radio | http://secure.live-streams.nl/flac.flac
+JB Radio-2 | https://mediacp.jb-radio.net:8001/flac
+Joy Hits | http://joyhits.online/joyhits.flac.ogg
+Le Bon Mix | https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
+Le Son Parisien | http://stream.lesonparisien.com/live.flac
+openbroadcast | http://stream.openbroadcast.ch/16bit.flac
+Open Sky Radio | https://audio.opensky.radio:8082/flac?_res_tag_=audio
+Pi ano | http://stream.p-node.org/piano.flac
+Punkrockers Radio | https://stream.punkrockers-radio.de:8443/prr.flac
+Radio Blues Flac | https://streams.radiomast.io/radioblues-flac
+Radio G! | http://46.105.110.80:8000/fluxradiogHD
+Radio Jeunes Rheims | http://stream.rjrradio.fr:8000/rjr-dab.flac
+Radio Kemonia | http://kemoniastreaming2.net:8060/stream
+Radio Random | http://radiorandom.org:8000/WBJM-FLAC
+Radio Remusica | http://v4.tustreaming.cl:18144/stream
+Radio Sputnik | https://radiosputnik.nl:8443/flac
+Zappa Stream Radio | https://streams.norbert.de/zappa.flac
+BIG BANG RADIO HQ | https://audio-edge-cmc51.fra.h.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
+TrancePulse | https://stream.trance.ie/tpmixes
+High Fi Dream Radio | https://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq
+VFR '80s Thrash | https://tuneintoradio1.com/listen/vfr_80s/stream.flac
+VFR General Thrash | https://tuneintoradio1.com/listen/violent_forces_radio/stream.flac
+TEKnival Radio | https://listen.teknivalradio.com/listen/teknivalradio/radio.flac
+Magic Radio | https://mp3.magic-radio.net/flac
+Czech Radio CRo D-dur | http://amp.cesnet.cz:8000/cro-d-dur.flac
+Czech Radio CRo Jazz | http://amp.cesnet.cz:8000/cro-jazz.flac
+Czech Radio CRo Wave | http://amp.cesnet.cz:8000/cro-radio-wave.flac
+Czech Radio CRo Vltava | http://amp.cesnet.cz:8000/cro3.flac
+RadioSEGA | http://icecast.radiosega.net/rs-flac.ogg
+Smoothjazz.com.pl | http://bcast.vigormultimedia.com:8888/sjcomplflac
+SUN-Le Son Unique | http://diffusion.lafrap.fr/sun.flac
+Radio Sing Sing | http://stream.sing-sing-bis.org:8000/singsingFlac
+AIDAradio | http://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
+Sveriges Radio P2 | http://edge2.sr.se/p2-flac
+BluesWave Radio | https://blueswave.radio:8100/FlacBlues
+Bailrigg 95.3FM | http://bfm-live.lancs.ac.uk/listen/bfm/flac
+Radio Bias | https://admin.biasradio.com/radio/8000/flac
+Caribbean Variety Mix | https://online.jamminvibezradio.com/listen/caribbean/live.flac
+Distorsion FM | http://radioemisoras.cl/distorsion.flac
+Radio Bergeijk | http://stream.radiobergeijk.nl/listen/radio_bergeijk/flac
+Classic Vinyl HD | http://icecast.walmradio.com:8000/classic_opus
+Radio Pluz | http://www.pluz.com.ar:8020/live.opus
+Intense R.- We love Dance | http://secure.live-streams.nl/opus.opus
+Campus 3 | http://stream.campus3.fr/studio.opus
+Klara Jazz | http://icecast.err.ee/klarajazz.opus
+Klara Nostalgia | http://icecast.err.ee/klaranostalgia.opus
+Klassikaraadio | http://icecast.err.ee/klassikaraadio.opus
+YellowTealPurple | http://yellowtealpurple.net:8000/stream
+Chillout | http://xfer.hirschmilch.de:8000/chillout.opus
+Verket opus | http://mustafejen.se:8000/verket.opus
+Radio Siberia | http://emisoras.dip-badajoz.es:8239/stream
+Prog House | http://xfer.hirschmilch.de:8000/prog-house.opus
+AURAL Radio | http://radio.auralradiokerala.com:1320/stream
+Haarlem 105 | http://studio.haarlem105.nl:8000/haarlem105DAB.flac?_res_tag_=audio
+Hi On Line Radio | http://mscp2.live-streams.nl:8100/flac.flac
+SEKO Radio | http://isekoi-radio.com/listen/isekoi/radio.flac
+SEKO Ambient | http://isekoi-radio.com/listen/ambient/ambientradio.flac
+SEKO Chill Zone | http://isekoi-radio.com/listen/chill/radio.flac
+Kiss Collector | http://live7.avf.ch:8000/kisscollector_main
+Lux Radio | http://live7.avf.ch/lux_main
+PureClassix Radio | http://mscp4.live-streams.nl:8140/flac.ogg
+Radio Campus Grenoble | https://live.campusgrenoble.org/dab
+Radio Haugaland | http://radioip.no:443/flac
+Radio Juventus | http://s2.audiostream.hu:8090/juventus_FLAC
+Radio Mast | https://streams.radiomast.io/ref-lossless-ogg-flac-stereo
+Radio Tornagaleones | http://tornagaleones.ddns.net:9000/Flac
+RIO Radio Inter. Odivelas | http://c30.radioboss.fm:8510/autodj
+RockStar Radio | http://live7.avf.ch:8000/rockstar_main
+Sing Sing | http://stream.sing-sing-bis.org:8000/singsingFlac
+SUN | http://diffusion.lafrap.fr:8000/sun.flac
+The Cheese | https://station.thecheese.co.nz/listen/the_cheese/flac
+URBN Radio | http://live7.avf.ch:8000/urbn_main
+Violent Forces Radio | https://tuneintoradio1.com:8000/stream.flac
+Violent Forces Radio (alt) | https://tuneintoradio1.com:8010/stream.flac
+Yes FM | http://live7.avf.ch:8000/yesfm_main
+Free Music Radio | http://stream.freemusicradio.nl:8100/stream.oga
+LapFox Radio | https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+MaXXima | http://maxxima.mine.nu:8000/maxx.ogg
+Pure Lounge Radio | https://mscp4.live-streams.nl:8142/lounge.ogg
+Radio Calico | http://radio3.radio-calico.com:8080/calico
+Radio Calico (Roon) | http://roon.radio-calico.com:8000/roon
+Radio Radar – House | https://radioradar.online/listen/r_house/r_house.ogg
+Radio X | https://mp3.radiox.ch/standard.ogg
+Rlocale Radio | https://rlocale.org/listen/rlocale/rlocale-flac.ogg
+shadowfr69 Radio | https://radio.shadowfr69.eu/lossless
+TNM Radio | https://stream.tnm-radio.eu/ultra
+Riverside Radio | https://stream.and-stuff.nl:8443/riverside

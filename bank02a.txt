@@ -31,11 +31,7 @@ Radio Horyzont | http://s1.slotex.pl:7328/;
 UJOT FM | http://stream.ujot.fm:80/
 Radio Derf - Blue Rock | http://178.19.96.111:8013/;
 Radio Wielkopolska | http://217.182.76.63:8000/webstream
-ZET Koledy | http://zt02.cdn.eurozet.pl:80/ZETKOL.mp3
-ZET na Swieta | http://zt02.cdn.eurozet.pl:80/ZETSWI.mp3
-RMF FM Top 30 Swieta | http://195.150.20.242:8000/rmf_top_30_swieta
 Radio Alex | http://srv0.streamradiowy.eu:80/radioalex
-RMF24.pl | http://rmfstream1.interia.pl:80/rmf_24
 Radio Toruń | https://ssl-1.radiohost.pl:11512/stream
 Radio 1.7 | http://emisja.radio17.pl:8000/R17
 Radio Sygnały | http://217.173.194.62:8000/stream
@@ -47,7 +43,6 @@ Eska do pracy | https://ic2.smcdn.pl/6140-1.mp3
 Eska Gorąca 100 | http://ic2.smcdn.pl/6120-1.mp3
 Eska Impreska | http://ic1.smcdn.pl/6030-1.mp3
 Eska Rap 20 | http://ic1.smcdn.pl/6190-1.mp3
-Radio Alex | http://rmfstream1.interia.pl:80/radio_alex
 Klasyka rocka | https://ic1.smcdn.pl/6070-1.mp3
 Radio Index | http://stream.wzielonej.pl/radio/8000/1
 Eska2 Kultowe Polskie | https://ic2.smcdn.pl/6040-1.mp3

@@ -1,4 +1,3 @@
-eM Katowice | http://194.181.177.253:8000/
 Katolickie Radio Rzeszów | http://62.133.128.18:8040/;
 Konin FM | http://stream2.technologicznie.net:80/konin.fm
 Off Radio Kraków | http://stream4.nadaje.com:13332/offradiokrakow
@@ -28,7 +27,6 @@ Radio Alex | http://srv0.streamradiowy.eu/radioalex
 Radio Gorzów | http://stream02.radiogorzow.pl:10115
 Radio Istebna | http://s1.slotex.pl:7870
 Radio Jura | http://streams.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
-Radio Kaszebe | http://stream3.nadaje.com:8048
 Radio Katowice | http://stream4.nadaje.com:9212/radiokatowice
 Radio Katowice Moje Radio | https://stream4.nadaje.com:8497/katowice_c
 Radio Kielce Folk | http://gra.radio.kielce.pl:8000/frmp3
@@ -81,20 +79,15 @@ Radio 80 | http://91.232.4.33:9305/stream
 Radio Afera | http://150.254.3.10:80/afera128.mp3
 Radio Akcja | https://s3.slotex.pl/shoutcast/7586/stream
 Radio Akord | http://s1.slotex.pl:7122
-Radio Alex | http://proxima.shoutca.st:9045/stream
 Radio Anime24 | http://91.232.4.33:7028/Stream1
 Radio AOi | http://54.37.73.148:8000/stream
 Radio Apogeum | http://s1.slotex.pl:7512
 Radio Arkadia | http://s3.slotex.pl:7450
-Radio Banita Maxx | https://ssl-1.radiohost.pl:9454
-Radio Baobab | http://stream.radiobaobab.pl:8000/radiobaobab.mp3
+Radio Banita Maxx | https://ssl-1.radiohost.pl:94543
 Radio Bayer FM | https://streaming.radio5.com.pl:8888/bayerfm
 Radio Beat | https://s3.slotex.pl/shoutcast/7816/stream
-Radio Beauty | https://s3.slotex.pl/shoutcast/7464/stream
 Radio Bezpieczna Podroz | https://ssl-1.radiohost.pl:9162/live
 Radio Bon Ton | https://streaming.inten.pl:8020/bonton.mp3
-Radio Clubbers | https://s3.slotex.pl/shoutcast/7300/stream
-Radio Costarosa | http://s1.slotex.pl:8058
 Radio Cyberstacja.fm | http://sc.cyberstacja.pl:8000/radio.mp3
 Radio Disco-Mix | http://radiodd.cloud:8000
 Radio Leliwa | https://streaming.g-news.pl:8050/leliwa?1605899747

@@ -97,6 +97,6 @@ Radio Clubbers | https://s3.slotex.pl/shoutcast/7300/stream
 Radio Costarosa | http://s1.slotex.pl:8058
 Radio Cyberstacja.fm | http://sc.cyberstacja.pl:8000/radio.mp3
 Radio Disco-Mix | http://radiodd.cloud:8000
-Radio Leliwa | http://stream2.nadaje.com:8054/
+Radio Leliwa | https://streaming.g-news.pl:8050/leliwa?1605899747
 Radio R.SA Italo Disco | https://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-192-8734471
 Radio Safira | https://stream12.hosterion.pl/stream/safira

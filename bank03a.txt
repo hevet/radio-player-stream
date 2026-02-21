@@ -4,7 +4,6 @@ Off Radio Kraków | http://stream4.nadaje.com:13332/offradiokrakow
 Olsztyn UWM FM | http://213.184.18.156:8000/
 Opatow | http://stream2.nadaje.com:11144
 Plock FM | https://stream.rcs.revma.com/6qvcy46wmc9uv
-PR Bialystok | http://stream4.nadaje.com:15476/radiobialystok
 PR Opole | http://dab.radio.opole.pl:8035/1
 PR Zachód | http://stream02.zachod.pl:10113/;
 Pro-Radio Zgierz | http://radiointernetowe.net:7802
@@ -44,11 +43,9 @@ Radio Lublin | http://www.emsoft.ct8.pl/inne/rlublin.m3u
 Radio Malbork | http://stream3.nadaje.com:9022/
 Radio OFF Krakow | http://stream2.nadaje.com:13332/offradiokrakow
 Radio Olsztyn | http://olsztyn.radio.pionier.net.pl:7055/;
-Radio Opole | http://dab.radio.opole.pl:8070/1.m3u
 Radio Opole 2 Kultura | http://193.47.151.4:9000/ro2mp3
 Radio Ostrowiec | http://s1.slotex.pl:7050/stream/1/
 Radio Płońsk | http://stream.radioplonsk.pl:9360
-Radio Pomorza i Kujaw | http://stream.radiopik.pl:9004/;
 Radio Poznań | http://stream4.nadaje.com:8578/poznan
 Radio Rzeszów | http://streaming.g-news.pl:8040/rzeszow
 Radio Silesia | https://stream.rcs.revma.com/xq23sp6fyyzuv
@@ -62,7 +59,6 @@ Radio Wolna Strefa | http://91.232.4.33:8186/stream
 Radio Wrocław | http://stream4.nadaje.com:9240/prw.m3u
 Radio Wrocław Kultura | http://stream4.nadaje.com:9230/rwkultura
 Radio Września FM | http://s1.slotex.pl:7446
-Radio Zachód | http://stream02.zachod.pl:10113
 Radio Zawiercie | https://ssl-1.radiohost.pl:9078/live
 Radio Ziemi Wieluńskiej | https://stream2.nadaje.com:8023/;stream
 Radio Radom | http://stream6.nadaje.com:15292/radioradompl

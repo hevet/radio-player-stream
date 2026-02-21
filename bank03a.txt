@@ -1,87 +1,32 @@
-Katolickie Radio Rzeszów | http://62.133.128.18:8040/;
-Off Radio Kraków | http://stream4.nadaje.com:13332/offradiokrakow
-Olsztyn UWM FM | http://213.184.18.156:8000/
-Radio Opatów | http://stream2.nadaje.com:11144
-Plock FM | https://stream.rcs.revma.com/6qvcy46wmc9uv
-PR Opole | http://dab.radio.opole.pl:8035/1
-Pro-Radio Zgierz | http://radiointernetowe.net:7802
-Radio Andrychów | http://s1.slotex.pl:7424
-Radio Bielsko | https://stream.rcs.revma.com/062uq3z3kwzuv
-Radio Bogoria | http://s7.radiohost.pl:6050/
-Radio Centrum Kalisz | http://shot2.inten.pl:8888/rcfm.mp3
-Radio Centrum Lublin | https://stream12.hosterion.pl/stream/akademickieradiocentrum
-Radio Centrum Rzeszów | http://62.93.41.27:8000
-Radio Dla Ciebie Płock | http://stream4.nadaje.com:14006/plock
-Radio Żuławy | http://stream.radiojar.com/q87xmtvrrg8uv
-Radio Elka Głogów | http://live.elka.pl:8000/miedziowe.pl
-Radio Elka Leszno | http://live.elka.pl:8000/elka
-Radio Extra Szczecin | http://stream3.nadaje.com:8200/szczecinfm
-Radio Fama Kielce | http://stream2.nadaje.com:8076/
-Radio Gdańsk | http://stream.task.gda.pl:8000/rg1
-Radio Gdynia | http://51.255.8.139:8064/stream
-Radio Gniezno | http://stream3.nadaje.com:8012
-Radio Alex | http://srv0.streamradiowy.eu/radioalex
-Radio Gorzów | http://stream02.radiogorzow.pl:10115
-Radio Istebna | http://s1.slotex.pl:7870
-Radio Jura | http://streams.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
-Radio Katowice | http://stream4.nadaje.com:9212/radiokatowice
-Radio Katowice Moje Radio | https://stream4.nadaje.com:8497/katowice_c
-Radio Kielce Folk | http://gra.radio.kielce.pl:8000/frmp3
-Radio Kołobrzeg | http://194.24.244.11:8000/;
-Radio Koszalin | http://s0.radiohost.pl:8240/;
-Radio Krakow | http://stream4.nadaje.com:9680/radiokrakow-s3
-Radio Krakow Nowy Sacz | http://stream3.nadaje.com:9120/radiokrakow
-Radio Krakow Sportowy | http://stream3.nadaje.com:9128/radiokrakow
-Radio Krakow Tarnow | http://stream3.nadaje.com:9118/radiokrakow
-Radio Łódź | https://stream.radiolodz.toya.cloud/RadioLodz-1-HQ.ogg
-Radio Łódź Extra | http://217.113.224.171:80/RadioLodz-2-HQ.aac
-Radio Łódź Nad Wartą | http://217.113.224.171:80/RadioLodz-NW-HQ.aac
-Radio Lublin | http://www.emsoft.ct8.pl/inne/rlublin.m3u
-Radio Malbork | http://stream3.nadaje.com:9022/
-Radio OFF Krakow | http://stream2.nadaje.com:13332/offradiokrakow
-Radio Olsztyn | http://olsztyn.radio.pionier.net.pl:7055/;
-Radio Opole 2 Kultura | http://193.47.151.4:9000/ro2mp3
-Radio Ostrowiec | http://s1.slotex.pl:7050/stream/1/
-Radio Płońsk | http://stream.radioplonsk.pl:9360
-Radio Poznań | http://stream4.nadaje.com:8578/poznan
-Radio Rzeszów | http://streaming.g-news.pl:8040/rzeszow
-Radio Silesia | https://stream.rcs.revma.com/xq23sp6fyyzuv
-Radio Słupsk | http://91.232.4.33:8240/stream
-Radio Sochaczew | http://stream2.nadaje.com:8080
-Radio Starogard | https://stream.rcs.revma.com/5wegfyrra2zuv
-Radio Sudety 24 | http://stream4.nadaje.com:15006/sudety24
-Radio Świnoujście | http://185.243.52.116:8010
-Radio Tczew | http://195.191.180.5:8000/live
-Radio Wolna Strefa | http://91.232.4.33:8186/stream
-Radio Wrocław | http://stream4.nadaje.com:9240/prw.m3u
-Radio Wrocław Kultura | http://stream4.nadaje.com:9230/rwkultura
-Radio Września FM | http://s1.slotex.pl:7446
-Radio Zawiercie | https://ssl-1.radiohost.pl:9078/live
-Radio Ziemi Wieluńskiej | https://stream2.nadaje.com:8023/;stream
-Radio Radom | http://stream6.nadaje.com:15292/radioradompl
-Twoje Radio Stargard | http://51.77.59.65:8100/stream.mp3
-Dark Radio | http://dark.sh/mp3
-EL Stacja | http://radio.el-stacja.pl:8000/elstacja320mp3
-Muzyczne Radio | https://stream.rcs.revma.com/gzwc1xcq042vv
-Radio 1.7 | http://emisja.radio17.pl:8000/R17
-Radio 4 Music | http://s1.slotex.pl:7102
-Radio 5 | https://streaming.radio5.com.pl:8888/radio5suwalki
-Radio 7 | http://stream.radio7.pl:443
-Radio 7 Toronto | https://s4.radio.co/s1b687cf20/low
-Radio 80 | http://91.232.4.33:9305/stream
-Radio Afera | http://150.254.3.10:80/afera128.mp3
-Radio Akcja | https://s3.slotex.pl/shoutcast/7586/stream
-Radio Akord | http://s1.slotex.pl:7122
-Radio Anime24 | http://91.232.4.33:7028/Stream1
-Radio AOi | http://54.37.73.148:8000/stream
-Radio Apogeum | http://s1.slotex.pl:7512
-Radio Arkadia | http://s3.slotex.pl:7450
-Radio Banita Maxx | https://ssl-1.radiohost.pl:94543
-Radio Bayer FM | https://streaming.radio5.com.pl:8888/bayerfm
-Radio Beat | https://s3.slotex.pl/shoutcast/7816/stream
-Radio Bon Ton | https://streaming.inten.pl:8020/bonton.mp3
-Radio Cyberstacja.fm | http://sc.cyberstacja.pl:8000/radio.mp3
-Radio Disco-Mix | http://radiodd.cloud:8000
-Radio Leliwa | https://streaming.g-news.pl:8050/leliwa?1605899747
-Radio R.SA Italo Disco | https://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-192-8734471
-Radio Safira | https://stream12.hosterion.pl/stream/safira
+201. Radio Poznań | http://stream4.nadaje.com:8578/poznan
+202. Radio Rzeszów | http://streaming.g-news.pl:8040/rzeszow
+203. Radio Słupsk | http://91.232.4.33:8240/stream
+204. Radio Świnoujście | http://185.243.52.116:8010
+205. Radio Tczew | http://195.191.180.5:8000/live
+206. Radio Września FM | http://s1.slotex.pl:7446
+207. Radio Ziemi Wieluńskiej | https://stream2.nadaje.com:8023/stream
+208. Radio Radom | http://stream6.nadaje.com:15292/radioradompl
+209. Twoje Radio Stargard | http://51.77.59.65:8100/stream.mp3
+210. Dark Radio | http://dark.sh/mp3
+211. Radio 4 Music | http://s1.slotex.pl:7102
+212. Radio 7 Toronto | https://s4.radio.co/s1b687cf20/low
+213. Radio 80 | http://91.232.4.33:9305/stream
+214. Radio Akcja | https://s3.slotex.pl/shoutcast/7586/stream
+215. Radio Akord | http://s1.slotex.pl:7122
+216. Radio Anime24 | http://91.232.4.33:7028/Stream1
+217. Radio AOi | http://54.37.73.148:8000/stream
+218. Radio Apogeum | http://s1.slotex.pl:7512
+219. Radio Arkadia | http://s3.slotex.pl:7450
+220. Radio Beat | https://s3.slotex.pl/shoutcast/7816/stream
+221. Radio Bon Ton | https://streaming.inten.pl:8020/bonton.mp3
+222. Radio Cyberstacja.fm | http://sc.cyberstacja.pl:8000/radio.mp3
+223. Radio Disco-Mix | http://radiodd.cloud:8000
+224. Radio Leliwa | https://streaming.g-news.pl:8050/leliwa
+225. Radio R.SA Italo Disco | https://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-192-8734471
+226. Radio Safira | https://stream12.hosterion.pl/stream/safira
+227. Radio Słupsk Pasja | http://mp3.radioslupsk.pl:8049/stream2
+228. Muzyka Relaksacyjna | http://mp3.radioslupsk.pl:8102/stream2
+229. Radio Pasja Chillout | http://mp3.radioslupsk.pl:8108/stream2
+230. Radio Pasja Dance | http://s0.radiohost.pl:9466/stream2
+231. Radio Pasja Klubowa | http://s0.radiohost.pl:9460/stream2
+232. Radio Pasja Pop | http://s0.radiohost.pl:8084/stream2

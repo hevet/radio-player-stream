@@ -2,10 +2,10 @@ Jedynka | http://stream3.polskieradio.pl:8900/
 Dwójka | http://stream3.polskieradio.pl:8902/
 Trójka | http://stream3.polskieradio.pl:8904/
 Czwórka | http://stream3.polskieradio.pl:8906/
-Polskie Radio 24 | http://stream3.polskieradio.pl:8826/pr24_mp3
-Polskie Radio Chopin | https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
-Polskie Radio Dzieciom | https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
-Polskie Radio Kierowców | https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+PR 24 | http://stream3.polskieradio.pl:8826/pr24_mp3
+PR Chopin | https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
+PR Dzieciom | https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
+PR Kierowców | https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
 PR dla zagranicy | https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8
 PR Poland | https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
 Radio Zet | http://zet-net-01.cdn.eurozet.pl:8400/

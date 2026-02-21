@@ -14,7 +14,7 @@ Radio Trendy | http://stream.trendyradio.pl:8000/h
 Radio Konin | http://stream2.technologicznie.net:80/konin.fm
 Hit Radio | http://51.255.8.139:9090/stream
 Akademickie Radio Index | https://stream.wzielonej.pl:8000/2
-Radio bezpieczna podroz | https://ssl-1.radiohost.pl:9162/;
+Radio bezpieczna podróż | https://ssl-1.radiohost.pl:9162/;
 Radio ZET 2000 | http://zt03.cdn.eurozet.pl/ZET200.mp3?redirected=03
 skladankinetpl | http://s1.slotex.pl:7488/;
 Radio Doxa | http://81.210.92.213:8000/play.mp3
@@ -48,16 +48,7 @@ Radio Fiat | https://s3.slotex.pl:7284/stream/1/?sid=1
 Radio Żuławy | http://n0c.radiojar.com:80/q87xmtvrrg8uv
 Radio Vanessa | https://s1.slotex.pl:7358/stream/1/
 Radio Warmii i Mazur | http://rostr1.radioolsztyn.pl:8000/RWiM
-BBC - Radio 1 | http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
-BBC - Radio 1Xtra | http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8
-BBC - Radio 1Dance | http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.norewind.m3u8
-BBC - Radio 2 | http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
-BBC - Radio 3 | http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
-BBC - Radio 4 | http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
-BBC - Radio 5 live | http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8
-BBC - Radio 6 Music | http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 Radio Gorzów | http://stream02.zachod.pl:10121/rg-20kbps.aac
-Radio bezpieczna podróż | https://ssl-1.radiohost.pl:9162/;
 Rock Serwis FM | http://stream9.nadaje.com:8002/live
 Radio na Stoku | http://sluchaj.link:8000/nastoku
 Norda FM | http://94.177.253.77:8001/relay_AAC_320

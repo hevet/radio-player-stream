@@ -49,47 +49,6 @@ PARTY VIBE-AMBIENT | http://94.130.242.5:8056/stream
 Radio Pasja Chill | http://91.232.4.33:8108/stream2
 Radio Pasja Relaks | http://91.232.4.33:8102/stream2
 Radio Jazz FM | https://radiojazz.out.airtime.pro/radiojazz_a
-113.fm - Alt Nation | https://113fm-atunwadigital.streamguys1.com/1001
-113.fm - Area 51 | https://113fm-edge2.cdnstream.com/1774_128
-113.fm - Awesome 80s | https://113fm-atunwadigital.streamguys1.com/1003
-113.fm - Awesome 80s-1981 | https://113fm-edge2.cdnstream.com/1742_128
-113.fm - Awesome 80s-1982 | https://113fm-edge2.cdnstream.com/1750_128
-113.fm - Awesome 80s-1983 | https://113fm-edge2.cdnstream.com/1753_128
-113.fm - Awesome 80s-1984 | https://113fm-edge2.cdnstream.com/1745_128
-113.fm - Awesome 80s-1985 | https://113fm-edge2.cdnstream.com/1747_128
-113.fm - Awesome 80s-1986 | https://113fm-edge2.cdnstream.com/1751_128
-113.fm - Awesome 80s-1987 | https://113fm-edge2.cdnstream.com/1761_128
-113.fm - Awesome 80s-1988 | https://113fm-edge2.cdnstream.com/1760_128
-113.fm - Awesome 80s-1989 | https://streaming.live365.com/a75607
-113.fm - BigKickinCountry | https://113fm-atunwadigital.streamguys1.com/1004
-113.fm - Bluesville | https://113fm-edge2.cdnstream.com/1816_128
-113.fm - BPM | https://113fm-edge1.cdnstream.com/1736_128
-113.fm - Chill Zone | https://113fm-atunwadigital.streamguys1.com/1007
-113.fm - Classic One | https://113fm-edge2.cdnstream.com/1864_128
-113.fm - Coffee House | https://113fm-edge2.cdnstream.com/1728_128
-113.fm - Electrolux | https://113fm-edge1.cdnstream.com/1787_128
-113.fm - Elevator | https://113fm-atunwadigital.streamguys1.com/1010
-113.fm - Energy | https://113fm-edge2.cdnstream.com/1741_128
-113.fm - Flashback | https://113fm-edge1.cdnstream.com/1771_128
-113.fm - Free Bird | https://113fm-edge2.cdnstream.com/1748_128
-113.fm - Highway | https://113fm-edge1.cdnstream.com/1721_128
-113.fm - Hits 2 K | https://113fm-edge2.cdnstream.com/1812_128
-113.fm - Hits 2015 | https://113fm-edge2.cdnstream.com/1744_128
-113.fm - Hitz UK | https://113fm-edge2.cdnstream.com/1778_128
-113.fm - Indie Nation | https://113fm-edge2.cdnstream.com/1814_128
-113.fm - Jitterbug | https://113fm-edge2.cdnstream.com/1785_128
-113.fm - Korean Pop | https://113fm-edge2.cdnstream.com/1789_128
-113.fm - Lovers Lane | https://113fm-atunwadigital.streamguys1.com/1050
-113.fm - Mistletoe | https://113fm-edge2.cdnstream.com/1867_128
-113.fm - Pop 2 K USA | https://113fm-edge1.cdnstream.com/1737_128
-113.fm - Power | https://113fm-edge1.cdnstream.com/1730_128
-113.fm - Relive | https://113fm-edge2.cdnstream.com/1797_128
-113.fm - Retro | https://113fm-atunwadigital.streamguys1.com/1056
-113.fm - Retro USA | https://113fm-edge2.cdnstream.com/1722_128
-113.fm - Revolution USA | https://113fm-edge2.cdnstream.com/1723_128
-113.fm - Route 66 | https://113fm-edge2.cdnstream.com/1755_128
-113.fm - Salsa | https://113fm-edge2.cdnstream.com/1798_128
-113.fm - Star USA | https://113fm-edge2.cdnstream.com/1727_128
 Nature Radio Sleep | https://stream.zeno.fm/kju0gtjeei3uv
 Nature Radio RAIN | https://maggie.torontocast.com:8108/
 Nature white noise | https://stream.zeno.fm/vg54x7r1exhvv

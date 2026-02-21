@@ -21,9 +21,6 @@ Radio Wolna Strefa | http://91.232.4.33:8186/stream
 Radio Bogoria 94,5 FM | https://ssl-1.radiohost.pl:6050/mp3
 Radio Ty i Ja - Szczecin | http://91.232.4.33:8868/Stream1
 Radio Kampus | https://stream.radiokampus.fm/kampus
-Antyradio Ballady | http://an.cdn.eurozet.pl:80/ANTBAL.mp3
-Antyradio Hard | http://an.cdn.eurozet.pl:80/ANTHAR.mp3
-Antyradio Greatest | https://an01.cdn.eurozet.pl/ANTGRE.mp3
 Radio Horyzont | http://s1.slotex.pl:7328/
 UJOT FM | http://stream.ujot.fm:80/
 Radio Derf - Blue Rock | http://178.19.96.111:8013/
@@ -96,5 +93,5 @@ Radio Łódź Extra | http://217.113.224.171:80/RadioLodz-2-HQ.aac
 Radio Łódź Nad Wartą | http://217.113.224.171:80/RadioLodz-NW-HQ.aac
 Radio Lublin | http://www.emsoft.ct8.pl/inne/rlublin.m3u
 Radio Malbork | http://stream3.nadaje.com:9022/
-Radio Olsztyn | http://olsztyn.radio.pionier.net.pl:7055/
+Radio Olsztyn | https://rostr1.radioolsztyn.pl:8443/RO
 Radio Płońsk | http://stream.radioplonsk.pl:9360

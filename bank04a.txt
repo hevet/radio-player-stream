@@ -28,3 +28,13 @@ Eska '10 | http://ic1.smcdn.pl/6170-1.mp3
 Eska '20 | http://ic1.smcdn.pl/6240-1.mp3
 Eska2 Kultowe Polskie | https://ic2.smcdn.pl/6040-1.mp3
 Eska2 Polskie na czasie | https://ic2.smcdn.pl/6230-1.mp3
+Antyradio Ballads | https://an.cdn.eurozet.pl/ANTBAL.mp3
+Antyradio Classic Roc | https://an.cdn.eurozet.pl/ANTCLA.mp3
+Antyradio Covers | https://an.cdn.eurozet.pl/ANTCOV.mp3
+Antyradio Greatest | https://an.cdn.eurozet.pl/ANTGRE.mp3
+Antyradio Hard | https://an.cdn.eurozet.pl/ANTHAR.mp3
+Antyradio Live | https://an.cdn.eurozet.pl/ANTLIV.mp3
+Antyradio Made in Pol | https://an.cdn.eurozet.pl/ANTPOL.mp3
+Antyradio Makak | https://an.cdn.eurozet.pl/ANTMAK.mp3
+Antyradio Unplugged | https://an.cdn.eurozet.pl/ANTUNP.mp3
+Antyradio Woodstock | https://an.cdn.eurozet.pl/ANTWOD.mp3

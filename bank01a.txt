@@ -26,12 +26,7 @@ Jedynka | http://stream3.polskieradio.pl:8900/
 Dwójka | http://stream3.polskieradio.pl:8902/
 Trójka | http://stream3.polskieradio.pl:8904/
 Czwórka | http://stream3.polskieradio.pl:8906/
-Polskie Radio 24 | http://stream3.polskieradio.pl:8826/pr24_mp3
-Polskie Radio Chopin | https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
-Polskie Radio Dzieciom | https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
-Polskie Radio Kierowców | https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
-PR dla zagranicy | https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8
-PR Poland | https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
+PR 24 | http://stream3.polskieradio.pl:8080/
 RADIO PIK | http://stream.radiopik.pl:9004/;
 RDC | http://stream2.nadaje.com:11140/rdc
 ANTYRADIO | http://an01.cdn.eurozet.pl/ant-waw.mp3

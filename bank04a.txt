@@ -1,7 +1,7 @@
 Jedynka | http://stream3.polskieradio.pl:8900/
 Dwójka | http://stream3.polskieradio.pl:8902/
 Trójka | http://stream3.polskieradio.pl:8904/
-Czwórka | http://stream3.polskieradio.pl:8906/
+Czwórka | http://stream3.polskieradio.pl:8080/
 PR 24 | http://stream3.polskieradio.pl:8826/pr24_mp3
 PR Chopin | https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
 PR Dzieciom | https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8

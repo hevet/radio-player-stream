@@ -1,4 +1,4 @@
-Radio Poznań | http://stream4.nadaje.com:8578/poznan
+Radio Poznań | https://stream4.nadaje.com:8579/poznan_aac
 Radio Rzeszów | http://streaming.g-news.pl:8040/rzeszow
 Radio Słupsk | http://91.232.4.33:8240/stream
 Radio Świnoujście | http://185.243.52.116:8010

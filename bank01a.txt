@@ -95,6 +95,6 @@ Twoja Polska Stacja | https://sluchaj2.radiopark.biz.pl:8443/tpsapp
 Planeta | http://pa04.cdn.eurozet.pl:80/pla-net.mp3?redirected=04
 Radio 357 | http://n25a-eu.rcs.revma.com:80/an1ugyygzk8uv
 Radio Nowy Świat | http://n13a-eu.rcs.revma.com/ypqt40u0x1zuv
-Radio Łódź | http://217.113.224.171:80/RadioLodz-1-HQ.aac
+Radio Łódź | http://217.113.224.171/RadioLodz-1.mp3
 Radio eM Katowice | http://194.181.177.253:8000/
 Trendy Radio Chojnice | http://stream.trendyradio.pl:8000/h

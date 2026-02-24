@@ -91,6 +91,7 @@ RMF Top 30 Pop | http://195.150.20.7/rmf_top_5_pop
 RMF Top 30 Święta | http://195.150.20.7/rmf_top_30_swieta
 RMF Top 2021 Disco Polo | http://195.150.20.7/rmf_top2
 RMF Trend Sounds | http://195.150.20.7/rmf_trend_sounds
+RMF Vibe | http://rs203-krk.rmfstream.pl/VIBE
 RMF W Kuchni | http://195.150.20.7/rmf_w_kuchni
 RMF W Pracy | http://195.150.20.7/rmf_w_pracy
 RMF Wakacyjne Top 100 | http://195.150.20.7/rmf_top4

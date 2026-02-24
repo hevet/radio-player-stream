@@ -2,7 +2,6 @@ Agaune Radio | http://ecmanager3.pro-fhi.net:2640/stream
 Sky Radio 101 FM | https://27753.live.streamtheworld.com/SKYRADIO.mp3
 Chaos Radio | http://5.135.177.61:8000/;stream/1
 Classixx | http://www.clubfmserver.be:8000/classixxdab.mp3
-DB9009-TX | http://2240.cloudrad.io:8120/live
 Double XX | http://manager.conceptradio.fr:2120/stream
 Euphoric Trip Radio | http://cheetah.streemlion.com:4780/stream
 FUNKY RADIO | http://funkyradio.streamingmedia.it:8001/play.mp3

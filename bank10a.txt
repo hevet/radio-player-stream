@@ -88,3 +88,4 @@ RADIO NOSTALGIE | http://master.net-radio.fr:80/nostalgie-tuner37.mp3
 Radio Paradise World | https://stream.radioparadise.com/world-etc-320
 Phever Media Live | http://uk1.internet-radio.com:8200/live
 Test | https://edge24.streamonkey.net/antthue-mitte?aggregator=rewrite/stream.antennethueringen.de/
+Distorsion FM | https://tunein.radiomaniacos.cl/distorsion.mp3

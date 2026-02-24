@@ -95,3 +95,4 @@ Radio Lublin | http://www.emsoft.ct8.pl/inne/rlublin.m3u
 Radio Malbork | http://stream3.nadaje.com:9022/
 Radio Olsztyn | https://rostr1.radioolsztyn.pl:8443/RO
 Radio Płońsk | http://stream.radioplonsk.pl:9360
+Radio Marconi - RM24 | https://stream12.hosterion.pl/stream/radiomarconi

@@ -37,14 +37,11 @@ RMF Dla Dzieci | http://195.150.20.7/rmf_baby
 RMF Fitness | http://195.150.20.7/rmf_fitness
 RMF Fitness Rock | http://195.150.20.7/rmf_fitness_rock
 RMF Francais | http://195.150.20.7/rmf_francais
-RMF Fresh 2021 | http://195.150.20.7/rmf_top
-RMF Funk | http://195.150.20.7/rmf_funk
 RMF Game Music | http://195.150.20.7/rmf_gamemusic
 RMF Gold | http://195.150.20.7/rmf_gold
 RMF Grunge | http://195.150.20.7/rmf_grunge
 RMF Hard & Heavy | http://195.150.20.7/rmf_hard_heavy
 RMF Hip Hop | http://195.150.20.7/rmf_hip_hop
-RMF Hity Wakacji 2021 | http://195.150.20.7/rmf_top3
 RMF Hop-Bec | http://195.150.20.7/rmf_hop_bec
 RMF Hot New | http://195.150.20.7/rmf_hot_new
 RMF Koledy | http://195.150.20.7/rmf_koledy
@@ -69,7 +66,7 @@ RMF Polski Rock | http://195.150.20.7/rmf_polski_rock
 RMF Polskie Przeboje | http://195.150.20.7/rmf_polskie_przeboje
 RMF Poplista | http://195.150.20.7/rmf_poplista
 RMF PRL | http://195.150.20.7/rmf_prl
-RMF Przebój Roku 2021 | http://195.150.20.7/rmf_przeboj_roku
+RMF Przebój Roku | http://195.150.20.7/rmf_przeboj_roku
 RMF Queen | http://195.150.20.7/rmf_queen
 RMF R&B | http://195.150.20.7/rmf_rnb
 RMF Reggae | http://195.150.20.7/rmf_reggae
@@ -94,7 +91,10 @@ RMF Trend Sounds | http://195.150.20.7/rmf_trend_sounds
 RMF Vibe | http://195.150.20.7/rmf_vibe
 RMF W Kuchni | http://195.150.20.7/rmf_w_kuchni
 RMF W Pracy | http://195.150.20.7/rmf_w_pracy
-RMF Wakacyjne Top 100 | http://195.150.20.7/rmf_top4
+RMF TOP | http://195.150.20.7/rmf_top
+RMF TOP2 | http://195.150.20.7/rmf_top2
+RMF TOP3 | http://195.150.20.7/rmf_top3
+RMF TOP4 | http://195.150.20.7/rmf_top4
 RMF TOP5 | http://195.150.20.7/rmf_top5
 RMF TOP6 | http://195.150.20.7/rmf_top6
 RMF TOP7 | http://195.150.20.7/rmf_top7

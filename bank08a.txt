@@ -51,17 +51,14 @@ Le Bon Mix | https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audi
 Le Son Parisien | http://stream.lesonparisien.com/live.flac
 openbroadcast | http://stream.openbroadcast.ch/16bit.flac
 Open Sky Radio | https://audio.opensky.radio:8082/flac?_res_tag_=audio
-Pi ano | http://stream.p-node.org/piano.flac
 Punkrockers Radio | https://stream.punkrockers-radio.de:8443/prr.flac
 Radio Blues Flac | https://streams.radiomast.io/radioblues-flac
 Radio G! | http://46.105.110.80:8000/fluxradiogHD
 Radio Jeunes Rheims | http://stream.rjrradio.fr:8000/rjr-dab.flac
-Radio Kemonia | http://kemoniastreaming2.net:8060/stream
 Radio Random | http://radiorandom.org:8000/WBJM-FLAC
 Radio Remusica | http://v4.tustreaming.cl:18144/stream
 Radio Sputnik | https://radiosputnik.nl:8443/flac
 Zappa Stream Radio | https://streams.norbert.de/zappa.flac
-BIG BANG RADIO HQ | https://audio-edge-cmc51.fra.h.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
 TrancePulse | https://stream.trance.ie/tpmixes
 High Fi Dream Radio | https://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq
 VFR '80s Thrash | https://tuneintoradio1.com/listen/vfr_80s/stream.flac
@@ -131,3 +128,4 @@ Rlocale Radio | https://rlocale.org/listen/rlocale/rlocale-flac.ogg
 shadowfr69 Radio | https://radio.shadowfr69.eu/lossless
 TNM Radio | https://stream.tnm-radio.eu/ultra
 Riverside Radio | https://stream.and-stuff.nl:8443/riverside
+Radio 90FM Valencia | https://stream.radio90.fm:2002/stream

@@ -2,7 +2,6 @@ BDPST Rock Radio | http://s2.audiostream.hu/bdpstrock_FLAC
 Youventus Radio | http://s2.audiostream.hu/juventus_FLAC
 Roxy Radio | http://s2.audiostream.hu/roxy_FLAC
 Danubius Radio | https://danubiusradio.hu/live_HiFi
-Danubius Radio | https://danubiusradio.hu/live_HiFi.mp3
 Progressieve Rock | https://progressieverock.nl:8443/flac
 Radio Linn Mix1 | http://streams.radiomast.io/d0105650-c51c-4842-ae39-f97b329acd2a?token=UU9QJvCG
 Radio Linn Mix2 | http://streams.radiomast.io/4482dfb3-d502-42ef-8184-fc56b0f3ed44?token=UU9QJvCG

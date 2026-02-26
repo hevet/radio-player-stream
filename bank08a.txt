@@ -30,7 +30,7 @@ Calamar Rradio | http://www.calamarrradio.org:8000/stream
 60North Radio | http://r5.zetcast.net/flac
 Club Retro Hits Radio | http://v4.tustreaming.cl:18156/stream
 Dance Classics Radio | http://vriezenet.nl:11051/dcflac
-DHECTAR Radio | http://manager.dhectar.fr:1300/stream
+DHECTAR Radio | https://manager.dhectar.fr:1080/stream
 Djam Radio | https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
 Frequence 3 | https://frequence3.net-radio.fr/frequence3.flac
 Frequence 3 - Loir-et-Che | https://frequence3.net-radio.fr/frequence3-fm41.flac
@@ -86,12 +86,10 @@ Campus 3 | http://stream.campus3.fr/studio.opus
 Klara Jazz | http://icecast.err.ee/klarajazz.opus
 Klara Nostalgia | http://icecast.err.ee/klaranostalgia.opus
 Klassikaraadio | http://icecast.err.ee/klassikaraadio.opus
-YellowTealPurple | http://yellowtealpurple.net:8000/stream
 Chillout | http://xfer.hirschmilch.de:8000/chillout.opus
 Verket opus | http://mustafejen.se:8000/verket.opus
 Radio Siberia | http://emisoras.dip-badajoz.es:8239/stream
 Prog House | http://xfer.hirschmilch.de:8000/prog-house.opus
-AURAL Radio | http://radio.auralradiokerala.com:1320/stream
 Haarlem 105 | http://studio.haarlem105.nl:8000/haarlem105DAB.flac?_res_tag_=audio
 Hi On Line Radio | http://mscp2.live-streams.nl:8100/flac.flac
 SEKO Radio | http://isekoi-radio.com/listen/isekoi/radio.flac
@@ -104,7 +102,7 @@ Radio Campus Grenoble | https://live.campusgrenoble.org/dab
 Radio Haugaland | http://radioip.no:443/flac
 Radio Juventus | http://s2.audiostream.hu:8090/juventus_FLAC
 Radio Mast | https://streams.radiomast.io/ref-lossless-ogg-flac-stereo
-Radio Tornagaleones | http://tornagaleones.ddns.net:9000/Flac
+Radio Tornagaleones | http://tornagaleones.ddns.net:9000/stream
 RIO Radio Inter. Odivelas | http://c30.radioboss.fm:8510/autodj
 RockStar Radio | http://live7.avf.ch:8000/rockstar_main
 Sing Sing | http://stream.sing-sing-bis.org:8000/singsingFlac
@@ -115,7 +113,7 @@ Violent Forces Radio | https://tuneintoradio1.com:8000/stream.flac
 Violent Forces Radio (alt) | https://tuneintoradio1.com:8010/stream.flac
 Yes FM | http://live7.avf.ch:8000/yesfm_main
 Free Music Radio | http://stream.freemusicradio.nl:8100/stream.oga
-LapFox Radio | https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+LapFox Radio | https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg
 MaXXima | http://maxxima.mine.nu:8000/maxx.ogg
 Pure Lounge Radio | https://mscp4.live-streams.nl:8142/lounge.ogg
 Radio Calico | http://radio3.radio-calico.com:8080/calico
@@ -127,3 +125,4 @@ shadowfr69 Radio | https://radio.shadowfr69.eu/lossless
 TNM Radio | https://stream.tnm-radio.eu/ultra
 Riverside Radio | https://stream.and-stuff.nl:8443/riverside
 Radio 90FM Valencia | https://stream.radio90.fm:2002/stream
+Pure Radio Holland: Dance | https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_dance_channel/flac

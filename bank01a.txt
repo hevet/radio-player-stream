@@ -3,7 +3,7 @@ RMF MAXXX | http://rmfstream1.interia.pl:80/rmf_maxxx_byd
 RMF CLASSIC | http://rmfstream1.interia.pl:80//rmf_classic
 Radio Gra Toruń | http://217.74.72.6:80/radio_gra
 Radio ZET | http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ZET.mp3
-ChiliZET | https://playerservices.streamtheworld.com/api/livestream-redirect/CHILLI.mp3
+ChiliZET | http://playerservices.streamtheworld.com/api/livestream-redirect/CHILLI.mp3
 Meloradio | http://playerservices.streamtheworld.com/api/livestream-redirect/MELORADIO.mp3
 Radio Hit Włocławek | http://46.170.199.85:8000/
 Mega Radio | http://stream.rcs.revma.com/q18ty3qhwzzuv

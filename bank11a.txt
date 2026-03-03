@@ -595,6 +595,3 @@ Pure Radio Holland: Dance | https://streamserver.pure-isp.eu/listen/pure_radio_h
 181.FM Super 70s | http://listen.livestreamingservice.com/181-70s_128k.mp3
 181.FM Awesome 80s | http://listen.livestreamingservice.com/181-awesome80s_128k.mp3
 181.FM Lite 80s | http://listen.livestreamingservice.com/181-lite80s_128k.mp3
-181.FM 80's Country | http://listen.livestreamingservice.com/181-80scountry_128k.mp3
-181.FM 80's RnB | http://listen.livestreamingservice.com/181-80srnb_128k.mp3
-181.FM 80's Lite RnB | http://listen.livestreamingservice.com/181-80sliternb_128k.mp3

@@ -32,13 +32,13 @@ Club Retro Hits Radio | http://v4.tustreaming.cl:18156/stream
 Dance Classics Radio | http://vriezenet.nl:11051/dcflac
 DHECTAR Radio | https://manager.dhectar.fr:1080/stream
 Djam Radio | https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
-Frequence 3 | https://frequence3.net-radio.fr/frequence3.flac
-Frequence 3 - Loir-et-Che | https://frequence3.net-radio.fr/frequence3-fm41.flac
-Frequence 3-Touraine | https://frequence3.net-radio.fr/frequence3-fm37.flac
-Frequence 3 Dance | https://frequence3.net-radio.fr/frequence3dance.flac
-Frequence 3 Gold | https://frequence3.net-radio.fr/frequence3gold.flac
-Frequence 3 Urban | https://frequence3.net-radio.fr/frequence3urban.flac
-Frequence 3 World | https://frequence3.net-radio.fr/frequence3world.flac
+Frequence 3 | http://frequence3.net-radio.fr/frequence3.flac
+Frequence 3 - Loir-et-Che | http://frequence3.net-radio.fr/frequence3-fm41.flac
+Frequence 3-Touraine | http://frequence3.net-radio.fr/frequence3-fm37.flac
+Frequence 3 Dance | http://frequence3.net-radio.fr/frequence3dance.flac
+Frequence 3 Gold | http://frequence3.net-radio.fr/frequence3gold.flac
+Frequence 3 Urban | http://frequence3.net-radio.fr/frequence3urban.flac
+Frequence 3 World | http://frequence3.net-radio.fr/frequence3world.flac
 H2O Radio | http://ice2.ikoula.net-radio.fr/h2oradio.flac
 Haarlem Shuffle Radio | https://stream.tbmp.nl:8000/haarlemshuffle.flac
 Incondicionalmente Retro | http://v4.tustreaming.cl:18128/stream

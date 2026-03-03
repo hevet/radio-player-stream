@@ -230,3 +230,10 @@ Radio Pasja Klubowa | http://s0.radiohost.pl:9460/stream2
 Radio Pasja Pop | http://s0.radiohost.pl:8084/stream2
 Radio Niepokalanów | http://88-199-169-10.tktelekom.pl:7600/rn.mp3
 Radio Nadzieja | https://stream2.technologicznie.net/radio_nadzieja.mp3
+Frequence 3 | http://frequence3.net-radio.fr/frequence3.flac
+Frequence 3 - Loir-et-Che | http://frequence3.net-radio.fr/frequence3-fm41.flac
+Frequence 3-Touraine | http://frequence3.net-radio.fr/frequence3-fm37.flac
+Frequence 3 Dance | http://frequence3.net-radio.fr/frequence3dance.flac
+Frequence 3 Gold | http://frequence3.net-radio.fr/frequence3gold.flac
+Frequence 3 Urban | http://frequence3.net-radio.fr/frequence3urban.flac
+Frequence 3 World | http://frequence3.net-radio.fr/frequence3world.flac

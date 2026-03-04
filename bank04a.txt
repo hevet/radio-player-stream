@@ -29,16 +29,18 @@ Eska '20 | http://ic1.smcdn.pl/6240-1.mp3
 Eska2 Kultowe Polskie | http://ic2.smcdn.pl/6040-1.mp3
 Eska2 Polskie na czasie | http://ic2.smcdn.pl/6230-1.mp3
 Eska2 Gorąca Polska 20 | http://ic2.smcdn.pl/6110-1.mp3
-Antyradio Ballads | https://an.cdn.eurozet.pl/ANTBAL.mp3
-Antyradio Classic Rock | https://an.cdn.eurozet.pl/ANTCLA.mp3
-Antyradio Covers | https://an.cdn.eurozet.pl/ANTCOV.mp3
-Antyradio Greatest | https://an.cdn.eurozet.pl/ANTGRE.mp3
-Antyradio Hard | https://an.cdn.eurozet.pl/ANTHAR.mp3
-Antyradio Live | https://an.cdn.eurozet.pl/ANTLIV.mp3
-Antyradio Made in Poland | https://an.cdn.eurozet.pl/ANTPOL.mp3
-Antyradio Makak | https://an.cdn.eurozet.pl/ANTMAK.mp3
-Antyradio Unplugged | https://an.cdn.eurozet.pl/ANTUNP.mp3
-Antyradio Woodstock | https://an.cdn.eurozet.pl/ANTWOD.mp3
+Eska2 Naj. Polskie Hity | http://ic2.smcdn.pl/1980-1.mp3
+Eska2 Dla dzieci | http://ic2.smcdn.pl/6220-1.mp3
+Antyradio Ballads | http://an.cdn.eurozet.pl/ANTBAL.mp3
+Antyradio Classic Rock | http://an.cdn.eurozet.pl/ANTCLA.mp3
+Antyradio Covers | http://an.cdn.eurozet.pl/ANTCOV.mp3
+Antyradio Greatest | http://an.cdn.eurozet.pl/ANTGRE.mp3
+Antyradio Hard | http://an.cdn.eurozet.pl/ANTHAR.mp3
+Antyradio Live | http://an.cdn.eurozet.pl/ANTLIV.mp3
+Antyradio Made in Poland | http://an.cdn.eurozet.pl/ANTPOL.mp3
+Antyradio Makak | http://an.cdn.eurozet.pl/ANTMAK.mp3
+Antyradio Unplugged | http://an.cdn.eurozet.pl/ANTUNP.mp3
+Antyradio Woodstock | http://an.cdn.eurozet.pl/ANTWOD.mp3
 Yanosik Rock | http://n24a-eu.rcs.revma.com/whxxccsdp7uvv
 Yanosik EDM | http://n34a-eu.rcs.revma.com/s4exa6c6y33vv
 Yanosik Love | http://n26a-eu.rcs.revma.com/8fqn8rr6ktuvv

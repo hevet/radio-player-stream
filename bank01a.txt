@@ -197,3 +197,83 @@ Radio Płońsk | http://stream.radioplonsk.pl:9360
 Radio Marconi - RM24 | https://stream12.hosterion.pl/stream/radiomarconi
 Radio Nadzieja | https://s5.radio.co/s34fca8455/listen
 Radio Niepokalanów | http://88-199-169-10.tktelekom.pl:7600/rn.mp3
+Radio Poznań | https://stream4.nadaje.com:8579/poznan_aac
+Radio Rzeszów | http://streaming.g-news.pl:8040/rzeszow
+Radio Słupsk | http://91.232.4.33:8240/stream
+Radio Świnoujście | http://185.243.52.116:8010
+Radio Tczew | http://195.191.180.5:8000/live
+Radio Września FM | http://s1.slotex.pl:7446
+Radio Ziemi Wieluńskiej | https://stream2.nadaje.com:8023/;stream
+Radio Radom | http://stream6.nadaje.com:15292/radioradompl
+Twoje Radio Stargard | http://51.77.59.65:8100/stream.mp3
+Dark Radio | http://dark.sh/mp3
+Radio 4 Music | http://s1.slotex.pl:7102
+Radio 7 Toronto | https://s4.radio.co/s1b687cf20/low
+Radio 80 | http://91.232.4.33:9305/stream
+Radio Akcja | https://s3.slotex.pl/shoutcast/7586/stream
+Radio Akord | http://s1.slotex.pl:7122
+Radio Anime24 | http://91.232.4.33:7028/Stream1
+Radio AOi | http://54.37.73.148:8000/stream
+Radio Apogeum | http://s1.slotex.pl:7512
+Radio Arkadia | http://s3.slotex.pl:7450
+Radio Beat | https://s3.slotex.pl/shoutcast/7816/stream
+Radio Bon Ton | https://streaming.inten.pl:8020/bonton.mp3
+Radio Cyberstacja.fm | http://sc.cyberstacja.pl:8000/radio.mp3
+Radio Disco-Mix | http://radiodd.cloud:8000
+Radio Leliwa | https://streaming.g-news.pl:8050/leliwa
+Radio R.SA Italo Disco | https://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-192-8734471
+Radio Safira | https://stream12.hosterion.pl/stream/safira
+Radio Pasja | http://mp3.radioslupsk.pl:8049/stream2
+Muzyka Relaksacyjna | http://mp3.radioslupsk.pl:8102/stream2
+Radio Pasja Chillout | http://mp3.radioslupsk.pl:8108/stream2
+Radio Pasja Dance | http://s0.radiohost.pl:9466/stream2
+Radio Pasja Klubowa | http://s0.radiohost.pl:9460/stream2
+Radio Pasja Pop | http://s0.radiohost.pl:8084/stream2
+Jedynka | http://stream3.polskieradio.pl:8900/
+Dwójka | http://stream3.polskieradio.pl:8902/
+Trójka | http://stream3.polskieradio.pl:8904/
+Czwórka | http://stream3.polskieradio.pl:8906/
+PR 24 | http://stream3.polskieradio.pl:8080/
+PR Chopin | https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8
+PR Dzieciom | https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8
+PR Kierowców | https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+PR dla zagranicy | https://stream85.polskieradio.pl/pr5/pr5_wsch.sdp/playlist.m3u8
+PR Poland | https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
+Radio Zet | http://zet-net-01.cdn.eurozet.pl:8400/
+Radio Zet 80 | https://zt01.cdn.eurozet.pl/ZET080.mp3
+Radio Zet 90s | https://zt02.cdn.eurozet.pl/ZET090.mp3
+Radio Zet Dance | http://pl01.cdn.eurozet.pl/ZETDAN.mp3
+Radio Zet Impreza | https://zt.cdn.eurozet.pl/ZETPAR.mp3
+Radio Zet Latino | https://ch.cdn.eurozet.pl/ZETLTN.mp3
+Radio Zet Po Polsku | https://zt.cdn.eurozet.pl/ZETPL1.mp3
+Radio Zet Party | https://zt01.cdn.eurozet.pl/ZETPAR.mp3
+Eska Tylko Nowe | https://ic2.smcdn.pl/6050-1.mp3
+Eska Gorąca 20 | https://ic2.smcdn.pl/6130-1.mp3
+Eska do pracy | https://ic2.smcdn.pl/6140-1.mp3
+Eska Gorąca 100 | http://ic2.smcdn.pl/6120-1.mp3
+Eska Impreska | http://ic1.smcdn.pl/6030-1.mp3
+Eska Rap 20 | http://ic1.smcdn.pl/6190-1.mp3
+Eska Love | http://ic1.smcdn.pl/6250-1.mp3
+Eska '00 | http://ic1.smcdn.pl/6160-1.mp3
+Eska '10 | http://ic1.smcdn.pl/6170-1.mp3
+Eska '20 | http://ic1.smcdn.pl/6240-1.mp3
+Eska2 Kultowe Polskie | http://ic2.smcdn.pl/6040-1.mp3
+Eska2 Polskie na czasie | http://ic2.smcdn.pl/6230-1.mp3
+Eska2 Gorąca Polska 20 | http://ic2.smcdn.pl/6110-1.mp3
+Eska2 Naj. Polskie Hity | http://ic2.smcdn.pl/1980-1.mp3
+Eska2 Dla dzieci | http://ic2.smcdn.pl/6220-1.mp3
+Antyradio Ballads | http://an.cdn.eurozet.pl/ANTBAL.mp3
+Antyradio Classic Rock | http://an.cdn.eurozet.pl/ANTCLA.mp3
+Antyradio Covers | http://an.cdn.eurozet.pl/ANTCOV.mp3
+Antyradio Greatest | http://an.cdn.eurozet.pl/ANTGRE.mp3
+Antyradio Hard | http://an.cdn.eurozet.pl/ANTHAR.mp3
+Antyradio Live | http://an.cdn.eurozet.pl/ANTLIV.mp3
+Antyradio Made in Poland | http://an.cdn.eurozet.pl/ANTPOL.mp3
+Antyradio Makak | http://an.cdn.eurozet.pl/ANTMAK.mp3
+Antyradio Unplugged | http://an.cdn.eurozet.pl/ANTUNP.mp3
+Antyradio Woodstock | http://an.cdn.eurozet.pl/ANTWOD.mp3
+Yanosik Rock | http://n24a-eu.rcs.revma.com/whxxccsdp7uvv
+Yanosik EDM | http://n34a-eu.rcs.revma.com/s4exa6c6y33vv
+Yanosik Love | http://n26a-eu.rcs.revma.com/8fqn8rr6ktuvv
+Yanosik Road | http://n08a-eu.rcs.revma.com/4r4nzs58rquvv
+Yanosik 80s | http://n02a-eu.rcs.revma.com/uwey4ye0gfcwv

@@ -206,6 +206,7 @@ Radio Września FM | http://s1.slotex.pl:7446
 Radio Ziemi Wieluńskiej | https://stream2.nadaje.com:8023/;stream
 Radio Radom | http://stream6.nadaje.com:15292/radioradompl
 Twoje Radio Stargard | http://51.77.59.65:8100/stream.mp3
+Włocławek po polsku | http://radio.kujawy.info:10140/1
 Dark Radio | http://dark.sh/mp3
 Radio 4 Music | http://s1.slotex.pl:7102
 Radio 7 Toronto | https://s4.radio.co/s1b687cf20/low

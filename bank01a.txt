@@ -1,5 +1,5 @@
 RMF FM | http://rmfstream1.interia.pl:80/rmf_fm
-RMF MAXXX | http://rmfstream1.interia.pl:80/rmf_maxxx_byd
+RMF MAXX | http://rmfstream1.interia.pl:80/rmf_maxxx_byd
 RMF CLASSIC | http://rmfstream1.interia.pl:80//rmf_classic
 Radio Gra Toruń | http://217.74.72.6:80/radio_gra
 Radio ZET | http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ZET.mp3
@@ -17,7 +17,7 @@ Złote Przeboje Bydgoszcz | http://radiostream.pl/tuba8902-1.mp3
 Rock FM Bydgoszcz | http://217.182.76.63:8000/rfmweb
 Rock Radio | http://radiostream.pl/tuba9006-1.mp3
 TOK FM | http://radiostream.pl/tuba10-1.mp3
-Radio Weekend | http://stream.rcs.revma.com/vw8w2zwpsy3vv
+Radio Weekend FM | http://stream.rcs.revma.com/vw8w2zwpsy3vv
 Wasze Radio | https://sluchaj.link:5443/wasze
 Radio WNET | http://media.wnet.fm:80/wnet.fm
 Radio Nuta | http://stream.rcs.revma.com:80/0004tehdxzzuv

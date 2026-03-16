@@ -44,7 +44,7 @@ Haarlem Shuffle Radio | https://stream.tbmp.nl:8000/haarlemshuffle.flac
 Incondicionalmente Retro | http://v4.tustreaming.cl:18128/stream
 Insanity Radio | https://stream.cor.insanityradio.com/insanity.flac
 Intense Radio | http://secure.live-streams.nl/flac.flac
-JB Radio-2 | https://mediacp.jb-radio.net:8001/flac
+JB Radio | https://mediacp.jb-radio.net:8001/flac
 Joy Hits | http://joyhits.online/joyhits.flac.ogg
 Le Bon Mix | https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
 Le Son Parisien | http://stream.lesonparisien.com/live.flac
@@ -100,7 +100,6 @@ Lux Radio | http://live7.avf.ch/lux_main
 PureClassix Radio | http://mscp4.live-streams.nl:8140/flac.ogg
 Radio Campus Grenoble | https://live.campusgrenoble.org/dab
 Radio Haugaland | http://radioip.no:443/flac
-Radio Juventus | http://s2.audiostream.hu:8090/juventus_FLAC
 Radio Mast | https://streams.radiomast.io/ref-lossless-ogg-flac-stereo
 Radio Tornagaleones | http://tornagaleones.ddns.net:9000/stream
 RIO Radio Inter. Odivelas | http://c30.radioboss.fm:8510/autodj
@@ -126,3 +125,4 @@ TNM Radio | https://stream.tnm-radio.eu/ultra
 Riverside Radio | https://stream.and-stuff.nl:8443/riverside
 Radio 90FM Valencia | https://stream.radio90.fm:2002/stream
 Pure Radio Holland: Dance | https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_dance_channel/flac
+Radio Jeunes Rheims | http://stream.rjrradio.fr/rjr-dab.flac

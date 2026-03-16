@@ -215,9 +215,6 @@ Radio Akcja | https://s3.slotex.pl/shoutcast/7586/stream
 Radio Akord | http://s1.slotex.pl:7122
 Radio Anime24 | http://91.232.4.33:7028/Stream1
 Radio AOi | http://54.37.73.148:8000/stream
-Radio Apogeum | http://s1.slotex.pl:7512
-Radio Arkadia | http://s3.slotex.pl:7450
-Radio Beat | https://s3.slotex.pl/shoutcast/7816/stream
 Radio Bon Ton | https://streaming.inten.pl:8020/bonton.mp3
 Radio Cyberstacja.fm | http://sc.cyberstacja.pl:8000/radio.mp3
 Radio Disco-Mix | http://radiodd.cloud:8000

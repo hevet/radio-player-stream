@@ -35,7 +35,7 @@ Radio Kolor | http://stream.rcs.revma.com/nrfscb49xd3vv
 Radio Nakło | http://sluchaj2.107i5.fm/
 Radio Kujawy | http://radio.kujawy.info:9940/
 Radio Elka | http://live.elka.pl:8000/elkamp3
-Radio LUZ | http://radioluz.pwr.edu.pl:8000/luzhifi.mp3
+Akademickie Radio LUZ | http://radioluz.pwr.edu.pl:8000/luzhifi.mp3
 Pro-Radio | http://radiointernetowe.net:7802/
 Radio Szczecin | http://stream4.nadaje.com:11986/prs
 Radio Szczecin Extra | http://stream3.nadaje.com:8200/szczecinfm

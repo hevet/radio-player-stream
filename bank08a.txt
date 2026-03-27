@@ -112,7 +112,6 @@ Violent Forces Radio | https://tuneintoradio1.com:8000/stream.flac
 Violent Forces Radio (alt) | https://tuneintoradio1.com:8010/stream.flac
 Yes FM | http://live7.avf.ch:8000/yesfm_main
 Free Music Radio | http://stream.freemusicradio.nl:8100/stream.oga
-LapFox Radio | https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg
 MaXXima | http://maxxima.mine.nu:8000/maxx.ogg
 Pure Lounge Radio | https://mscp4.live-streams.nl:8142/lounge.ogg
 Radio Calico | http://radio3.radio-calico.com:8080/calico
@@ -123,6 +122,6 @@ Rlocale Radio | https://rlocale.org/listen/rlocale/rlocale-flac.ogg
 shadowfr69 Radio | https://radio.shadowfr69.eu/lossless
 TNM Radio | https://stream.tnm-radio.eu/ultra
 Riverside Radio | https://stream.and-stuff.nl:8443/riverside
-Radio 90FM Valencia | https://stream.radio90.fm:2002/stream
+Radio Energy | http://stream.radioenergy.to/stream
 Pure Radio Holland: Dance | https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_dance_channel/flac
 Radio Jeunes Rheims | http://stream.rjrradio.fr/rjr-dab.flac

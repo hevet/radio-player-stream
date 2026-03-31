@@ -80,7 +80,7 @@ Radio Plus | http://pl01.cdn.eurozet.pl/plu-waw.mp3
 Radio Warta | http://s1.slotex.pl:7446/;mp3
 Radio Warszawa | http://streaming01.technologicznie.net:8765/radio_warszawa.mp3
 Off Radio Kraków | http://stream4.nadaje.com:13332/offradiokrakow
-NDR N-JOY | http://www.ndr.de:80/resources/metadaten/audio/m3u/n-joy.m3u
+Radio Opole | http://dab.radio.opole.pl:8035/1
 Radio Opole 2 Kultura | http://dab.radio.opole.pl:8060/1
 Radio Wrocław Kultura | http://stream4.nadaje.com:9230/rwkultura
 Radio Zak | http://ra.man.lodz.pl:8000/radiozak6.mp3
@@ -169,7 +169,6 @@ Radio Wyżyny | https://stream.laut.fm/radiowyzyny
 Katolickie Radio Rzeszów | http://62.133.128.18:8040/
 Radio Opatów | http://stream2.nadaje.com:11144
 Płock FM | https://stream.rcs.revma.com/6qvcy46wmc9uv
-PR Opole | http://dab.radio.opole.pl:8035/1
 Pro-Radio Zgierz | http://radiointernetowe.net:7802
 Radio Andrychów | http://s1.slotex.pl:7424
 Radio Bogoria | http://s7.radiohost.pl:6050/

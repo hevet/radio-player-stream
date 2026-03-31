@@ -70,3 +70,4 @@ Starter FM Chilli | http://streaming.starterfm.com/radio/8050/chill192
 Starter Trance | http://streaming.starterfm.com/listen/trance/starter192
 Starter Bangaz | http://streaming.starterfm.com/radio/8020/bangaz192
 Starter FM | http://streaming.starterfm.com/radio/8010/starter192
+NDR N-JOY | http://www.ndr.de:80/resources/metadaten/audio/m3u/n-joy.m3u

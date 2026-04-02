@@ -230,3 +230,4 @@ Radio Diecezji Płockiej | http://s1.slotex.pl:7760
 Katolickie Radio Podlasie | http://s1.slotex.pl:7038
 Katolickie Radio Zamość | http://stream.rcs.revma.com/0n8y7mxcay8uv
 Radio Famka | http://stream4.nadaje.com:10118/famka
+Radio Egida | http://s3.slotex.pl:7536/stream/1/?sid=1

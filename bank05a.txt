@@ -50,7 +50,7 @@ RMF Latino | http://195.150.20.7/rmf_latino
 RMF Leniwa Niedziela | http://195.150.20.7/rmf_leniwa_niedziela
 RMF Love | http://195.150.20.7/rmf_love
 RMF Maxx | http://195.150.20.7/rmf_maxxx
-RMF Maxx New Hits | https://rs101-krk.rmfstream.pl/MAXX_NEW_HITS
+RMF Maxx New Hits | http://195.150.20.7/rmf_maxx_new_hits
 RMF Michael Jackson | http://195.150.20.7/rmf_Michael_Jackson
 RMF Muzyka Filmowa | http://195.150.20.7/rmf_muzyka_filmowa
 RMF Muzyka Klasyczna | http://195.150.20.7/rmf_muzyka_klasyczna

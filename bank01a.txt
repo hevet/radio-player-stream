@@ -230,3 +230,4 @@ Katolickie Radio Zamość | http://stream.rcs.revma.com/0n8y7mxcay8uv
 Radio Famka | http://stream4.nadaje.com:10118/famka
 Radio Egida | http://s3.slotex.pl:7536/stream/1/?sid=1
 Radio Oko | https://stream3.nadaje.com:8029/radiooko
+Radio Uniwersytet | https://www.radiouniwersytet.pl/ru192.mp3

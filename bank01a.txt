@@ -2,9 +2,9 @@ RMF FM | http://rmfstream1.interia.pl:80/rmf_fm
 RMF MAXX | http://rmfstream1.interia.pl:80/rmf_maxxx_byd
 RMF CLASSIC | http://rmfstream1.interia.pl:80//rmf_classic
 Radio Gra Toruń | http://217.74.72.6:80/radio_gra
-Radio ZET | http://22543.live.streamtheworld.com:80/RADIO_ZET.mp3
+Radio ZET | http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ZET.mp3
 ChiliZET | http://ch.cdn.eurozet.pl/chi-net.mp3
-Meloradio | http://25553.live.streamtheworld.com:80/MELORADIO.mp3
+Meloradio | http://ml.cdn.eurozet.pl/mel-trn.mp3
 Radio Hit Włocławek | http://46.170.199.85:8000/
 Mega Radio | http://stream.rcs.revma.com/q18ty3qhwzzuv
 VOX FM | http://ic2.smcdn.pl:80/3990-1.mp3

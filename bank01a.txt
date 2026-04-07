@@ -2,16 +2,16 @@ RMF FM | http://rmfstream1.interia.pl:80/rmf_fm
 RMF MAXX | http://rmfstream1.interia.pl:80/rmf_maxxx_byd
 RMF CLASSIC | http://rmfstream1.interia.pl:80//rmf_classic
 Radio Gra Toruń | http://217.74.72.6:80/radio_gra
-Radio ZET | http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ZET.mp3
-ChiliZET | http://playerservices.streamtheworld.com/api/livestream-redirect/CHILLI.mp3
-Meloradio | http://playerservices.streamtheworld.com/api/livestream-redirect/MELORADIO.mp3
+Radio ZET | http://22543.live.streamtheworld.com:80/RADIO_ZET.mp3
+ChiliZET | http://ch.cdn.eurozet.pl/chi-net.mp3
+Meloradio | http://25553.live.streamtheworld.com:80/MELORADIO.mp3
 Radio Hit Włocławek | http://46.170.199.85:8000/
 Mega Radio | http://stream.rcs.revma.com/q18ty3qhwzzuv
 VOX FM | http://ic2.smcdn.pl:80/3990-1.mp3
 ESKA ROCK | http://ic1.smcdn.pl/5380-1.mp3
 ESKA Bydgoszcz | http://ic2.smcdn.pl:80/2030-1.mp3
 Eska2 | http://ic2.smcdn.pl:80/1380-1.mp3
-Radio Plus Bydgoszcz | http://pl.cdn.eurozet.pl:80/plu-bdg.mp3
+Radio Plus Bydgoszcz | http://pl04.cdn.eurozet.pl/plu-bdg.mp3
 Radio Pogoda Bydgoszcz | http://radiostream.pl/tuba143-1.mp3
 Złote Przeboje Bydgoszcz | http://radiostream.pl/tuba8902-1.mp3
 Rock FM Bydgoszcz | http://217.182.76.63:8000/rfmweb
@@ -116,14 +116,12 @@ Radio ZET 2000 | http://zt03.cdn.eurozet.pl/ZET200.mp3?redirected=03
 skladankinetpl | http://s1.slotex.pl:7488/
 Radio Doxa | http://81.210.92.213:8000/play.mp3
 RockRadio1 | http://144.217.77.176:8000/
-45 Radio | https://stream1.themediasite.co.uk:7009/stream
 Radio Wolna Strefa | http://91.232.4.33:8186/stream
 Radio Bogoria 94,5 FM | https://ssl-1.radiohost.pl:6050/mp3
 Radio Ty i Ja - Szczecin | http://91.232.4.33:8868/Stream1
 Radio Kampus | https://stream.radiokampus.fm/kampus
 Radio Horyzont | http://s1.slotex.pl:7328/
 UJOT FM | http://stream.ujot.fm:80/
-Radio Derf - Blue Rock | http://178.19.96.111:8013/
 Radio Wielkopolska | http://217.182.76.63:8000/webstream
 Radio Alex | http://srv0.streamradiowy.eu:80/radioalex
 Radio Toruń | https://ssl-1.radiohost.pl:11512/stream
@@ -231,3 +229,4 @@ Katolickie Radio Podlasie | http://s1.slotex.pl:7038
 Katolickie Radio Zamość | http://stream.rcs.revma.com/0n8y7mxcay8uv
 Radio Famka | http://stream4.nadaje.com:10118/famka
 Radio Egida | http://s3.slotex.pl:7536/stream/1/?sid=1
+Radio Oko | https://stream3.nadaje.com:8029/radiooko

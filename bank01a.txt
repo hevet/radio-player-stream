@@ -233,3 +233,4 @@ Radio Oko | http://stream3.nadaje.com:8028/radiooko
 Radio Uniwersytet | https://www.radiouniwersytet.pl/ru192.mp3
 Radio Żuławy | http://n09.radiojar.com/q87xmtvrrg8uv
 Radio Sudety 24 | http://stream4.nadaje.com:15006/sudety24
+Radio Ostrowiec | http://s1.slotex.pl:7050/;

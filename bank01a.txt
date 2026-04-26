@@ -194,7 +194,7 @@ Radio Płońsk | http://stream.radioplonsk.pl:9360
 Radio Marconi - RM24 | https://stream12.hosterion.pl/stream/radiomarconi
 Radio Nadzieja | https://s5.radio.co/s34fca8455/listen
 Radio Niepokalanów | http://88-199-169-10.tktelekom.pl:7600/rn.mp3
-Radio Poznań | https://stream4.nadaje.com:8579/poznan_aac
+Radio Poznań | http://stream4.nadaje.com:8578/poznan_aac
 Radio Rzeszów | http://streaming.g-news.pl:8040/rzeszow
 Radio Słupsk | http://91.232.4.33:8240/stream
 Radio Świnoujście | http://185.243.52.116:8010

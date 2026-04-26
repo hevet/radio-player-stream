@@ -18,7 +18,7 @@ Rock FM Bydgoszcz | http://217.182.76.63:8000/rfmweb
 Rock Radio | http://radiostream.pl/tuba9006-1.mp3
 TOK FM | http://radiostream.pl/tuba10-1.mp3
 Radio Weekend FM | http://stream.rcs.revma.com/vw8w2zwpsy3vv
-Wasze Radio | https://sluchaj.link:5443/wasze
+Wasze Radio | http://sluchaj.link:8000/wasze
 Radio WNET | http://media.wnet.fm:80/wnet.fm
 Radio Nuta | http://stream.rcs.revma.com:80/0004tehdxzzuv
 Disco Radio | http://stream.rcs.revma.com:80/cvswvmyewzzuv

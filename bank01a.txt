@@ -42,14 +42,14 @@ Radio Szczecin Extra | http://stream3.nadaje.com:8200/szczecinfm
 Radio 5 Suwałki | http://streaming.radio5.com.pl:8880/radio5_suwalki
 Radio 7 | http://137.74.5.240:443/
 Radio 90 | http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
-Muzyczne Radio | https://stream1.dabcom.pl/mr_flac
+Muzyczne Radio | http://stream1.dabcom.pl/mr_flac
 Radio Starogard | http://stream.rcs.revma.com/5wegfyrra2zuv
-Radio Sochaczew | https://stream.radiosochaczew.pl//;stream.mp3
+Radio Sochaczew | http://79.188.161.82:8000/;
 Radio Imperium | http://91.193.208.21:8000/stream
 Radio Bielsko | http://n04a-eu.rcs.revma.com/062uq3z3kwzuv
 Radio Żnin | http://stream4.nadaje.com:8052/
 Radio Gold Live | http://s1.slotex.pl:7062/
-Radio Maryja | https://radiomaryja.fastcast4u.com/tunein/radiomaryja.pls
+Radio Maryja | http://radiomaryja.fastcast4u.com/tunein/radiomaryja.pls
 Radio Gdynia | http://51.255.8.139:8064/
 Radio 40plus | http://s1.slotex.pl:7178/listen.xtl?sid=1
 Radio Białystok | http://stream4.nadaje.com:15476/radiobialystok
@@ -194,7 +194,7 @@ Radio Płońsk | http://stream.radioplonsk.pl:9360
 Radio Marconi - RM24 | https://stream12.hosterion.pl/stream/radiomarconi
 Radio Nadzieja | https://s5.radio.co/s34fca8455/listen
 Radio Niepokalanów | http://88-199-169-10.tktelekom.pl:7600/rn.mp3
-Radio Poznań | http://stream4.nadaje.com:8578/poznan_aac
+Radio Poznań | https://stream4.nadaje.com:8579/poznan_aac
 Radio Rzeszów | http://streaming.g-news.pl:8040/rzeszow
 Radio Słupsk | http://91.232.4.33:8240/stream
 Radio Świnoujście | http://185.243.52.116:8010
@@ -231,3 +231,5 @@ Radio Famka | http://stream4.nadaje.com:10118/famka
 Radio Egida | http://s3.slotex.pl:7536/stream/1/?sid=1
 Radio Oko | http://stream3.nadaje.com:8028/radiooko
 Radio Uniwersytet | https://www.radiouniwersytet.pl/ru192.mp3
+Radio Żuławy | http://n09.radiojar.com/q87xmtvrrg8uv
+Radio Sudety 24 | http://stream4.nadaje.com:15006/sudety24

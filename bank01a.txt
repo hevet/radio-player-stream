@@ -173,20 +173,13 @@ Radio Bogoria | http://s7.radiohost.pl:6050/
 Radio Centrum Lublin | https://stream12.hosterion.pl/stream/akademickieradiocentrum
 Radio Centrum Rzeszów | http://62.93.41.27:8000
 Radio Dla Ciebie Płock | http://stream4.nadaje.com:14006/plock
-Radio Elka Głogów | http://live.elka.pl:8000/miedziowe.pl
-Radio Elka Leszno | http://live.elka.pl:8000/elka
 Radio Gniezno | http://stream3.nadaje.com:8012
 Radio Istebna | http://s1.slotex.pl:7870
-Radio Jura | http://streams.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
+Radio Jura | http://srv0.streamradiowy.eu/radiojura
 Radio Katowice | http://stream4.nadaje.com:9212/radiokatowice
-Radio Katowice Moje Radio | https://stream4.nadaje.com:8497/katowice_c
-Radio Kielce Folk | http://gra.radio.kielce.pl:8000/frmp3
-Radio Kołobrzeg | http://194.24.244.11:8000/
+Radio Kołobrzeg | http://194.24.244.11:8000/;
 Radio Koszalin | http://s0.radiohost.pl:8240/
-Radio Kraków Nowy Sącz | http://stream3.nadaje.com:9120/radiokrakow
-Radio Kraków Tarnów | http://stream3.nadaje.com:9118/radiokrakow
 Radio Łódź Extra | http://217.113.224.171:80/RadioLodz-2-HQ.aac
-Radio Łódź Nad Wartą | http://217.113.224.171:80/RadioLodz-NW-HQ.aac
 Radio Lublin | http://www.emsoft.ct8.pl/inne/rlublin.m3u
 Radio Malbork | http://stream3.nadaje.com:9022/
 Radio Olsztyn | https://rostr1.radioolsztyn.pl:8443/RO

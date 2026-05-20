@@ -41,7 +41,7 @@ Radio Szczecin | http://stream4.nadaje.com:11986/prs
 Radio Szczecin Extra | http://stream3.nadaje.com:8200/szczecinfm
 Radio 5 Suwałki | http://streaming.radio5.com.pl:8880/radio5_suwalki
 Radio 7 | http://137.74.5.240:443/
-Radio 90 | http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
+Radio 90 | http://srv1.streamradiowy.eu/radio90
 Muzyczne Radio | http://stream1.dabcom.pl/mr_flac
 Radio Starogard | http://stream.rcs.revma.com/5wegfyrra2zuv
 Radio Sochaczew | http://79.188.161.82:8000/;
